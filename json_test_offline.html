@@ -154,6 +154,22 @@
             font-size: 14px;
             margin-bottom: 20px;
         }
+        #speechResult {
+    	    background-color: #1c2025;
+    	    padding: 3px; /* Giảm padding để khung nhỏ hơn */
+    	    border-radius: 4px; /* Bo góc nhẹ */
+    	    margin: 10px auto;
+    	    text-align: center;
+    	    max-width: 600px; /* Giảm chiều rộng tối đa */
+    	    font-size: 14px; /* Giảm kích thước chữ */
+    	    display: none; /* Ẩn khung ban đầu */
+	}
+
+	#recognizedSpeech {
+    	    color: lightgreen;
+            font-weight: bold;    
+    	    font-size: 20px; /* Giảm kích thước chữ */
+	}
     </style>
 </head>
 <body>
@@ -172,7 +188,7 @@
 <textarea id="writingCheckBack" placeholder="Nhập câu trả lời mặt sau..." onkeydown="handleKeyDownBack(event)"></textarea>
 
 <div id="speechResult" style="display: none;">
-    <p>Bạn đã nói: <span id="recognizedSpeech"></span></p>
+    <p><span id="recognizedSpeech"></span></p>
 </div>
 <div id="notification"></div>
 <!-- Dropdown để chọn bài học -->
@@ -185,6 +201,10 @@
 <button id="repeatButton" onclick="repeatPronunciation()">Lặp Lại</button>
 <button id="autoFlipButton" onclick="toggleAutoFlip()">Tự Động</button>
 <button id="toggleModeButton" onclick="toggleMode()">Theo Thứ Tự</button>
+<div class="controls">
+    <input type="number" id="startQuestion" placeholder="Nhập số câu hỏi bắt đầu" min="1" max="138">
+    <button onclick="startSession()">Bắt Đầu Phiên Học</button>
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
@@ -201,6 +221,91 @@
     let audioMapping = []; // Lưu trữ thông tin âm thanh từ file JSON
     let recognition;
     let isSpeechRecognitionActive = false;
+    let sessionVocabList = []; // Danh sách từ vựng cho phiên học hiện tại
+let sessionStartIndex = 0; // Vị trí bắt đầu của phiên học
+
+function startSession() {
+    const startQuestion = parseInt(document.getElementById('startQuestion').value);
+    if (isNaN(startQuestion) || startQuestion < 1 || startQuestion > 138) {
+        alert("Vui lòng nhập số câu hỏi bắt đầu từ 1 đến 138.");
+        return;
+    }
+
+    sessionStartIndex = startQuestion - 1; // Chuyển đổi từ số câu hỏi sang chỉ mục (index)
+    sessionVocabList = vocabList.slice(sessionStartIndex, sessionStartIndex + 10); // Lấy 10 câu từ vị trí bắt đầu
+
+    if (sessionVocabList.length === 0) {
+        alert("Không có đủ câu hỏi để bắt đầu phiên học.");
+        return;
+    }
+
+    currentIndex = 0; // Đặt lại chỉ số hiện tại về 0
+    vocabList = sessionVocabList; // Sử dụng danh sách từ vựng của phiên học
+    displayWord(); // Hiển thị từ đầu tiên trong phiên học
+}
+
+function nextWord() {
+    if (vocabList.length === 0) return;
+
+    if (isRandomMode) {
+        clearTimeout(autoFlipTimeout); // Xóa timeout trước đó
+        currentIndex = Math.floor(Math.random() * vocabList.length);
+    } else {
+        clearTimeout(autoFlipTimeout); // Xóa timeout trước đó
+        currentIndex = (currentIndex + 1) % vocabList.length;
+    }
+
+    isFront = true; // Reset về mặt trước
+    displayWord();
+}
+
+function prevWord() {
+    if (vocabList.length === 0) return;
+
+    if (isRandomMode) {
+        clearTimeout(autoFlipTimeout); // Xóa timeout trước đó
+        currentIndex = Math.floor(Math.random() * vocabList.length);
+    } else {
+        clearTimeout(autoFlipTimeout); // Xóa timeout trước đó
+        currentIndex = (currentIndex - 1 + vocabList.length) % vocabList.length;
+    }
+
+    isFront = true; // Reset về mặt trước
+    displayWord();
+}
+
+function displayWord() {
+    if (vocabList.length > 0 && currentIndex < vocabList.length) {
+        const word = vocabList[currentIndex];
+        const frontCard = `
+            <div class="card">
+                <span class="term">${word[0]}</span><br>
+                <span class="ipa">${word[1]}</span><br>
+                <span class="vietnamese">${word[2]}</span><br>                    
+            </div>
+        `;
+        const backCard = `
+            <div class="card">
+                <span class="example">${word[3]}</span><br>
+                <span class="example_ipa">${word[4]}</span><br>
+                <span class="example_vi">${word[5]}</span>
+            </div>
+        `;
+        document.getElementById('vocabLabel').innerHTML = isFront ? frontCard : backCard;
+
+        // Phát âm thanh tương ứng với mặt thẻ
+        const pronunciationText = isFront ? word[0].toString() : word[3].toString();
+        playPronunciation(pronunciationText);
+    } else {
+        document.getElementById('vocabLabel').innerText = "Tất cả từ vựng đã hoàn thành.";
+    }
+    updateQuestionCounter(); // Cập nhật số câu hỏi mỗi lần hiển thị
+}
+
+function updateQuestionCounter() {
+    const questionCounter = document.getElementById('questionCounter');
+    questionCounter.innerText = `Câu hỏi: ${currentIndex + 1}/${vocabList.length}`;
+}
 
     // Danh sách các file bài học và mapping tương ứng
     const lessons = [
