@@ -259,6 +259,15 @@
         loadLesson(); // Tải bài học đầu tiên
     };
 
+    // resume AudioContext lỗi trong F12
+    document.addEventListener('click', function resumeAudio() {
+  if (Howler && Howler.ctx && Howler.ctx.state === 'suspended') {
+    Howler.ctx.resume().then(function() {
+      console.log('AudioContext đã được kích hoạt lại.');
+    });
+  }
+});
+
     function toggleMode() {
         isRandomMode = !isRandomMode;
         document.getElementById("toggleModeButton").innerText = isRandomMode ? "Chế độ: Ngẫu Nhiên" : "Chế độ: Theo Thứ Tự";
