@@ -1,0 +1,1186 @@
+[
+    {
+        "text": "What is the capital of the United States?",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_1_col0.mp3"
+    },
+    {
+        "text": "What is the capital of the United States?",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_1_col3.mp3"
+    },
+    {
+        "text": "Who was the first president?",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_2_col0.mp3"
+    },
+    {
+        "text": "Who was the first president?",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_2_col3.mp3"
+    },
+    {
+        "text": "When is Independence Day?",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_3_col0.mp3"
+    },
+    {
+        "text": "When is Independence Day?",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_3_col3.mp3"
+    },
+    {
+        "text": "The United States has 50 states.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_4_col0.mp3"
+    },
+    {
+        "text": "The United States has 50 states.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_4_col3.mp3"
+    },
+    {
+        "text": "The flag is red, white, and blue.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_5_col0.mp3"
+    },
+    {
+        "text": "The flag is red, white, and blue.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_5_col3.mp3"
+    },
+    {
+        "text": "George Washington was the first president.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_6_col0.mp3"
+    },
+    {
+        "text": "George Washington was the first president.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_6_col3.mp3"
+    },
+    {
+        "text": "We vote for the president in November.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_7_col0.mp3"
+    },
+    {
+        "text": "We vote for the president in November.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_7_col3.mp3"
+    },
+    {
+        "text": "The president lives in the White House.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_8_col0.mp3"
+    },
+    {
+        "text": "The president lives in the White House.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_8_col3.mp3"
+    },
+    {
+        "text": "The Congress meets in Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_9_col0.mp3"
+    },
+    {
+        "text": "The Congress meets in Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_9_col3.mp3"
+    },
+    {
+        "text": "The American flag has 13 stripes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_10_col0.mp3"
+    },
+    {
+        "text": "The American flag has 13 stripes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_10_col3.mp3"
+    },
+    {
+        "text": "There are three branches of government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_11_col0.mp3"
+    },
+    {
+        "text": "There are three branches of government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_11_col3.mp3"
+    },
+    {
+        "text": "The Supreme Court is the highest court.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_12_col0.mp3"
+    },
+    {
+        "text": "The Supreme Court is the highest court.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_12_col3.mp3"
+    },
+    {
+        "text": "Citizens can vote.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_13_col0.mp3"
+    },
+    {
+        "text": "Citizens can vote.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_13_col3.mp3"
+    },
+    {
+        "text": "The United States is a free country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_14_col0.mp3"
+    },
+    {
+        "text": "The United States is a free country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_14_col3.mp3"
+    },
+    {
+        "text": "We pay taxes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_15_col0.mp3"
+    },
+    {
+        "text": "We pay taxes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_15_col3.mp3"
+    },
+    {
+        "text": "The United States has a president.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_16_col0.mp3"
+    },
+    {
+        "text": "The United States has a president.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_16_col3.mp3"
+    },
+    {
+        "text": "The White House is in Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_17_col0.mp3"
+    },
+    {
+        "text": "The White House is in Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_17_col3.mp3"
+    },
+    {
+        "text": "The American flag has stars.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_18_col0.mp3"
+    },
+    {
+        "text": "The American flag has stars.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_18_col3.mp3"
+    },
+    {
+        "text": "People have freedom of speech.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_19_col0.mp3"
+    },
+    {
+        "text": "People have freedom of speech.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_19_col3.mp3"
+    },
+    {
+        "text": "The Constitution is the supreme law.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_20_col0.mp3"
+    },
+    {
+        "text": "The Constitution is the supreme law.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_20_col3.mp3"
+    },
+    {
+        "text": "The United States has 100 Senators.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_21_col0.mp3"
+    },
+    {
+        "text": "The United States has 100 Senators.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_21_col3.mp3"
+    },
+    {
+        "text": "We elect a President every 4 years.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_22_col0.mp3"
+    },
+    {
+        "text": "We elect a President every 4 years.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_22_col3.mp3"
+    },
+    {
+        "text": "The House of Representatives has 435 members.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_23_col0.mp3"
+    },
+    {
+        "text": "The House of Representatives has 435 members.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_23_col3.mp3"
+    },
+    {
+        "text": "Abraham Lincoln was the President during the Civil War.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_24_col0.mp3"
+    },
+    {
+        "text": "Abraham Lincoln was the President during the Civil War.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_24_col3.mp3"
+    },
+    {
+        "text": "The United States fought for independence.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_25_col0.mp3"
+    },
+    {
+        "text": "The United States fought for independence.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_25_col3.mp3"
+    },
+    {
+        "text": "Columbus discovered America in 1492.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_26_col0.mp3"
+    },
+    {
+        "text": "Columbus discovered America in 1492.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_26_col3.mp3"
+    },
+    {
+        "text": "The United States is a democracy.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_27_col0.mp3"
+    },
+    {
+        "text": "The United States is a democracy.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_27_col3.mp3"
+    },
+    {
+        "text": "The Declaration of Independence was written in 1776.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_28_col0.mp3"
+    },
+    {
+        "text": "The Declaration of Independence was written in 1776.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_28_col3.mp3"
+    },
+    {
+        "text": "The American people elect Congress.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_29_col0.mp3"
+    },
+    {
+        "text": "The American people elect Congress.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_29_col3.mp3"
+    },
+    {
+        "text": "Freedom of speech is important.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_30_col0.mp3"
+    },
+    {
+        "text": "Freedom of speech is important.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_30_col3.mp3"
+    },
+    {
+        "text": "George Washington is the Father of Our Country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_31_col0.mp3"
+    },
+    {
+        "text": "George Washington is the Father of Our Country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_31_col3.mp3"
+    },
+    {
+        "text": "There are 50 states in the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_32_col0.mp3"
+    },
+    {
+        "text": "There are 50 states in the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_32_col3.mp3"
+    },
+    {
+        "text": "Citizens have the right to vote.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_33_col0.mp3"
+    },
+    {
+        "text": "Citizens have the right to vote.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_33_col3.mp3"
+    },
+    {
+        "text": "The United States Constitution is the highest law.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_34_col0.mp3"
+    },
+    {
+        "text": "The United States Constitution is the highest law.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_34_col3.mp3"
+    },
+    {
+        "text": "The Bill of Rights is part of the Constitution.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_35_col0.mp3"
+    },
+    {
+        "text": "The Bill of Rights is part of the Constitution.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_35_col3.mp3"
+    },
+    {
+        "text": "Thomas Jefferson wrote the Declaration of Independence.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_36_col0.mp3"
+    },
+    {
+        "text": "Thomas Jefferson wrote the Declaration of Independence.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_36_col3.mp3"
+    },
+    {
+        "text": "The government has three branches.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_37_col0.mp3"
+    },
+    {
+        "text": "The government has three branches.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_37_col3.mp3"
+    },
+    {
+        "text": "The Stars and Stripes is the American flag.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_38_col0.mp3"
+    },
+    {
+        "text": "The Stars and Stripes is the American flag.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_38_col3.mp3"
+    },
+    {
+        "text": "The people elect the President.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_39_col0.mp3"
+    },
+    {
+        "text": "The people elect the President.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_39_col3.mp3"
+    },
+    {
+        "text": "The United States has a Constitution.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_40_col0.mp3"
+    },
+    {
+        "text": "The United States has a Constitution.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_40_col3.mp3"
+    },
+    {
+        "text": "The Constitution was written in 1787.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_41_col0.mp3"
+    },
+    {
+        "text": "The Constitution was written in 1787.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_41_col3.mp3"
+    },
+    {
+        "text": "The President is elected every four years.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_42_col0.mp3"
+    },
+    {
+        "text": "The President is elected every four years.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_42_col3.mp3"
+    },
+    {
+        "text": "Congress makes federal laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_43_col0.mp3"
+    },
+    {
+        "text": "Congress makes federal laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_43_col3.mp3"
+    },
+    {
+        "text": "The Senate has 100 members.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_44_col0.mp3"
+    },
+    {
+        "text": "The Senate has 100 members.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_44_col3.mp3"
+    },
+    {
+        "text": "The House of Representatives has 435 voting members.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_45_col0.mp3"
+    },
+    {
+        "text": "The House of Representatives has 435 voting members.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_45_col3.mp3"
+    },
+    {
+        "text": "The Supreme Court is the highest court in the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_46_col0.mp3"
+    },
+    {
+        "text": "The Supreme Court is the highest court in the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_46_col3.mp3"
+    },
+    {
+        "text": "The first ten amendments are called the Bill of Rights.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_47_col0.mp3"
+    },
+    {
+        "text": "The first ten amendments are called the Bill of Rights.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_47_col3.mp3"
+    },
+    {
+        "text": "The President signs bills into law.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_48_col0.mp3"
+    },
+    {
+        "text": "The President signs bills into law.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_48_col3.mp3"
+    },
+    {
+        "text": "We celebrate Independence Day on July 4.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_49_col0.mp3"
+    },
+    {
+        "text": "We celebrate Independence Day on July 4.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_49_col3.mp3"
+    },
+    {
+        "text": "The President is the Commander in Chief of the military.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_50_col0.mp3"
+    },
+    {
+        "text": "The President is the Commander in Chief of the military.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_50_col3.mp3"
+    },
+    {
+        "text": "The American flag has 50 stars.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_51_col0.mp3"
+    },
+    {
+        "text": "The American flag has 50 stars.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_51_col3.mp3"
+    },
+    {
+        "text": "Benjamin Franklin was a U.S. diplomat.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_52_col0.mp3"
+    },
+    {
+        "text": "Benjamin Franklin was a U.S. diplomat.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_52_col3.mp3"
+    },
+    {
+        "text": "The Civil War was between the North and the South.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_53_col0.mp3"
+    },
+    {
+        "text": "The Civil War was between the North and the South.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_53_col3.mp3"
+    },
+    {
+        "text": "Martin Luther King Jr. fought for civil rights.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_54_col0.mp3"
+    },
+    {
+        "text": "Martin Luther King Jr. fought for civil rights.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_54_col3.mp3"
+    },
+    {
+        "text": "The United States bought Louisiana from France in 1803.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_55_col0.mp3"
+    },
+    {
+        "text": "The United States bought Louisiana from France in 1803.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_55_col3.mp3"
+    },
+    {
+        "text": "The Emancipation Proclamation freed the slaves.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_56_col0.mp3"
+    },
+    {
+        "text": "The Emancipation Proclamation freed the slaves.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_56_col3.mp3"
+    },
+    {
+        "text": "The Great Depression was a difficult time in U.S. history.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_57_col0.mp3"
+    },
+    {
+        "text": "The Great Depression was a difficult time in U.S. history.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_57_col3.mp3"
+    },
+    {
+        "text": "Alaska is the largest state.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_58_col0.mp3"
+    },
+    {
+        "text": "Alaska is the largest state.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_58_col3.mp3"
+    },
+    {
+        "text": "The Statue of Liberty is in New York.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_59_col0.mp3"
+    },
+    {
+        "text": "The Statue of Liberty is in New York.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_59_col3.mp3"
+    },
+    {
+        "text": "The Pacific Ocean is on the West Coast of the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_60_col0.mp3"
+    },
+    {
+        "text": "The Pacific Ocean is on the West Coast of the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_60_col3.mp3"
+    },
+    {
+        "text": "The Atlantic Ocean is on the East Coast of the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_61_col0.mp3"
+    },
+    {
+        "text": "The Atlantic Ocean is on the East Coast of the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_61_col3.mp3"
+    },
+    {
+        "text": "The United States shares a border with Canada.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_62_col0.mp3"
+    },
+    {
+        "text": "The United States shares a border with Canada.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_62_col3.mp3"
+    },
+    {
+        "text": "The United States shares a border with Mexico.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_63_col0.mp3"
+    },
+    {
+        "text": "The United States shares a border with Mexico.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_63_col3.mp3"
+    },
+    {
+        "text": "Washington, D.C. is the capital of the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_64_col0.mp3"
+    },
+    {
+        "text": "Washington, D.C. is the capital of the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_64_col3.mp3"
+    },
+    {
+        "text": "The Liberty Bell is in Philadelphia.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_65_col0.mp3"
+    },
+    {
+        "text": "The Liberty Bell is in Philadelphia.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_65_col3.mp3"
+    },
+    {
+        "text": "The Mississippi River is the longest river in the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_66_col0.mp3"
+    },
+    {
+        "text": "The Mississippi River is the longest river in the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_66_col3.mp3"
+    },
+    {
+        "text": "Mount Rushmore has the faces of 4 Presidents.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_67_col0.mp3"
+    },
+    {
+        "text": "Mount Rushmore has the faces of 4 Presidents.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_67_col3.mp3"
+    },
+    {
+        "text": "The U.S. flag has 13 stripes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_68_col0.mp3"
+    },
+    {
+        "text": "The U.S. flag has 13 stripes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_68_col3.mp3"
+    },
+    {
+        "text": "The stripes on the flag represent the original 13 colonies.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_69_col0.mp3"
+    },
+    {
+        "text": "The stripes on the flag represent the original 13 colonies.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_69_col3.mp3"
+    },
+    {
+        "text": "The stars on the flag represent the 50 states.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_70_col0.mp3"
+    },
+    {
+        "text": "The stars on the flag represent the 50 states.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_70_col3.mp3"
+    },
+    {
+        "text": "Independence Day is in July.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_71_col0.mp3"
+    },
+    {
+        "text": "Independence Day is in July.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_71_col3.mp3"
+    },
+    {
+        "text": "Thanksgiving is in November.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_72_col0.mp3"
+    },
+    {
+        "text": "Thanksgiving is in November.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_72_col3.mp3"
+    },
+    {
+        "text": "Labor Day is in September.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_73_col0.mp3"
+    },
+    {
+        "text": "Labor Day is in September.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_73_col3.mp3"
+    },
+    {
+        "text": "Memorial Day is in May.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_74_col0.mp3"
+    },
+    {
+        "text": "Memorial Day is in May.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_74_col3.mp3"
+    },
+    {
+        "text": "The U.S. flag is red, white, and blue.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_75_col0.mp3"
+    },
+    {
+        "text": "The U.S. flag is red, white, and blue.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_75_col3.mp3"
+    },
+    {
+        "text": "We pay taxes to the government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_76_col0.mp3"
+    },
+    {
+        "text": "We pay taxes to the government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_76_col3.mp3"
+    },
+    {
+        "text": "Citizens can vote in elections.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_77_col0.mp3"
+    },
+    {
+        "text": "Citizens can vote in elections.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_77_col3.mp3"
+    },
+    {
+        "text": "The people elect Congress.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_78_col0.mp3"
+    },
+    {
+        "text": "The people elect Congress.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_78_col3.mp3"
+    },
+    {
+        "text": "The United States has 3 branches of government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_79_col0.mp3"
+    },
+    {
+        "text": "The United States has 3 branches of government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_79_col3.mp3"
+    },
+    {
+        "text": "Congress meets in Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_80_col0.mp3"
+    },
+    {
+        "text": "Congress meets in Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_80_col3.mp3"
+    },
+    {
+        "text": "We have the right to vote.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_81_col0.mp3"
+    },
+    {
+        "text": "We have the right to vote.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_81_col3.mp3"
+    },
+    {
+        "text": "Citizens have rights and responsibilities.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_82_col0.mp3"
+    },
+    {
+        "text": "Citizens have rights and responsibilities.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_82_col3.mp3"
+    },
+    {
+        "text": "Abraham Lincoln freed the slaves.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_83_col0.mp3"
+    },
+    {
+        "text": "Abraham Lincoln freed the slaves.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_83_col3.mp3"
+    },
+    {
+        "text": "The Civil War ended slavery.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_84_col0.mp3"
+    },
+    {
+        "text": "The Civil War ended slavery.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_84_col3.mp3"
+    },
+    {
+        "text": "The Constitution is the supreme law of the land.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_85_col0.mp3"
+    },
+    {
+        "text": "The Constitution is the supreme law of the land.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_85_col3.mp3"
+    },
+    {
+        "text": "The capital of the United States is Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_86_col0.mp3"
+    },
+    {
+        "text": "The capital of the United States is Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_86_col3.mp3"
+    },
+    {
+        "text": "The President is elected in November.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_87_col0.mp3"
+    },
+    {
+        "text": "The President is elected in November.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_87_col3.mp3"
+    },
+    {
+        "text": "The United States has freedom of religion.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_88_col0.mp3"
+    },
+    {
+        "text": "The United States has freedom of religion.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_88_col3.mp3"
+    },
+    {
+        "text": "The American flag is a symbol of freedom.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_89_col0.mp3"
+    },
+    {
+        "text": "The American flag is a symbol of freedom.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_89_col3.mp3"
+    },
+    {
+        "text": "The American flag is red, white, and blue.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_90_col0.mp3"
+    },
+    {
+        "text": "The American flag is red, white, and blue.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_90_col3.mp3"
+    },
+    {
+        "text": "The U.S. Constitution is the supreme law.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_91_col0.mp3"
+    },
+    {
+        "text": "The U.S. Constitution is the supreme law.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_91_col3.mp3"
+    },
+    {
+        "text": "The United States has three branches of government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_92_col0.mp3"
+    },
+    {
+        "text": "The United States has three branches of government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_92_col3.mp3"
+    },
+    {
+        "text": "We celebrate Independence Day in July.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_93_col0.mp3"
+    },
+    {
+        "text": "We celebrate Independence Day in July.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_93_col3.mp3"
+    },
+    {
+        "text": "The United States is a country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_94_col0.mp3"
+    },
+    {
+        "text": "The United States is a country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_94_col3.mp3"
+    },
+    {
+        "text": "The President works in the White House.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_95_col0.mp3"
+    },
+    {
+        "text": "The President works in the White House.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_95_col3.mp3"
+    },
+    {
+        "text": "The people vote for the President.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_96_col0.mp3"
+    },
+    {
+        "text": "The people vote for the President.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_96_col3.mp3"
+    },
+    {
+        "text": "The United States has a Congress.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_97_col0.mp3"
+    },
+    {
+        "text": "The United States has a Congress.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_97_col3.mp3"
+    },
+    {
+        "text": "People in the U.S. have freedom of speech.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_98_col0.mp3"
+    },
+    {
+        "text": "People in the U.S. have freedom of speech.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_98_col3.mp3"
+    },
+    {
+        "text": "The first President was George Washington.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_99_col0.mp3"
+    },
+    {
+        "text": "The first President was George Washington.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_99_col3.mp3"
+    },
+    {
+        "text": "We have a Bill of Rights.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_100_col0.mp3"
+    },
+    {
+        "text": "We have a Bill of Rights.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_100_col3.mp3"
+    },
+    {
+        "text": "The U.S. Constitution was written in 1787.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_101_col0.mp3"
+    },
+    {
+        "text": "The U.S. Constitution was written in 1787.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_101_col3.mp3"
+    },
+    {
+        "text": "We pay taxes every year.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_102_col0.mp3"
+    },
+    {
+        "text": "We pay taxes every year.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_102_col3.mp3"
+    },
+    {
+        "text": "The United States has a strong economy.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_103_col0.mp3"
+    },
+    {
+        "text": "The United States has a strong economy.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_103_col3.mp3"
+    },
+    {
+        "text": "The military protects the country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_104_col0.mp3"
+    },
+    {
+        "text": "The military protects the country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_104_col3.mp3"
+    },
+    {
+        "text": "The American flag stands for freedom.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_105_col0.mp3"
+    },
+    {
+        "text": "The American flag stands for freedom.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_105_col3.mp3"
+    },
+    {
+        "text": "The government is elected by the people.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_106_col0.mp3"
+    },
+    {
+        "text": "The government is elected by the people.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_106_col3.mp3"
+    },
+    {
+        "text": "The United States is one nation.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_107_col0.mp3"
+    },
+    {
+        "text": "The United States is one nation.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_107_col3.mp3"
+    },
+    {
+        "text": "The President lives in Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_108_col0.mp3"
+    },
+    {
+        "text": "The President lives in Washington, D.C.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_108_col3.mp3"
+    },
+    {
+        "text": "Freedom of speech is a right.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_109_col0.mp3"
+    },
+    {
+        "text": "Freedom of speech is a right.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_109_col3.mp3"
+    },
+    {
+        "text": "The U.S. has a Constitution.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_110_col0.mp3"
+    },
+    {
+        "text": "The U.S. has a Constitution.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_110_col3.mp3"
+    },
+    {
+        "text": "Congress meets in the Capitol.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_111_col0.mp3"
+    },
+    {
+        "text": "Congress meets in the Capitol.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_111_col3.mp3"
+    },
+    {
+        "text": "The Supreme Court is part of the government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_112_col0.mp3"
+    },
+    {
+        "text": "The Supreme Court is part of the government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_112_col3.mp3"
+    },
+    {
+        "text": "The White House is where the President lives.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_113_col0.mp3"
+    },
+    {
+        "text": "The White House is where the President lives.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_113_col3.mp3"
+    },
+    {
+        "text": "People pay taxes to the government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_114_col0.mp3"
+    },
+    {
+        "text": "People pay taxes to the government.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_114_col3.mp3"
+    },
+    {
+        "text": "The American flag has red and white stripes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_115_col0.mp3"
+    },
+    {
+        "text": "The American flag has red and white stripes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_115_col3.mp3"
+    },
+    {
+        "text": "The President is the leader of the country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_116_col0.mp3"
+    },
+    {
+        "text": "The President is the leader of the country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_116_col3.mp3"
+    },
+    {
+        "text": "We celebrate Presidents' Day in February.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_117_col0.mp3"
+    },
+    {
+        "text": "We celebrate Presidents' Day in February.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_117_col3.mp3"
+    },
+    {
+        "text": "The American government has three branches.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_118_col0.mp3"
+    },
+    {
+        "text": "The American government has three branches.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_118_col3.mp3"
+    },
+    {
+        "text": "The people elect their leaders.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_119_col0.mp3"
+    },
+    {
+        "text": "The people elect their leaders.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_119_col3.mp3"
+    },
+    {
+        "text": "The military defends the country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_120_col0.mp3"
+    },
+    {
+        "text": "The military defends the country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_120_col3.mp3"
+    },
+    {
+        "text": "The United States is called America.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_121_col0.mp3"
+    },
+    {
+        "text": "The United States is called America.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_121_col3.mp3"
+    },
+    {
+        "text": "Congress writes the laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_122_col0.mp3"
+    },
+    {
+        "text": "Congress writes the laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_122_col3.mp3"
+    },
+    {
+        "text": "The Supreme Court has nine justices.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_123_col0.mp3"
+    },
+    {
+        "text": "The Supreme Court has nine justices.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_123_col3.mp3"
+    },
+    {
+        "text": "Freedom of religion is important.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_124_col0.mp3"
+    },
+    {
+        "text": "Freedom of religion is important.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_124_col3.mp3"
+    },
+    {
+        "text": "The American people vote for leaders.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_125_col0.mp3"
+    },
+    {
+        "text": "The American people vote for leaders.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_125_col3.mp3"
+    },
+    {
+        "text": "The U.S. government has three parts.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_126_col0.mp3"
+    },
+    {
+        "text": "The U.S. government has three parts.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_126_col3.mp3"
+    },
+    {
+        "text": "The President is the Commander-in-Chief.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_127_col0.mp3"
+    },
+    {
+        "text": "The President is the Commander-in-Chief.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_127_col3.mp3"
+    },
+    {
+        "text": "The government collects taxes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_128_col0.mp3"
+    },
+    {
+        "text": "The government collects taxes.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_128_col3.mp3"
+    },
+    {
+        "text": "The Vice President helps the President.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_129_col0.mp3"
+    },
+    {
+        "text": "The Vice President helps the President.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_129_col3.mp3"
+    },
+    {
+        "text": "The American people have many rights.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_130_col0.mp3"
+    },
+    {
+        "text": "The American people have many rights.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_130_col3.mp3"
+    },
+    {
+        "text": "The flag stands for the country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_131_col0.mp3"
+    },
+    {
+        "text": "The flag stands for the country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_131_col3.mp3"
+    },
+    {
+        "text": "Washington was the first President.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_132_col0.mp3"
+    },
+    {
+        "text": "Washington was the first President.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_132_col3.mp3"
+    },
+    {
+        "text": "The U.S. has a strong military.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_133_col0.mp3"
+    },
+    {
+        "text": "The U.S. has a strong military.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_133_col3.mp3"
+    },
+    {
+        "text": "The American people respect the flag.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_134_col0.mp3"
+    },
+    {
+        "text": "The American people respect the flag.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_134_col3.mp3"
+    },
+    {
+        "text": "The government makes laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_135_col0.mp3"
+    },
+    {
+        "text": "The government makes laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_135_col3.mp3"
+    },
+    {
+        "text": "We celebrate Memorial Day in May.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_136_col0.mp3"
+    },
+    {
+        "text": "We celebrate Memorial Day in May.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_136_col3.mp3"
+    },
+    {
+        "text": "The American flag has red, white, and blue.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_137_col0.mp3"
+    },
+    {
+        "text": "The American flag has red, white, and blue.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_137_col3.mp3"
+    },
+    {
+        "text": "The Constitution has laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_138_col0.mp3"
+    },
+    {
+        "text": "The Constitution has laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_138_col3.mp3"
+    },
+    {
+        "text": "The United States is a big country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_139_col0.mp3"
+    },
+    {
+        "text": "The United States is a big country.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_139_col3.mp3"
+    },
+    {
+        "text": "The President and Congress make laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_140_col0.mp3"
+    },
+    {
+        "text": "The President and Congress make laws.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_140_col3.mp3"
+    },
+    {
+        "text": "The government is for the people.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_141_col0.mp3"
+    },
+    {
+        "text": "The government is for the people.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_141_col3.mp3"
+    },
+    {
+        "text": "The U.S. has fifty states.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_142_col0.mp3"
+    },
+    {
+        "text": "The U.S. has fifty states.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_142_col3.mp3"
+    },
+    {
+        "text": "The President is elected by the people.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_143_col0.mp3"
+    },
+    {
+        "text": "The President is elected by the people.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_143_col3.mp3"
+    },
+    {
+        "text": "The Supreme Court has nine judges.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_144_col0.mp3"
+    },
+    {
+        "text": "The Supreme Court has nine judges.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_144_col3.mp3"
+    },
+    {
+        "text": "The flag is a symbol of the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_145_col0.mp3"
+    },
+    {
+        "text": "The flag is a symbol of the United States.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_145_col3.mp3"
+    },
+    {
+        "text": "People in America have freedom.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_146_col0.mp3"
+    },
+    {
+        "text": "People in America have freedom.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_146_col3.mp3"
+    },
+    {
+        "text": "The government makes laws for the people.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_147_col0.mp3"
+    },
+    {
+        "text": "The government makes laws for the people.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_147_col3.mp3"
+    },
+    {
+        "text": "The Bill of Rights is in the Constitution.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_148_col0.mp3"
+    },
+    {
+        "text": "The Bill of Rights is in the Constitution.",
+        "file": "audio_read_write_TQT/audio_read_write_TQT_148_col3.mp3"
+    }
+]

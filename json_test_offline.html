@@ -17,7 +17,7 @@
             text-align: center;
         }
         #vocabLabel {
-            font-size: 34px;
+            font-size: 30px;
             margin: 20px 0;
             border: 2px solid #61dafb;
             padding: 10px;
@@ -66,7 +66,7 @@
             background-color: #21a1f1;
         }
         #questionCounter {
-            font-size: 20px;
+            font-size: 16px;
             color: white;
             text-align: center;
             font-weight: bold;
@@ -128,7 +128,7 @@
             margin: 10px auto;
             text-align: center;
             border-radius: 4px;
-            font-size: 18px;
+            font-size: 16px;
         }
         #speechResult {
             background-color: #1c2025;
@@ -151,7 +151,7 @@
         }
         #lessonSelector {
             padding: 10px;
-            font-size: 16px;
+            font-size: 14px;
             margin-bottom: 20px;
         }
     </style>
@@ -183,9 +183,9 @@
 <button onclick="prevWord()">Trước</button>
 <button onclick="flipCard()">Lật Thẻ</button>
 <button onclick="nextWord()">Tiếp Theo</button>
-<button id="autoFlipButton" onclick="toggleAutoFlip()">Tự Động</button>
 <button id="repeatButton" onclick="repeatPronunciation()">Lặp Lại</button>
-<button id="toggleModeButton" onclick="toggleMode()">Chế độ: Theo Thứ Tự</button>
+<button id="autoFlipButton" onclick="toggleAutoFlip()">Tự Động</button>
+<button id="toggleModeButton" onclick="toggleMode()">Theo Thứ Tự</button>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
@@ -205,7 +205,8 @@
 
     // Danh sách các file bài học và mapping tương ứng
     const lessons = [
-        { name: 'TQT_100.json', mapping: 'mapping_TQT_100.json' }        
+        { name: 'TQT_100.json', mapping: 'mapping_TQT_100.json' },
+        { name: 'read_write_TQT.json', mapping: 'mapping_read_write_TQT.json' }       
         // Thêm các bài học khác nếu cần
     ];
 
@@ -270,7 +271,7 @@
 
     function toggleMode() {
         isRandomMode = !isRandomMode;
-        document.getElementById("toggleModeButton").innerText = isRandomMode ? "Chế độ: Ngẫu Nhiên" : "Chế độ: Theo Thứ Tự";
+        document.getElementById("toggleModeButton").innerText = isRandomMode ? "Ngẫu Nhiên" : "Theo Thứ Tự";
     }
 
     document.addEventListener('keydown', function(event) {
