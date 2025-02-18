@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -157,10 +158,6 @@
 </head>
 <body>
 
-<!-- Dropdown để chọn bài học -->
-<select id="lessonSelector" onchange="loadLesson()">
-    <!-- Các tùy chọn sẽ được thêm tự động bằng JavaScript -->
-</select>
 
 <div style="text-align: center;">
     <div id="questionCounter">Câu hỏi: 0/0</div>
@@ -170,16 +167,19 @@
 
 <!-- Nhóm các nút kiểm tra -->
 <div class="controls">
-    <button id="checkAnswerButton" onclick="checkAnswer()">Kiểm Tra</button>
-    <button id="speakCheckButton" onclick="startSpeechRecognition()">Kiểm Tra Nói</button>
-    <button id="checkAnswerBackButton" onclick="checkAnswerBack()">Kiểm Tra Mặt Sau</button>
+    <button id="checkAnswerButton" onclick="checkAnswer()">Kiểm Tra</button><button id="checkAnswerBackButton" onclick="checkAnswerBack()">Kiểm Tra Mặt Sau</button>
+    <button id="speakCheckButton" onclick="startSpeechRecognition()">Kiểm Tra Nói</button>    
 </div>
+<textarea id="writingCheckBack" placeholder="Nhập câu trả lời mặt sau..." onkeydown="handleKeyDownBack(event)"></textarea>
 
 <div id="speechResult" style="display: none;">
     <p>Bạn đã nói: <span id="recognizedSpeech"></span></p>
 </div>
 <div id="notification"></div>
-
+<!-- Dropdown để chọn bài học -->
+<select id="lessonSelector" onchange="loadLesson()">
+    <!-- Các tùy chọn sẽ được thêm tự động bằng JavaScript -->
+</select>
 <button onclick="prevWord()">Trước</button>
 <button onclick="flipCard()">Lật Thẻ</button>
 <button onclick="nextWord()">Tiếp Theo</button>
@@ -517,7 +517,7 @@
             // Đợi 3 giây trước khi chuyển sang từ tiếp theo
             setTimeout(() => {
                 nextWord();
-            }, 3000); // 3000 milliseconds = 3 giây
+            }, 4000); // 4000 milliseconds = 4 giây
         } else {
             showNotification("Sai!", false);
             flipCardToBack(); // Hiển thị mặt sau nếu câu trả lời sai
@@ -576,6 +576,7 @@
             }, 3000); // Đợi 3 giây trước khi chuyển sang từ tiếp theo
         } else {
             showNotification("Sai!", false);
+	    flipCardToBack(); // Hiển thị mặt sau nếu câu trả lời sai
             // Phát lại câu đúng khi nói sai
             playPronunciation(word[3]);
         }
