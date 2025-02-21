@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thi Quoc Tich</title>
-    <style>
+    <style>    
         body {
             font-family: 'Arial', sans-serif;
             background-color: #282c34;
@@ -30,10 +30,16 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             text-align: center;
         }
+    </style>
+    
+    <style id="dynamic-style">    
         .term {
             color: lightgreen;
             font-weight: bold;
         }
+    </style>
+
+    <style>
         .ipa {
             color: yellow;
         }
@@ -191,16 +197,20 @@
     <p><span id="recognizedSpeech"></span></p>
 </div>
 <div id="notification"></div>
-<!-- Dropdown để chọn bài học -->
-<select id="lessonSelector" onchange="loadLesson()">
-    <!-- Các tùy chọn sẽ được thêm tự động bằng JavaScript -->
+
 </select>
+<button onclick="toggleStyle()">Đổi màu</button>
 <button onclick="prevWord()">Trước</button>
 <button onclick="flipCard()">Lật Thẻ</button>
 <button onclick="nextWord()">Tiếp Theo</button>
 <button id="repeatButton" onclick="repeatPronunciation()">Lặp Lại</button>
 <button id="autoFlipButton" onclick="toggleAutoFlip()">Tự Động</button>
 <button id="toggleModeButton" onclick="toggleMode()">Theo Thứ Tự</button>
+
+<!-- Dropdown để chọn bài học -->
+<select id="lessonSelector" onchange="loadLesson()">
+    <!-- Các tùy chọn sẽ được thêm tự động bằng JavaScript -->
+
 <div class="controls">
     <input type="number" id="startQuestion" placeholder="Nhập số câu hỏi bắt đầu" min="1" max="138">
     <input type="number" id="questionCount" placeholder="Số câu hỏi" min="1" max="138">
@@ -224,6 +234,16 @@
     let isSpeechRecognitionActive = false;
     let sessionVocabList = []; // Danh sách từ vựng cho phiên học hiện tại
     let sessionStartIndex = 0; // Vị trí bắt đầu của phiên học
+
+function toggleStyle() {
+    let styleTag = document.getElementById("dynamic-style");
+
+    if (styleTag.innerHTML.includes("lightgreen")) {
+        styleTag.innerHTML = ".term { color: #1c2025; font-weight: bold; }";
+    } else {
+        styleTag.innerHTML = ".term { color: lightgreen; font-weight: bold; }";
+    }
+}
 
 function startSession() {
     const startQuestion = parseInt(document.getElementById('startQuestion').value);
