@@ -203,6 +203,7 @@
 <button id="toggleModeButton" onclick="toggleMode()">Theo Thứ Tự</button>
 <div class="controls">
     <input type="number" id="startQuestion" placeholder="Nhập số câu hỏi bắt đầu" min="1" max="138">
+    <input type="number" id="questionCount" placeholder="Số câu hỏi" min="1" max="138">
     <button onclick="startSession()">Bắt Đầu Phiên Học</button>
 </div>
 
@@ -222,17 +223,24 @@
     let recognition;
     let isSpeechRecognitionActive = false;
     let sessionVocabList = []; // Danh sách từ vựng cho phiên học hiện tại
-let sessionStartIndex = 0; // Vị trí bắt đầu của phiên học
+    let sessionStartIndex = 0; // Vị trí bắt đầu của phiên học
 
 function startSession() {
     const startQuestion = parseInt(document.getElementById('startQuestion').value);
+    const questionCount = parseInt(document.getElementById('questionCount').value) || 10; // Mặc định 10 nếu không nhập gì
+
     if (isNaN(startQuestion) || startQuestion < 1 || startQuestion > 138) {
         alert("Vui lòng nhập số câu hỏi bắt đầu từ 1 đến 138.");
         return;
     }
 
+    if (isNaN(questionCount) || questionCount < 1 || questionCount > 138) {
+        alert("Vui lòng nhập số câu hỏi hợp lệ (tối đa 138).");
+        return;
+    }
+
     sessionStartIndex = startQuestion - 1; // Chuyển đổi từ số câu hỏi sang chỉ mục (index)
-    sessionVocabList = vocabList.slice(sessionStartIndex, sessionStartIndex + 10); // Lấy 10 câu từ vị trí bắt đầu
+    sessionVocabList = vocabList.slice(sessionStartIndex, sessionStartIndex + questionCount); // Lấy số câu đã chọn
 
     if (sessionVocabList.length === 0) {
         alert("Không có đủ câu hỏi để bắt đầu phiên học.");
