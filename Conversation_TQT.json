@@ -1,0 +1,162 @@
+[
+    [
+        "What is your full name?",
+        "/wʌt ɪz jʊər fʊl neɪm/",
+        "Tên đầy đủ của bạn là gì?",
+        "My full name is Thi Kim Quyen Le",
+        "/maɪ fʊl neɪm ɪz/",
+        "Tên đầy đủ của tôi là..."
+    ],
+    [
+        "Where were you born?",
+        "/wɛr wɜr ju bɔrn/",
+        "Bạn sinh ra ở đâu?",
+        "I was born in Vietnam, Hue",
+        "/aɪ wəz bɔrn ɪn/",
+        "Tôi sinh ra ở..."
+    ],
+    [
+        "What is your current address?",
+        "/wʌt ɪz jʊər kɜrənt ædrɛs/",
+        "Địa chỉ hiện tại của bạn là gì?",
+        "My current address is 3311 Kifer Rd Apt 212 Santa Clara California 95051.",
+        "/maɪ kɜrənt ædrɛs ɪz/",
+        "Địa chỉ hiện tại của tôi là..."
+    ],
+    [
+        "What do you do for a living?",
+        "/wʌt du ju du fɔr ə ˈlɪvɪŋ/",
+        "Bạn làm nghề gì?",
+        "I am a housewife.",
+        "/aɪ əm ə/",
+        "Tôi là..."
+    ],
+    [
+        "Have you ever been arrested?",
+        "/hæv ju ˈɛvər bɪn əˈrɛstɪd/",
+        "Bạn đã bao giờ bị bắt chưa?",
+        "No, I have never been arrested.",
+        "/noʊ aɪ hæv ˈnɛvər bɪn əˈrɛstɪd/",
+        "Không, tôi chưa từng bị bắt."
+    ],
+    [
+        "What is your phone number?",
+        "/wʌt ɪz jʊər foʊn ˈnʌmbər/",
+        "Số điện thoại của bạn là gì?",
+        "My phone number is 408 594 8589",
+        "/maɪ foʊn ˈnʌmbər ɪz/",
+        "Số điện thoại của tôi là..."
+    ],
+    [
+        "Do you have any children?",
+        "/du ju hæv ˈɛnɪ ˈʧɪldrən/",
+        "Bạn có con không?",
+        "Yes, I have four children.",
+        "/jɛs aɪ hæv... / noʊ aɪ doʊnt hæv ˈɛnɪ ˈʧɪldrən/",
+        "Vâng, tôi có... / Không, tôi không có con."
+    ],
+    [
+        "What is your spouse's name?",
+        "/wʌt ɪz jʊər spaʊs nɛɪm/",
+        "Tên của vợ/chồng bạn là gì?",
+        "My spouse's name is Duy Minh Nhat Nguyen",
+        "/maɪ spaʊs nɛɪm ɪz/",
+        "Tên của vợ/chồng tôi là..."
+    ],
+    [
+        "When did you move to your current address?",
+        "/wɛn dɪd ju muv tu jʊər kɜrənt ædrɛs/",
+        "Bạn đã chuyển đến địa chỉ hiện tại của mình khi nào?",
+        "I moved to my current address in December 2021.",
+        "/aɪ muv tu maɪ kɜrənt ædrɛs ɪn/",
+        "Tôi đã chuyển đến địa chỉ hiện tại của mình vào..."
+    ],
+    [
+        "Have you traveled outside the United States?",
+        "/hæv ju ˈtrævəld aʊtsaɪd ðə juˈnaɪtɪd steɪts/",
+        "Bạn đã từng đi du lịch ngoài Hoa Kỳ chưa?",
+        "No, I haven’t.",
+        "/jɛs aɪ hæv ˈtrævəld tu... / noʊ aɪ ˈhævənt/",
+        "Vâng, tôi đã từng đi du lịch đến... / Không, tôi chưa từng đi du lịch ngoài Hoa Kỳ."
+    ],
+    [
+        "Do you pay taxes?",
+        "/du ju peɪ tæksəz/",
+        "Bạn có đóng thuế không?",
+        "Yes, My husband and I pay taxes jointly.",
+        "/jɛs aɪ peɪ tæksəz/",
+        "Vâng, tôi có đóng thuế."
+    ],
+    [
+        "Do you understand the Oath of Allegiance?",
+        "/du ju ˌʌndərˈstænd ði oʊθ ʌv əˈlɛʤəns/",
+        "Bạn có hiểu Lời thề Trung thành không?",
+        "Yes, I understand the Oath of Allegiance.",
+        "/jɛs aɪ ˌʌndərˈstænd ði oʊθ ʌv əˈlɛʤəns/",
+        "Vâng, tôi hiểu Lời thề Trung thành."
+    ],
+    [
+        "Have you ever committed a crime?",
+        "/hæv ju ˈɛvər kəˈmɪtɪd ə kraɪm/",
+        "Bạn đã bao giờ phạm tội chưa?",
+        "No, I have never committed a crime.",
+        "/noʊ aɪ hæv ˈnɛvər kəˈmɪtɪd ə kraɪm/",
+        "Không, tôi chưa bao giờ phạm tội."
+    ],
+    [
+        "Do you belong to any organizations?",
+        "/du ju bɪˈlɔŋ tu ˈɛni ˌɔrgənəˈzeɪʃənz/",
+        "Bạn có thuộc tổ chức nào không?",
+        "No, I don't belong to any organizations.",
+        "/jɛs aɪ bɪˈlɔŋ tu... / noʊ aɪ doʊnt bɪˈlɔŋ tu ˈɛni ˌɔrgənəˈzeɪʃənz/",
+        "Vâng, tôi thuộc tổ chức... / Không, tôi không thuộc tổ chức nào."
+    ],
+    [
+        "Do you support the Constitution of the United States?",
+        "/du ju səˈpɔrt ðə ˌkɑnstɪˈtuʃən ʌv ðə juˈnaɪtɪd steɪts/",
+        "Bạn có ủng hộ Hiến pháp Hoa Kỳ không?",
+        "Yes, I support the Constitution of the United States.",
+        "/jɛs aɪ səˈpɔrt ðə ˌkɑnstɪˈtuʃən ʌv ðə juˈnaɪtɪd steɪts/",
+        "Vâng, tôi ủng hộ Hiến pháp Hoa Kỳ."
+    ],
+    [
+        "Do you have any previous addresses?",
+        "/du ju hæv ˈɛni ˈpriviəs ædrɛsɪz/",
+        "Bạn có địa chỉ cũ nào không?",
+        "Yes, my previous address was 4126 WHISTLER AVE EL MONTE CA 91732",
+        "/jɛs maɪ ˈpriviəs ædrɛs wəz/",
+        "Vâng, địa chỉ cũ của tôi là..."
+    ],
+    [
+        "Have you ever served in the military?",
+        "/hæv ju ˈɛvər sɜrvd ɪn ðə ˈmɪləˌtɛri/",
+        "Bạn đã bao giờ phục vụ trong quân đội chưa?",
+        "No, I have not served in the military.",
+        "/jɛs aɪ sɜrvd ɪn ðə ˈmɪləˌtɛri/ / noʊ aɪ hæv nɑt sɜrvd ɪn ðə ˈmɪləˌtɛri/",
+        "Vâng, tôi đã phục vụ trong quân đội. / Không, tôi chưa bao giờ phục vụ trong quân đội."
+    ],
+    [
+        "What is your employment history?",
+        "/wʌt ɪz jʊər ɛmˈplɔɪmənt ˈhɪstəri/",
+        "Lịch sử công việc của bạn là gì?",
+        "I am only a housewife",
+        "/maɪ ɛmˈplɔɪmənt ˈhɪstəri ɪnˈkludz/",
+        "Lịch sử công việc của tôi bao gồm..."
+    ],
+    [
+        "Do you have any dependents?",
+        "/du ju hæv ˈɛni dɪˈpɛndənts/",
+        "Bạn có người phụ thuộc nào không?",
+        "No, I don’t have any dependents.",
+        "/jɛs aɪ hæv... / noʊ aɪ doʊnt hæv ˈɛni dɪˈpɛndənts/",
+        "Vâng, tôi có... / Không, tôi không có người phụ thuộc nào."
+    ],
+    [
+        "Have you ever been a member of a terrorist organization?",
+        "/hæv ju ˈɛvər bɪn ə ˈmɛmbər ʌv ə ˈtɛrərɪst ˌɔrgənɪˈzeɪʃən/",
+        "Bạn đã bao giờ là thành viên của một tổ chức khủng bố chưa?",
+        "No, I have never been a member of a terrorist organization.",
+        "/noʊ aɪ hæv ˈnɛvər bɪn ə ˈmɛmbər ʌv ə ˈtɛrərɪst ˌɔrgənɪˈzeɪʃən/",
+        "Không, tôi chưa bao giờ là thành viên của một tổ chức khủng bố."
+    ]
+]
