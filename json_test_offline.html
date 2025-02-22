@@ -36,15 +36,15 @@
             color: lightgreen;
             font-weight: bold;
         }
-            .ipa {
-            color: yellow;
-        }
         .vietnamese {
             color: lightblue;
-        }
+        }      
     </style>
 
-<style>       
+    <style>
+        .ipa {
+            color: yellow;
+        }        
         .example {
             color: lightgreen;
         }
@@ -199,7 +199,8 @@
 <div id="notification"></div>
 
 </select>
-<button onclick="toggleStyle()">Đổi màu</button>
+<button onclick="toggleStyle()">Ẩn En</button>
+<button onclick="toggleVietnameseStyle()">Ẩn Vi</button>
 <button onclick="prevWord()">Trước</button>
 <button onclick="flipCard()">Lật Thẻ</button>
 <button onclick="nextWord()">Tiếp Theo</button>
@@ -235,23 +236,33 @@
     let sessionVocabList = []; // Danh sách từ vựng cho phiên học hiện tại
     let sessionStartIndex = 0; // Vị trí bắt đầu của phiên học
 
-function toggleStyle() {
-    let styleTag = document.getElementById("dynamic-style");
+    function toggleStyle() {
+        let styleTag = document.getElementById("dynamic-style");
 
-    if (styleTag.innerHTML.includes("lightgreen")) {
-        styleTag.innerHTML = `
-            .term { color: #1c2025; font-weight: bold; }
-            .ipa { color: #1c2025; }
-            .vietnamese { color: #1c2025; }
-        `;
-    } else {
-        styleTag.innerHTML = `
-            .term { color: lightgreen; font-weight: bold; }
-            .ipa { color: yellow; }
-            .vietnamese { color: lightblue; }
-        `;
+        if (styleTag.innerHTML.includes("lightgreen")) {
+            styleTag.innerHTML = `
+                .term { color: #1c2025; font-weight: bold; }
+            `;
+        } else {
+            styleTag.innerHTML = `
+                .term { color: lightgreen; font-weight: bold; }
+            `;
+        }
     }
-}
+
+    function toggleVietnameseStyle() {
+        let styleTag = document.getElementById("dynamic-style");
+
+        if (styleTag.innerHTML.includes("lightblue")) {
+            styleTag.innerHTML = `
+                .vietnamese { color: #1c2025; }
+            `;
+        } else {
+            styleTag.innerHTML = `
+                .vietnamese { color: lightblue; }
+            `;
+        }
+    }
 
 function startSession() {
     const startQuestion = parseInt(document.getElementById('startQuestion').value);
