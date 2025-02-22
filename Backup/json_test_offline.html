@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thi Quoc Tich</title>
-    <link rel="manifest" href="manifest.json">
     <style>    
         body {
             font-family: 'Arial', sans-serif;
@@ -223,16 +222,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
 
 <script>
-    if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function() {
-            navigator.serviceWorker.register('/service-worker.js').then(function(registration) {
-                console.log('ServiceWorker registration successful with scope: ', registration.scope);
-            }, function(err) {
-                console.log('ServiceWorker registration failed: ', err);
-            });
-        });
-    }
-
     let vocabList = []; // Danh sách từ vựng
     let currentIndex = 0; // Vị trí từ hiện tại
     let autoFlip = false;
@@ -754,45 +743,6 @@ function updateQuestionCounter() {
             playPronunciation(word[3]);
         }
     }
-
-    const CACHE_NAME = 'tqt-cache-v1';
-    const urlsToCache = [
-        '/',
-        '/json_test_offline.html',
-        '/manifest.json',
-        '/audio_Conversation_TQT/',
-        '/audio_read_write_TQT/',
-        '/audio_TQT_100/',
-        '/mapping_Conversation_TQT.json',
-        '/mapping_read_write_TQT.json',
-        '/mapping_TQT_100.json',
-        '/Conversation_TQT.json',
-        '/read_write_TQT.json',
-        '/TQT_100.json',
-        '/icon-192x192.png',
-        '/icon-512x512.png'
-    ];
-
-    self.addEventListener('install', event => {
-        event.waitUntil(
-            caches.open(CACHE_NAME)
-                .then(cache => {
-                    return cache.addAll(urlsToCache);
-                })
-        );
-    });
-
-    self.addEventListener('fetch', event => {
-        event.respondWith(
-            caches.match(event.request)
-                .then(response => {
-                    if (response) {
-                        return response;
-                    }
-                    return fetch(event.request);
-                })
-        );
-    });
 </script>
 </body>
 </html>
