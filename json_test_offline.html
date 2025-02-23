@@ -337,15 +337,13 @@ function displayWord() {
         const word = vocabList[currentIndex];
         const frontCard = `
             <div class="card">
-                <span class="term">${word[0]}</span><br>
-                <span class="ipa">${word[1]}</span><br>
+                <span class="term">${word[0]}</span><br>                
                 <span class="vietnamese">${word[2]}</span><br>                    
             </div>
         `;
         const backCard = `
             <div class="card">
-                <span class="example">${word[3]}</span><br>
-                <span class="example_ipa">${word[4]}</span><br>
+                <span class="example">${word[3]}</span><br>                
                 <span class="example_vi">${word[5]}</span>
             </div>
         `;
@@ -502,34 +500,6 @@ function updateQuestionCounter() {
     function updateQuestionCounter() {
         const questionCounter = document.getElementById('questionCounter');
         questionCounter.innerText = `Câu hỏi: ${currentIndex + 1}/${vocabList.length}`;
-    }
-
-    function displayWord() {
-        if (vocabList.length > 0 && currentIndex < vocabList.length) {
-            const word = vocabList[currentIndex];
-            const frontCard = `
-                <div class="card">
-                    <span class="term">${word[0]}</span><br>
-                    <span class="ipa">${word[1]}</span><br>
-                    <span class="vietnamese">${word[2]}</span><br>                    
-                </div>
-            `;
-            const backCard = `
-                <div class="card">
-                    <span class="example">${word[3]}</span><br>
-                    <span class="example_ipa">${word[4]}</span><br>
-                    <span class="example_vi">${word[5]}</span>
-                </div>
-            `;
-            document.getElementById('vocabLabel').innerHTML = isFront ? frontCard : backCard;
-
-            // Phát âm thanh tương ứng với mặt thẻ
-            const pronunciationText = isFront ? word[0].toString() : word[3].toString();
-            playPronunciation(pronunciationText);
-        } else {
-            document.getElementById('vocabLabel').innerText = "Tất cả từ vựng đã hoàn thành.";
-        }
-        updateQuestionCounter(); // Cập nhật số câu hỏi mỗi lần hiển thị
     }
 
     function playPronunciation(text) {
