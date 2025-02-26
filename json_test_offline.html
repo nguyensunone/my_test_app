@@ -336,13 +336,15 @@ function displayWord() {
         const word = vocabList[currentIndex];
         const frontCard = `
             <div class="card">
-                <span class="term">${word[0]}</span><br>                
+                <span class="term">${word[0]}</span><br>
+                <span class="ipa">${word[1]}</span><br>                
                 <span class="vietnamese">${word[2]}</span><br>                    
             </div>
         `;
         const backCard = `
             <div class="card">
-                <span class="example">${word[3]}</span><br>                
+                <span class="example">${word[3]}</span><br>
+                <span class="example_ipa">${word[4]}</span><br>                
                 <span class="example_vi">${word[5]}</span>
             </div>
         `;
