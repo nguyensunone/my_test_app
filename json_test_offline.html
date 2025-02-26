@@ -200,7 +200,7 @@
 
 </select>
 <button onclick="toggleStyle()">Ẩn En</button>
-<button onclick="toggleVietnameseStyle()">Ẩn Vi</button>
+<button onclick="toggleVietnameseColor()">Ẩn Vi</button>
 <button onclick="prevWord()">Trước</button>
 <button onclick="flipCard()">Lật Thẻ</button>
 <button onclick="nextWord()">Tiếp Theo</button>
@@ -260,17 +260,18 @@
         }
     }
 
-    function toggleVietnameseStyle() {
-        let styleTag = document.getElementById("dynamic-style");
-
-        if (styleTag.innerHTML.includes("lightblue")) {
-            styleTag.innerHTML = `
-                .vietnamese { color: #1c2025; }
-            `;
+    function toggleVietnameseColor() {
+        const styleTag = document.getElementById("dynamic-style");
+        // Kiểm tra nếu đã dùng màu đỏ thì đổi về màu lightblue, ngược lại đổi thành màu nền
+        if (styleTag.innerHTML.includes(".vietnamese { color: #1c2025; }")) {
+            styleTag.innerHTML = styleTag.innerHTML.replace(".vietnamese { color: #1c2025; }", ".vietnamese { color: lightblue; }");
         } else {
-            styleTag.innerHTML = `
-                .vietnamese { color: lightblue; }
-            `;
+            // Nếu chưa có định nghĩa màu cho .vietnamese, ta thêm vào
+            if (!styleTag.innerHTML.includes(".vietnamese")) {
+                styleTag.innerHTML += "\n.vietnamese { color: #1c2025; }";
+            } else {
+                styleTag.innerHTML = styleTag.innerHTML.replace(".vietnamese { color: lightblue; }", ".vietnamese { color: #1c2025; }");
+            }
         }
     }
 
