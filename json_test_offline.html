@@ -31,7 +31,7 @@
         }     
         .term {
             color: lightgreen;
-            font-weight: bold;
+            font-weight: 
         }    
         .ipa {
             color: yellow;
@@ -46,7 +46,7 @@
             color: yellow;
         }
         .example_vi {
-            color: lightblue;
+            color: #61dafb;
         }
         input, button {
             margin: 5px;
@@ -128,10 +128,10 @@
             left: 50%;
             transform: translate(-50%, -50%);
             padding: 20px;
-            text-align: center;
+            text-align: left;
             border-radius: 8px;
             font-size: 18px;
-            font-weight: bold;
+            font-weight:
             color: #ffffff;
             background-color: #f44336;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -183,13 +183,13 @@
 <!--Nhóm các nút đổi màu-->
 <div style="text-align: center;">
 <label>  
-    <input type="checkbox" onchange="toggleVisibility('term')"> Ẩn Tiếng Anh  
+    <input type="checkbox" onchange="toggleVisibility('term')"> Ẩn En  
 </label>  
 <label>  
     <input type="checkbox" onchange="toggleVisibility('ipa')"> Ẩn IPA  
 </label>  
 <label>  
-    <input type="checkbox" onchange="toggleVisibility('vietnamese')"> Ẩn Tiếng Việt  
+    <input type="checkbox" onchange="toggleVisibility('vietnamese')"> Ẩn Vi  
 </label>
 </div>
 
@@ -209,19 +209,23 @@
     <button id="speakCheckButton" onclick="startSpeechRecognition()">N2</button>
 </div>
 
+
+
+
+
 <div class="controls"></div>
 <button onclick="prevWord()">Trước</button>
 <button onclick="flipCard()">Lật Thẻ</button>
 <button onclick="nextWord()">Tiếp Theo</button>
 <button id="repeatButton" onclick="repeatPronunciation()">Lặp Lại</button>
 <button id="autoFlipButton" onclick="toggleAutoFlip()">Tự Động</button>
-<button id="toggleModeButton" onclick="toggleMode()">Theo Thứ Tự</button>
+<button id="toggleModeButton" onclick="toggleMode()">Thứ Tự</button>
 <!-- Dropdown để chọn bài học -->
 <select id="lessonSelector" onchange="loadLesson()">
     <!-- Các tùy chọn sẽ được thêm tự động từ json_list.json -->
 </select>
-<input type="number" id="startQuestion" placeholder="Nhập số câu hỏi bắt đầu" min="1" max="138">
-<input type="number" id="questionCount" placeholder="Số câu hỏi" min="1" max="138">
+<input type="number" id="startQuestion" placeholder="Câu BĐ" min="1" max="138">
+<input type="number" id="questionCount" placeholder="SL câu" min="1" max="138">
 <button onclick="startSession()">Bắt Đầu Phiên Học</button>
  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
@@ -548,8 +552,8 @@
     notification.innerHTML = `<strong>${message}</strong>`;
 
     if (!isCorrect) {
-        notification.innerHTML += `<br><span style="color: yellow;">"${userAnswer}"</span>`;
-        notification.innerHTML += `<br><span style="color: lightgreen;">"${correctAnswer}"</span>`;
+        notification.innerHTML += `<br><span style="color: darkblue;">"${userAnswer}"</span>`;
+        notification.innerHTML += `<br><span style="color: black;">"${correctAnswer}"</span>`;
     }
 
     notification.style.display = 'block';
