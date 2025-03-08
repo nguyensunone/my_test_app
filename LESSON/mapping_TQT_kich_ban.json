@@ -1,0 +1,402 @@
+[
+    {
+        "text": "What is your full name?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_1_col0.mp3"
+    },
+    {
+        "text": "My full name is Thi Kim Quyen Le.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_1_col3.mp3"
+    },
+    {
+        "text": "Where were you born?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_2_col0.mp3"
+    },
+    {
+        "text": "I was born in Vietnam, Hue.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_2_col3.mp3"
+    },
+    {
+        "text": "What is your current address?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_3_col0.mp3"
+    },
+    {
+        "text": "It's 3311 Kifer Rd Apartment 212 Santa Clara California 95051.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_3_col3.mp3"
+    },
+    {
+        "text": "What do you do for a living?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_4_col0.mp3"
+    },
+    {
+        "text": "I'm a homemaker.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_4_col3.mp3"
+    },
+    {
+        "text": "Have you ever been arrested?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_5_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_5_col3.mp3"
+    },
+    {
+        "text": "What is your phone number?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_6_col0.mp3"
+    },
+    {
+        "text": "It's 408  594  8589",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_6_col3.mp3"
+    },
+    {
+        "text": "Do you have any children?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_7_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_7_col3.mp3"
+    },
+    {
+        "text": "What is your spouse's name?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_8_col0.mp3"
+    },
+    {
+        "text": "He is Duy Minh Nhat Nguyen.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_8_col3.mp3"
+    },
+    {
+        "text": "When did you move to your current address?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_9_col0.mp3"
+    },
+    {
+        "text": "I moved to it in December 2021.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_9_col3.mp3"
+    },
+    {
+        "text": "Have you traveled outside the United States?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_10_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_10_col3.mp3"
+    },
+    {
+        "text": "Do you pay taxes?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_11_col0.mp3"
+    },
+    {
+        "text": "Yes, my husband and I file taxes jointly.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_11_col3.mp3"
+    },
+    {
+        "text": "Do you understand the Oath of Allegiance?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_12_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_12_col3.mp3"
+    },
+    {
+        "text": "Have you ever committed a crime?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_13_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_13_col3.mp3"
+    },
+    {
+        "text": "Do you belong to any organizations?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_14_col0.mp3"
+    },
+    {
+        "text": "No, I don't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_14_col3.mp3"
+    },
+    {
+        "text": "Do you support the Constitution of the United States?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_15_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_15_col3.mp3"
+    },
+    {
+        "text": "Do you have any previous addresses?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_16_col0.mp3"
+    },
+    {
+        "text": "Yes, It's 4126 Whistler Ave El Monte California 91732",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_16_col3.mp3"
+    },
+    {
+        "text": "Have you ever served in the military?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_17_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_17_col3.mp3"
+    },
+    {
+        "text": "What is your employment history?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_18_col0.mp3"
+    },
+    {
+        "text": "I'm a homemaker",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_18_col3.mp3"
+    },
+    {
+        "text": "Do you have any dependents?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_19_col0.mp3"
+    },
+    {
+        "text": "No, I don't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_19_col3.mp3"
+    },
+    {
+        "text": "Have you ever been a member of a terrorist organization?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_20_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_20_col3.mp3"
+    },
+    {
+        "text": "Are you currently employed?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_21_col0.mp3"
+    },
+    {
+        "text": "No, I 'm not.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_21_col3.mp3"
+    },
+    {
+        "text": "Have you ever failed to file your taxes?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_22_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_22_col3.mp3"
+    },
+    {
+        "text": "Do you have any physical or mental disabilities?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_23_col0.mp3"
+    },
+    {
+        "text": "No, I don't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_23_col3.mp3"
+    },
+    {
+        "text": "Have you ever been deported?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_24_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_24_col3.mp3"
+    },
+    {
+        "text": "Do you understand the rights and responsibilities of U.S. citizenship?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_25_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_25_col3.mp3"
+    },
+    {
+        "text": "Have you ever voted in the United States?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_26_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_26_col3.mp3"
+    },
+    {
+        "text": "Do you have a criminal record?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_27_col0.mp3"
+    },
+    {
+        "text": "No, I don't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_27_col3.mp3"
+    },
+    {
+        "text": "Have you ever used a different name?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_28_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_28_col3.mp3"
+    },
+    {
+        "text": "Do you have any health conditions?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_29_col0.mp3"
+    },
+    {
+        "text": "No, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_29_col3.mp3"
+    },
+    {
+        "text": "Have you ever been denied entry to the United States?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_30_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_30_col3.mp3"
+    },
+    {
+        "text": "Have you ever overstayed your visa?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_31_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_31_col3.mp3"
+    },
+    {
+        "text": "Have you ever been involved in any illegal activities?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_32_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_32_col3.mp3"
+    },
+    {
+        "text": "Do you understand the Selective Service requirements?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_33_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_33_col3.mp3"
+    },
+    {
+        "text": "Do you intend to live permanently in the United States?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_34_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_34_col3.mp3"
+    },
+    {
+        "text": "Have you ever provided false information to the U.S. government?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_35_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_35_col3.mp3"
+    },
+    {
+        "text": "Have you ever applied for any U.S. government benefits?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_36_col0.mp3"
+    },
+    {
+        "text": "Yes, I am currently receiving CalFresh and Medi-Cal.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_36_col3.mp3"
+    },
+    {
+        "text": "Do you have any relatives in the United States?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_37_col0.mp3"
+    },
+    {
+        "text": "Yes, I do. My brother lives in the United States, and he sponsored me to come here.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_37_col3.mp3"
+    },
+    {
+        "text": "Have you ever participated in any demonstrations?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_38_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_38_col3.mp3"
+    },
+    {
+        "text": "Do you speak any other languages?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_39_col0.mp3"
+    },
+    {
+        "text": "Yes, I speak Vietnamese.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_39_col3.mp3"
+    },
+    {
+        "text": "Have you ever been involved in human trafficking?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_40_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_40_col3.mp3"
+    },
+    {
+        "text": "Have you ever lied to get an immigration benefit?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_41_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_41_col3.mp3"
+    },
+    {
+        "text": "Do you promise to tell the truth during this interview?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_42_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_42_col3.mp3"
+    },
+    {
+        "text": "Have you ever been a member of a communist party?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_43_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_43_col3.mp3"
+    },
+    {
+        "text": "Do you understand the importance of the U.S. Constitution?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_44_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_44_col3.mp3"
+    },
+    {
+        "text": "Have you ever been denied a visa to the United States?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_45_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_45_col3.mp3"
+    },
+    {
+        "text": "Have you ever been denied entry to any country?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_46_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_46_col3.mp3"
+    },
+    {
+        "text": "Do you plan to travel outside the United States soon?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_47_col0.mp3"
+    },
+    {
+        "text": "No, I don't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_47_col3.mp3"
+    },
+    {
+        "text": "Have you ever changed your name legally?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_48_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_48_col3.mp3"
+    },
+    {
+        "text": "Do you understand the importance of following U.S. laws?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_49_col0.mp3"
+    },
+    {
+        "text": "Yes, I do.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_49_col3.mp3"
+    },
+    {
+        "text": "Have you ever been married more than once?",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_50_col0.mp3"
+    },
+    {
+        "text": "No, I haven't.",
+        "file": "audio_TQT_kich_ban/audio_TQT_kich_ban_50_col3.mp3"
+    }
+]

@@ -11,9 +11,9 @@
             "audio": "audio_read_write_TQT"
         },
         {
-            "name": "Conversation_TQT.json",
-            "mapping": "mapping_Conversation_TQT.json",
-            "audio": "audio_Conversation_TQT"
+            "name": "TQT_kich_ban.json",
+            "mapping": "mapping_TQT_kich_ban.json",
+            "audio": "audio_TQT_kich_ban"
         }
     ]
 }
