@@ -3,9 +3,9 @@
         "What is your full name?",
         "/wʌt ɪz jʊər fʊl neɪm/",
         "Tên đầy đủ của bạn là gì?",
-        "My full name is Thi Kim Quyen Le.",
+        "My full name is Thi Kim Quyen Le",
         "/maɪ fʊl neɪm ɪz/",
-        "Tên đầy đủ của tôi là..."
+        "Tên đầy đủ của tôi là Thi Kim Quyen Le"
     ],
     [
         "Where were you born?",
@@ -13,7 +13,7 @@
         "Bạn sinh ra ở đâu?",
         "I was born in Vietnam, Hue.",
         "/aɪ wəz bɔrn ɪn/",
-        "Tôi sinh ra ở..."
+        "Tôi sinh ra ở Việt Nam, Huế."
     ],
     [
         "What is your current address?",
@@ -21,7 +21,7 @@
         "Địa chỉ hiện tại của bạn là gì?",
         "It's 3311 Kifer Rd Apartment 212 Santa Clara California 95051.",
         "/maɪ kɜrənt ædrɛs ɪz/",
-        "Địa chỉ hiện tại của tôi là..."
+        "Nó là 3311 Kifer Rd Santa Clara California 95015"
     ],
     [
         "What do you do for a living?",
@@ -43,7 +43,7 @@
         "What is your phone number?",
         "/wʌt ɪz jʊər foʊn ˈnʌmbər/",
         "Số điện thoại của bạn là gì?",
-        "It's 408  594  8589",
+        "It's 408 594 8589",
         "/maɪ foʊn ˈnʌmbər ɪz/",
         "Số điện thoại của tôi là 408 594 8589"
     ],
@@ -51,7 +51,7 @@
         "Do you have any children?",
         "/du ju hæv ˈɛnɪ ˈʧɪldrən/",
         "Bạn có con không?",
-        "Yes, I do.",
+        "Yes, I have 4 children.",
         "/jɛs aɪ hæv",
         "Vâng, tôi có 4 đứa con."
     ],
@@ -61,7 +61,7 @@
         "Tên của vợ/chồng bạn là gì?",
         "He is Duy Minh Nhat Nguyen.",
         "/maɪ spaʊs nɛɪm ɪz/",
-        "Tên của chồng tôi (người phối ngẫu của tôi) là DMNN."
+        "Anh ta là Duy Minh Nhat Nguyen."
     ],
     [
         "When did you move to your current address?",
@@ -69,7 +69,7 @@
         "Bạn đã chuyển đến địa chỉ hiện tại của mình khi nào?",
         "I moved to it in December 2021.",
         "/aɪ muv tu maɪ kɜrənt ædrɛs ɪn/",
-        "Tôi đã chuyển đến địa chỉ hiện tại của mình vào tháng 12 năm2021."
+        "Tôi đã chuyển đến đó vào tháng 12 năm 2021."
     ],
     [
         "Have you traveled outside the United States?",
@@ -125,7 +125,7 @@
         "Bạn có địa chỉ cũ nào không?",
         "Yes, It's 4126 Whistler Ave El Monte California 91732",
         "/jɛs maɪ ˈpriviəs ædrɛs wəz/",
-        "Vâng, Nó đã là 5127 W. 5th St, Santa Anna"
+        "Vâng, Nó đã là 4126 Whistler Ave ElMonte Ca 91732"
     ],
     [
         "Have you ever served in the military?",
@@ -141,7 +141,7 @@
         "Lịch sử công việc của bạn là gì?",
         "I'm a homemaker",
         "/maɪ ɛmˈplɔɪmənt ˈhɪstəri ɪnˈkludz/",
-        "Lịch sử công việc của tôi bao gồm..."
+        "Tôi làm nghề nội trợ."
     ],
     [
         "Do you have any dependents?",
@@ -227,7 +227,7 @@
         "Do you have any health conditions?",
         "/du ju hæv ˈɛni hɛlθ kənˈdɪʃənz/",
         "Bạn có điều kiện sức khỏe nào không?",
-        "No, I do.",
+        "No, I don't.",
         "/noʊ aɪ doʊ nɑt hæv ˈɛni hɛlθ kənˈdɪʃənz/",
         "Không, tôi không có điều kiện sức khỏe nào."
     ],
