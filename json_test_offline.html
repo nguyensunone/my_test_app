@@ -31,13 +31,13 @@
         }     
         .term {
             color: lightgreen;
-            font-weight: 
+            font-weight: bold;
         }    
         .ipa {
             color: yellow;
         }
         .vietnamese {
-            color: lightblue;
+            color: #61dafb;
         }        
         .example {
             color: lightgreen;
@@ -131,14 +131,13 @@
             text-align: left;
             border-radius: 8px;
             font-size: 18px;
-            font-weight:
+            font-weight: bold;
             color: #ffffff;
             background-color: #f44336;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             max-width: 80%;
             z-index: 1000;
         }
-
         
         #recognizedSpeech {
             color: #61dafb;
@@ -171,6 +170,20 @@
             font-weight: bold;    
     	    font-size: 20px;
 	    }
+        #slowPronunciationButton {
+            background-color: #61dafb;
+            color: #282c34;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+            margin: 10px 5px;
+        }
+        #slowPronunciationButton:hover {
+            background-color: #21a1f1;
+        }
     </style>
 </head>
 <body>
@@ -209,10 +222,6 @@
     <button id="speakCheckButton" onclick="startSpeechRecognition()">N2</button>
 </div>
 
-
-
-
-
 <div class="controls"></div>
 <button onclick="prevWord()">Trước</button>
 <button onclick="flipCard()">Lật Thẻ</button>
@@ -227,6 +236,7 @@
 <input type="number" id="startQuestion" placeholder="Câu BĐ" min="1" max="138">
 <input type="number" id="questionCount" placeholder="SL câu" min="1" max="138">
 <button onclick="startSession()">Bắt Đầu Phiên Học</button>
+<button id="slowPronunciationButton" onclick="toggleSlowPronunciation()">Phát Âm Chậm</button>
  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
@@ -468,7 +478,20 @@
         }, 2000);
     }
 
-    function playPronunciation(text) {
+    let isSlowPronunciation = false; // Biến để theo dõi trạng thái phát âm chậm
+
+function toggleSlowPronunciation() {
+    isSlowPronunciation = !isSlowPronunciation;
+    const button = document.getElementById('slowPronunciationButton');
+    button.innerText = isSlowPronunciation ? "Tắt Phát Âm Chậm" : "Phát Âm Chậm";
+    if (isSlowPronunciation) {
+        alert("Chế độ phát âm chậm đã bật.");
+    } else {
+        alert("Chế độ phát âm chậm đã tắt.");
+    }
+}
+
+function playPronunciation(text) {
     currentPronunciationText = text; // Lưu lại câu vừa phát âm
     if (audio) {
         audio.stop(); // Dừng âm thanh nếu đang chơi
@@ -482,6 +505,7 @@
         audio = new Howl({
             src: [audioFilePath],
             html5: true,
+            rate: isSlowPronunciation ? 0.80 : 1, // Điều chỉnh tốc độ phát
             onend: function () {
                 if (autoFlip) {
                     autoFlipLogic();
@@ -498,15 +522,15 @@
 }
 
 
-    function repeatPronunciation() {
-        if (currentPronunciationText) {
-            playPronunciation(currentPronunciationText);
-        } else {
-            const word = vocabList[currentIndex];
-            const textToPlay = isFront ? word[0] : word[3];
-            playPronunciation(textToPlay);
-        }
+function repeatPronunciation() {
+    if (currentPronunciationText) {
+        playPronunciation(currentPronunciationText);
+    } else {
+        const word = vocabList[currentIndex];
+        const textToPlay = isFront ? word[0] : word[3];
+        playPronunciation(textToPlay);
     }
+}
 
     function autoFlipLogic() {
         autoFlipTimeout = setTimeout(() => {
