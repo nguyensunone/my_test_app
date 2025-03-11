@@ -229,6 +229,10 @@
 <button id="repeatButton" onclick="repeatPronunciation()">Lặp Lại</button>
 <button id="autoFlipButton" onclick="toggleAutoFlip()">Tự Động</button>
 <button id="toggleModeButton" onclick="toggleMode()">Thứ Tự</button>
+<button id="markDifficultButton" onclick="markAsDifficult()">Lưu Khó</button>
+<button id="studyDifficultButton" onclick="studyDifficultWords()">Học Khó</button>
+<button id="removeDifficultButton" onclick="removeFromDifficult()">Xóa Khó</button>
+<button id="slowPronunciationButton" onclick="toggleSlowPronunciation()">Phát Âm Chậm</button>
 <!-- Dropdown để chọn bài học -->
 <select id="lessonSelector" onchange="loadLesson()">
     <!-- Các tùy chọn sẽ được thêm tự động từ json_list.json -->
@@ -236,7 +240,6 @@
 <input type="number" id="startQuestion" placeholder="Câu BĐ" min="1" max="138">
 <input type="number" id="questionCount" placeholder="SL câu" min="1" max="138">
 <button onclick="startSession()">Bắt Đầu Phiên Học</button>
-<button id="slowPronunciationButton" onclick="toggleSlowPronunciation()">Phát Âm Chậm</button>
  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
@@ -259,6 +262,63 @@
     // Danh sách bài học được load động từ file json_list.json
     let lessons = [];
     let hiddenElements = { term: false, ipa: false, vietnamese: false }; // Biến để xác định các phần tử cần ẩn 
+    let difficultWords = []; // Mảng lưu trữ các câu khó
+
+    // Hàm khởi tạo: Load danh sách câu khó từ localStorage (nếu có)
+    function loadDifficultWords() {
+        const savedDifficultWords = localStorage.getItem('difficultWords');
+        if (savedDifficultWords) {
+            difficultWords = JSON.parse(savedDifficultWords);
+        }
+    }
+
+    // Hàm lưu danh sách câu khó vào localStorage
+    function saveDifficultWords() {
+        localStorage.setItem('difficultWords', JSON.stringify(difficultWords));
+    }
+    
+    function markAsDifficult() {
+        if (vocabList.length === 0) return;
+
+        const currentWord = vocabList[currentIndex];
+        const wordId = currentWord[0]; // Sử dụng từ hoặc một định danh duy nhất để đánh dấu
+
+        // Kiểm tra xem câu đã được đánh dấu chưa
+        const isAlreadyMarked = difficultWords.some(word => word[0] === wordId);
+        if (!isAlreadyMarked) {
+            difficultWords.push(currentWord); // Thêm câu vào danh sách câu khó
+            saveDifficultWords(); // Lưu vào localStorage
+            alert("Câu này đã được đánh dấu là khó và sẽ được học lại trong phiên sau.");
+        } else {
+            alert("Câu này đã được đánh dấu là khó trước đó.");
+        }
+    }
+
+    function studyDifficultWords() {
+        if (difficultWords.length === 0) {
+            alert("Bạn chưa đánh dấu câu nào là khó.");
+            return;
+        }
+
+        // Gán danh sách câu khó vào vocabList để học
+        vocabList = difficultWords;
+        currentIndex = 0;
+        displayWord();
+        alert("Bắt đầu học các câu đã được đánh dấu là khó.");
+    }
+
+    function removeFromDifficult() {
+        if (vocabList.length === 0) return;
+
+        const currentWord = vocabList[currentIndex];
+        const wordId = currentWord[0]; // Sử dụng từ hoặc một định danh duy nhất
+
+        // Lọc ra câu khó cần xóa
+        difficultWords = difficultWords.filter(word => word[0] !== wordId);
+        saveDifficultWords(); // Lưu lại vào localStorage
+
+        alert("Câu này đã được xóa khỏi danh sách câu khó.");
+    }
     
     function startSession() {
         const startQuestion = parseInt(document.getElementById('startQuestion').value);
@@ -441,6 +501,9 @@
                 break;
             case 'Home':
                 startSpeechRecognitionFront();
+                break;
+            case 'Insert':
+                markAsDifficult();
                 break;
             default:
                 break;
@@ -736,6 +799,7 @@ function checkAnswerBack() {
     // Load danh sách bài học từ json_list.json khi trang được tải
     window.onload = function () {
         loadLessonList();
+        loadDifficultWords(); // Tải danh sách câu khó
     };
 </script>
 </body>
