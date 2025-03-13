@@ -9,11 +9,6 @@
             "name": "read_write_TQT.json",
             "mapping": "mapping_read_write_TQT.json",
             "audio": "audio_read_write_TQT"
-        },
-        {
-            "name": "TQT_kich_ban.json",
-            "mapping": "mapping_TQT_kich_ban.json",
-            "audio": "audio_TQT_kich_ban"
         }
     ]
 }
