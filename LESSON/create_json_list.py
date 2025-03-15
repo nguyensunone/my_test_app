@@ -7,7 +7,7 @@ class LessonGUI(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("Lesson JSON Generator")
-        self.geometry("650x450")
+        self.geometry("650x500")
         
         # Danh sách chứa thông tin bài học
         self.lesson_list = []

@@ -9,6 +9,11 @@
             "name": "read_write_TQT.json",
             "mapping": "mapping_read_write_TQT.json",
             "audio": "audio_read_write_TQT"
+        },
+        {
+            "name": "dam_thoai_01.json",
+            "mapping": "mapping_dam_thoai_01.json",
+            "audio": "audio_dam_thoai_01"
         }
     ]
 }
