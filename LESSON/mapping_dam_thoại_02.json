@@ -1,0 +1,802 @@
+[
+    {
+        "text": "Can I sit next to you?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_1_col0.mp3"
+    },
+    {
+        "text": "Sure, go ahead.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_1_col3.mp3"
+    },
+    {
+        "text": "How do you like your coffee?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_2_col0.mp3"
+    },
+    {
+        "text": "I like it with milk and sugar.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_2_col3.mp3"
+    },
+    {
+        "text": "What time do you usually sleep?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_3_col0.mp3"
+    },
+    {
+        "text": "Around 11:00 PM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_3_col3.mp3"
+    },
+    {
+        "text": "Have you been busy lately?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_4_col0.mp3"
+    },
+    {
+        "text": "Yes, I've had a lot of work.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_4_col3.mp3"
+    },
+    {
+        "text": "Where should we meet?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_5_col0.mp3"
+    },
+    {
+        "text": "Let's meet at the park.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_5_col3.mp3"
+    },
+    {
+        "text": "Can you lend me a book?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_6_col0.mp3"
+    },
+    {
+        "text": "Of course, take this one.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_6_col3.mp3"
+    },
+    {
+        "text": "When does the train arrive?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_7_col0.mp3"
+    },
+    {
+        "text": "It arrives at 3:00 PM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_7_col3.mp3"
+    },
+    {
+        "text": "Are you ready to order?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_8_col0.mp3"
+    },
+    {
+        "text": "Yes, I'll have a salad.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_8_col3.mp3"
+    },
+    {
+        "text": "What's your favorite music genre?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_9_col0.mp3"
+    },
+    {
+        "text": "I enjoy pop music.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_9_col3.mp3"
+    },
+    {
+        "text": "Can you tell me the time?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_10_col0.mp3"
+    },
+    {
+        "text": "It's 2:30 PM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_10_col3.mp3"
+    },
+    {
+        "text": "Could you help me find this?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_11_col0.mp3"
+    },
+    {
+        "text": "Sure, let me check.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_11_col3.mp3"
+    },
+    {
+        "text": "What time is your appointment?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_12_col0.mp3"
+    },
+    {
+        "text": "It's at 4:00 PM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_12_col3.mp3"
+    },
+    {
+        "text": "Do you have any plans tomorrow?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_13_col0.mp3"
+    },
+    {
+        "text": "Yes, I'm meeting a friend.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_13_col3.mp3"
+    },
+    {
+        "text": "Can we take a break?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_14_col0.mp3"
+    },
+    {
+        "text": "Sure, let's pause for now.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_14_col3.mp3"
+    },
+    {
+        "text": "What's the price of this item?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_15_col0.mp3"
+    },
+    {
+        "text": "It's fifteen dollars.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_15_col3.mp3"
+    },
+    {
+        "text": "Did you enjoy the show?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_16_col0.mp3"
+    },
+    {
+        "text": "Yes, it was fantastic.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_16_col3.mp3"
+    },
+    {
+        "text": "Do you want some water?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_17_col0.mp3"
+    },
+    {
+        "text": "Yes, please.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_17_col3.mp3"
+    },
+    {
+        "text": "Where did you buy this?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_18_col0.mp3"
+    },
+    {
+        "text": "I got it online.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_18_col3.mp3"
+    },
+    {
+        "text": "Can we meet earlier?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_19_col0.mp3"
+    },
+    {
+        "text": "Yes, let's meet at 2:00 PM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_19_col3.mp3"
+    },
+    {
+        "text": "How was the trip?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_20_col0.mp3"
+    },
+    {
+        "text": "It was amazing.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_20_col3.mp3"
+    },
+    {
+        "text": "Can I use your phone?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_21_col0.mp3"
+    },
+    {
+        "text": "Sure, here it is.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_21_col3.mp3"
+    },
+    {
+        "text": "How often do you go shopping?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_22_col0.mp3"
+    },
+    {
+        "text": "I go shopping once a week.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_22_col3.mp3"
+    },
+    {
+        "text": "Do you like cooking?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_23_col0.mp3"
+    },
+    {
+        "text": "Yes, I enjoy it a lot.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_23_col3.mp3"
+    },
+    {
+        "text": "What are you doing this weekend?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_24_col0.mp3"
+    },
+    {
+        "text": "I'm going hiking.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_24_col3.mp3"
+    },
+    {
+        "text": "Can you recommend a restaurant?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_25_col0.mp3"
+    },
+    {
+        "text": "Sure, try the Italian place downtown.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_25_col3.mp3"
+    },
+    {
+        "text": "When do you usually wake up?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_26_col0.mp3"
+    },
+    {
+        "text": "I wake up at 6:30 AM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_26_col3.mp3"
+    },
+    {
+        "text": "Can I have the bill, please?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_27_col0.mp3"
+    },
+    {
+        "text": "Of course, I'll bring it now.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_27_col3.mp3"
+    },
+    {
+        "text": "Do you prefer tea or coffee?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_28_col0.mp3"
+    },
+    {
+        "text": "I prefer tea.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_28_col3.mp3"
+    },
+    {
+        "text": "How do you get to the airport?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_29_col0.mp3"
+    },
+    {
+        "text": "I take a taxi.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_29_col3.mp3"
+    },
+    {
+        "text": "Do you have any pets?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_30_col0.mp3"
+    },
+    {
+        "text": "Yes, I have a cat.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_30_col3.mp3"
+    },
+    {
+        "text": "Do you enjoy learning English?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_31_col0.mp3"
+    },
+    {
+        "text": "Yes, it's very interesting.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_31_col3.mp3"
+    },
+    {
+        "text": "What's your usual commute?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_32_col0.mp3"
+    },
+    {
+        "text": "I usually take the subway.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_32_col3.mp3"
+    },
+    {
+        "text": "How do you feel about that?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_33_col0.mp3"
+    },
+    {
+        "text": "I feel good about it.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_33_col3.mp3"
+    },
+    {
+        "text": "Can you send me the document?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_34_col0.mp3"
+    },
+    {
+        "text": "Sure, I'll email it to you.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_34_col3.mp3"
+    },
+    {
+        "text": "Have you ever been abroad?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_35_col0.mp3"
+    },
+    {
+        "text": "Yes, I've been to France.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_35_col3.mp3"
+    },
+    {
+        "text": "What's the next step?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_36_col0.mp3"
+    },
+    {
+        "text": "We need to review the report.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_36_col3.mp3"
+    },
+    {
+        "text": "Do you like spending time outdoors?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_37_col0.mp3"
+    },
+    {
+        "text": "Yes, I love hiking and camping.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_37_col3.mp3"
+    },
+    {
+        "text": "Where do you usually shop?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_38_col0.mp3"
+    },
+    {
+        "text": "I shop at the mall nearby.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_38_col3.mp3"
+    },
+    {
+        "text": "Can I reserve a table here?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_39_col0.mp3"
+    },
+    {
+        "text": "Yes, for how many people?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_39_col3.mp3"
+    },
+    {
+        "text": "How was your weekend?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_40_col0.mp3"
+    },
+    {
+        "text": "It was relaxing.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_40_col3.mp3"
+    },
+    {
+        "text": "How do you spend your free time?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_41_col0.mp3"
+    },
+    {
+        "text": "I like to read and go for walks.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_41_col3.mp3"
+    },
+    {
+        "text": "Can you tell me the way to the station?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_42_col0.mp3"
+    },
+    {
+        "text": "Turn left and go straight ahead.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_42_col3.mp3"
+    },
+    {
+        "text": "What do you usually do on weekends?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_43_col0.mp3"
+    },
+    {
+        "text": "I spend time with my family.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_43_col3.mp3"
+    },
+    {
+        "text": "Can I borrow your umbrella?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_44_col0.mp3"
+    },
+    {
+        "text": "Sure, but please return it soon.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_44_col3.mp3"
+    },
+    {
+        "text": "How was the meeting?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_45_col0.mp3"
+    },
+    {
+        "text": "It was productive.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_45_col3.mp3"
+    },
+    {
+        "text": "What's your dream job?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_46_col0.mp3"
+    },
+    {
+        "text": "I want to be a photographer.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_46_col3.mp3"
+    },
+    {
+        "text": "Do you prefer working alone or in a team?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_47_col0.mp3"
+    },
+    {
+        "text": "I prefer working in a team.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_47_col3.mp3"
+    },
+    {
+        "text": "What time does the bus leave?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_48_col0.mp3"
+    },
+    {
+        "text": "It leaves at 10:15 AM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_48_col3.mp3"
+    },
+    {
+        "text": "How do you feel about this idea?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_49_col0.mp3"
+    },
+    {
+        "text": "I think it's a great idea.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_49_col3.mp3"
+    },
+    {
+        "text": "What's your favorite book?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_50_col0.mp3"
+    },
+    {
+        "text": "I love To Kill a Mockingbird.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_50_col3.mp3"
+    },
+    {
+        "text": "What time should we leave?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_51_col0.mp3"
+    },
+    {
+        "text": "Let's leave at 8:00 AM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_51_col3.mp3"
+    },
+    {
+        "text": "Can you give me your opinion?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_52_col0.mp3"
+    },
+    {
+        "text": "Sure, I think it's a good idea.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_52_col3.mp3"
+    },
+    {
+        "text": "What's your favorite restaurant?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_53_col0.mp3"
+    },
+    {
+        "text": "I love the Italian place downtown.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_53_col3.mp3"
+    },
+    {
+        "text": "How much time do we have?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_54_col0.mp3"
+    },
+    {
+        "text": "We have about 30 minutes.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_54_col3.mp3"
+    },
+    {
+        "text": "Would you like something to drink?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_55_col0.mp3"
+    },
+    {
+        "text": "Yes, I'd like some water, please.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_55_col3.mp3"
+    },
+    {
+        "text": "Do you like this kind of music?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_56_col0.mp3"
+    },
+    {
+        "text": "Yes, I enjoy it a lot.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_56_col3.mp3"
+    },
+    {
+        "text": "How far is the nearest hospital?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_57_col0.mp3"
+    },
+    {
+        "text": "It's about three miles from here.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_57_col3.mp3"
+    },
+    {
+        "text": "Could you speak up a little?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_58_col0.mp3"
+    },
+    {
+        "text": "Of course, is this better?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_58_col3.mp3"
+    },
+    {
+        "text": "What's your next travel destination?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_59_col0.mp3"
+    },
+    {
+        "text": "I'm planning to visit Japan.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_59_col3.mp3"
+    },
+    {
+        "text": "Can we talk about it tomorrow?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_60_col0.mp3"
+    },
+    {
+        "text": "Sure, let's continue tomorrow.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_60_col3.mp3"
+    },
+    {
+        "text": "Can you tell me about yourself?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_61_col0.mp3"
+    },
+    {
+        "text": "Sure, I'm a software developer.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_61_col3.mp3"
+    },
+    {
+        "text": "How do you get to the city center?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_62_col0.mp3"
+    },
+    {
+        "text": "I take the bus or walk.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_62_col3.mp3"
+    },
+    {
+        "text": "Can we reschedule the meeting?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_63_col0.mp3"
+    },
+    {
+        "text": "Yes, how about tomorrow morning?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_63_col3.mp3"
+    },
+    {
+        "text": "What's your usual breakfast?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_64_col0.mp3"
+    },
+    {
+        "text": "I usually have cereal and milk.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_64_col3.mp3"
+    },
+    {
+        "text": "How can I contact you?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_65_col0.mp3"
+    },
+    {
+        "text": "You can email me at john@example.com.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_65_col3.mp3"
+    },
+    {
+        "text": "Can you recommend a good book?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_66_col0.mp3"
+    },
+    {
+        "text": "Yes, try 1984 by George Orwell.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_66_col3.mp3"
+    },
+    {
+        "text": "How do I pay for this?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_67_col0.mp3"
+    },
+    {
+        "text": "You can use cash or a credit card.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_67_col3.mp3"
+    },
+    {
+        "text": "What's the best way to relax?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_68_col0.mp3"
+    },
+    {
+        "text": "I suggest taking a short walk outside.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_68_col3.mp3"
+    },
+    {
+        "text": "Do you need any help with that?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_69_col0.mp3"
+    },
+    {
+        "text": "No, thank you. I've got it.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_69_col3.mp3"
+    },
+    {
+        "text": "Can you explain that again?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_70_col0.mp3"
+    },
+    {
+        "text": "Of course, let me rephrase it.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_70_col3.mp3"
+    },
+    {
+        "text": "Can you show me how this works?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_71_col0.mp3"
+    },
+    {
+        "text": "Sure, let me explain it step by step.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_71_col3.mp3"
+    },
+    {
+        "text": "What's your favorite hobby?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_72_col0.mp3"
+    },
+    {
+        "text": "I love gardening.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_72_col3.mp3"
+    },
+    {
+        "text": "How do you usually spend your weekends?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_73_col0.mp3"
+    },
+    {
+        "text": "I usually relax and watch movies.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_73_col3.mp3"
+    },
+    {
+        "text": "Can you recommend a place to visit?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_74_col0.mp3"
+    },
+    {
+        "text": "Yes, you should visit the beach.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_74_col3.mp3"
+    },
+    {
+        "text": "Do you want me to wait here?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_75_col0.mp3"
+    },
+    {
+        "text": "Yes, please wait a moment.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_75_col3.mp3"
+    },
+    {
+        "text": "What kind of food do you prefer?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_76_col0.mp3"
+    },
+    {
+        "text": "I prefer spicy food.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_76_col3.mp3"
+    },
+    {
+        "text": "How long will it take to get there?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_77_col0.mp3"
+    },
+    {
+        "text": "It will take about 20 minutes.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_77_col3.mp3"
+    },
+    {
+        "text": "Do you want to try this?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_78_col0.mp3"
+    },
+    {
+        "text": "Sure, I'd love to.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_78_col3.mp3"
+    },
+    {
+        "text": "What's the weather like today?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_79_col0.mp3"
+    },
+    {
+        "text": "It's sunny and warm.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_79_col3.mp3"
+    },
+    {
+        "text": "Can I have some more details?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_80_col0.mp3"
+    },
+    {
+        "text": "Of course, here's what you need to know.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_80_col3.mp3"
+    },
+    {
+        "text": "What time does the store close?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_81_col0.mp3"
+    },
+    {
+        "text": "It closes at 9:00 PM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_81_col3.mp3"
+    },
+    {
+        "text": "Could you write it down for me?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_82_col0.mp3"
+    },
+    {
+        "text": "Of course, here you go.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_82_col3.mp3"
+    },
+    {
+        "text": "Do you enjoy going to museums?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_83_col0.mp3"
+    },
+    {
+        "text": "Yes, I love art exhibitions.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_83_col3.mp3"
+    },
+    {
+        "text": "What's your favorite kind of movie?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_84_col0.mp3"
+    },
+    {
+        "text": "I enjoy comedies the most.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_84_col3.mp3"
+    },
+    {
+        "text": "How can I help you?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_85_col0.mp3"
+    },
+    {
+        "text": "I need help carrying these bags.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_85_col3.mp3"
+    },
+    {
+        "text": "Do you want to join us for lunch?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_86_col0.mp3"
+    },
+    {
+        "text": "Sure, what time?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_86_col3.mp3"
+    },
+    {
+        "text": "Can I ask you a personal question?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_87_col0.mp3"
+    },
+    {
+        "text": "It depends, what is it about?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_87_col3.mp3"
+    },
+    {
+        "text": "How do you usually start your day?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_88_col0.mp3"
+    },
+    {
+        "text": "I start with a cup of coffee.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_88_col3.mp3"
+    },
+    {
+        "text": "What's your favorite thing to cook?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_89_col0.mp3"
+    },
+    {
+        "text": "I love making pasta dishes.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_89_col3.mp3"
+    },
+    {
+        "text": "Could you recommend a good movie?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_90_col0.mp3"
+    },
+    {
+        "text": "Yes, Inception is amazing.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_90_col3.mp3"
+    },
+    {
+        "text": "Can I ask for your advice?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_91_col0.mp3"
+    },
+    {
+        "text": "Of course, what's on your mind?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_91_col3.mp3"
+    },
+    {
+        "text": "How often do you travel?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_92_col0.mp3"
+    },
+    {
+        "text": "I travel once or twice a year.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_92_col3.mp3"
+    },
+    {
+        "text": "Could you help me carry this?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_93_col0.mp3"
+    },
+    {
+        "text": "Sure, let me grab it.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_93_col3.mp3"
+    },
+    {
+        "text": "What time should I arrive?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_94_col0.mp3"
+    },
+    {
+        "text": "Please arrive by 7:00 PM.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_94_col3.mp3"
+    },
+    {
+        "text": "Do you prefer tea or juice?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_95_col0.mp3"
+    },
+    {
+        "text": "I prefer juice, thank you.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_95_col3.mp3"
+    },
+    {
+        "text": "Where can I find this item?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_96_col0.mp3"
+    },
+    {
+        "text": "It's in aisle 5.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_96_col3.mp3"
+    },
+    {
+        "text": "How do you like the food?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_97_col0.mp3"
+    },
+    {
+        "text": "It's delicious, thank you.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_97_col3.mp3"
+    },
+    {
+        "text": "Can we change the topic?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_98_col0.mp3"
+    },
+    {
+        "text": "Sure, what would you like to discuss?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_98_col3.mp3"
+    },
+    {
+        "text": "What's the best way to contact you?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_99_col0.mp3"
+    },
+    {
+        "text": "You can call me or send me an email.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_99_col3.mp3"
+    },
+    {
+        "text": "Can I join your team?",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_100_col0.mp3"
+    },
+    {
+        "text": "Sure, we'd be happy to have you.",
+        "file": "audio_dam_thoại_02/audio_dam_thoại_02_100_col3.mp3"
+    }
+]
