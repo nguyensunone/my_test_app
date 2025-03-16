@@ -212,15 +212,14 @@
     <p><span id="recognizedSpeech"></span></p>
 </div>
 
-<textarea id="answerInput" placeholder="Viết Mặt Trước...(V1). Nói Mặt Trước...(N1)" onkeydown="handleKeyDown(event)"></textarea>
-<textarea id="writingCheckBack" placeholder="Viết Mặt Sau...(V2). Nói Mặt Sau...(N2)" onkeydown="handleKeyDownBack(event)"></textarea>
+<textarea id="answerInput" placeholder="Kiểm Tra Viết Câu hỏi(V1)" onkeydown="handleKeyDown(event)"></textarea>
+<textarea id="writingCheckBack" placeholder="Kiểm Tra Viết Câu Trả lời(V2)" onkeydown="handleKeyDownBack(event)"></textarea>
 
 <!-- Nhóm các nút kiểm tra -->
 <div style="text-align: center;">
-    <button id="checkAnswerButton" onclick="checkAnswer()">V1</button>
-    <button id="checkAnswerBackButton" onclick="checkAnswerBack()">V2</button>
-    <button id="speakCheckFrontButton" onclick="startSpeechRecognitionFront()">N1</button>
-    <button id="speakCheckButton" onclick="startSpeechRecognition()">N2</button>
+    <button id="checkAnswerButton" onclick="checkAnswer()">Viết-1</button>
+    <button id="checkAnswerBackButton" onclick="checkAnswerBack()">Viết-2</button>
+    <button id="speakCheckFrontButton" onclick="startSpeechRecognitionFront()">Nói</button>    
 </div>
 
 <div class="controls"></div>
@@ -588,7 +587,6 @@ function playPronunciation(text) {
     }
 }
 
-
 function repeatPronunciation() {
     if (currentPronunciationText) {
         playPronunciation(currentPronunciationText);
@@ -704,7 +702,6 @@ function checkAnswerBack() {
     }
 }
 
-
     function startSpeechRecognition() {
         if (!('webkitSpeechRecognition' in window)) {
             alert("Trình duyệt của bạn không hỗ trợ nhận diện giọng nói.");
@@ -750,29 +747,35 @@ function checkAnswerBack() {
     }
 
     function startSpeechRecognitionFront() {
-        if (!('webkitSpeechRecognition' in window)) {
-            alert("Trình duyệt của bạn không hỗ trợ nhận diện giọng nói.");
-            return;
-        }
-        const recognitionFront = new webkitSpeechRecognition();
-        recognitionFront.lang = 'en-US';
-        recognitionFront.interimResults = false;
-        recognitionFront.maxAlternatives = 1;
-        recognitionFront.start();
-        recognitionFront.onresult = function(event) {
-            const speechResult = event.results[0][0].transcript;
-            document.getElementById('recognizedSpeech').textContent = speechResult;
-            document.getElementById('speechResult').style.display = 'block';
-            checkSpeechAnswerFront(speechResult);
-        };
-        recognitionFront.onerror = function(event) {
-            console.error("Lỗi nhận diện giọng nói: ", event.error);
-            alert("Có lỗi xảy ra khi nhận diện giọng nói. Vui lòng thử lại.");
-        };
-        recognitionFront.onend = function() {
-            // Xử lý khi nhận diện kết thúc nếu cần
-        };
+    if (!('webkitSpeechRecognition' in window)) {
+        alert("Trình duyệt của bạn không hỗ trợ nhận diện giọng nói.");
+        return;
     }
+    const recognitionFront = new webkitSpeechRecognition();
+    recognitionFront.lang = 'en-US';
+    recognitionFront.interimResults = false;
+    recognitionFront.maxAlternatives = 1;
+
+    recognitionFront.onresult = function(event) {
+        const speechResult = event.results[0][0].transcript;
+        document.getElementById('recognizedSpeech').textContent = speechResult;
+        document.getElementById('speechResult').style.display = 'block';
+        recognitionFront.stop(); // Stop recognition after speech is processed
+    };
+
+    recognitionFront.onerror = function(event) {
+        console.error("Lỗi nhận diện giọng nói: ", event.error);
+        alert("Có lỗi xảy ra khi nhận diện giọng nói. Vui lòng thử lại.");
+        recognitionFront.stop(); // Consider stopping recognition on error
+    };
+
+    recognitionFront.onend = function() {
+        // This event is triggered when the speech recognition service has disconnected.
+        // You can add code here to handle restarts or cleanup.
+    };
+
+    recognitionFront.start(); // Start recognition
+}
 
     function checkSpeechAnswerFront(speechResult) {
         const word = vocabList[currentIndex];
