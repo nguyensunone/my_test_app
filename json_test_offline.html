@@ -264,6 +264,8 @@
     let lessons = [];
     let hiddenElements = { term: false, ipa: false, vietnamese: false }; // Biến để xác định các phần tử cần ẩn 
     let difficultWords = []; // Mảng lưu trữ các câu khó
+    let askedIndices = []; // Lưu các index đã hỏi
+    let isRandomCycleComplete = false; // Đánh dấu hoàn thành vòng lặp
 
     // Hàm khởi tạo: Load danh sách câu khó từ localStorage (nếu có)
     function loadDifficultWords() {
@@ -346,25 +348,48 @@
     function nextWord() {
         if (vocabList.length === 0) return;
         clearTimeout(autoFlipTimeout);
+
         if (isRandomMode) {
-            currentIndex = Math.floor(Math.random() * vocabList.length);
+            // Nếu đã hỏi hết tất cả câu
+            if (askedIndices.length >= vocabList.length) {
+                if (!isRandomCycleComplete) {
+                    alert("Đã hoàn thành 1 vòng ngẫu nhiên!\nTự động bắt đầu vòng mới.");
+                }
+                askedIndices = [];
+                isRandomCycleComplete = true;
+            }
+
+            // Lọc các câu chưa hỏi
+            const availableIndices = [];
+            for (let i = 0; i < vocabList.length; i++) {
+                if (!askedIndices.includes(i)) {
+                    availableIndices.push(i);
+                }
+            }
+
+            // Chọn ngẫu nhiên từ các câu chưa hỏi
+            currentIndex = availableIndices[Math.floor(Math.random() * availableIndices.length)];
+            askedIndices.push(currentIndex);
         } else {
+            // Chế độ thứ tự bình thường
             currentIndex = (currentIndex + 1) % vocabList.length;
         }
+
         isFront = true;
         displayWord();
     }
 
+    // --- Sửa hàm prevWord ---
     function prevWord() {
-        if (vocabList.length === 0) return;
-        clearTimeout(autoFlipTimeout);
         if (isRandomMode) {
-            currentIndex = Math.floor(Math.random() * vocabList.length);
+            // Trong chế độ ngẫu nhiên, prev sẽ chọn ngẫu nhiên câu khác
+            nextWord();
         } else {
+            // Chế độ thứ tự bình thường
             currentIndex = (currentIndex - 1 + vocabList.length) % vocabList.length;
+            isFront = true;
+            displayWord();
         }
-        isFront = true;
-        displayWord();
     }
 
     function displayWord() {  
@@ -480,7 +505,17 @@
 
     function toggleMode() {
         isRandomMode = !isRandomMode;
-        document.getElementById("toggleModeButton").innerText = isRandomMode ? "Ngẫu Nhiên" : "Theo Thứ Tự";
+        document.getElementById("toggleModeButton").innerText = isRandomMode ? "Ngẫu Nhiên" : "Thứ Tự";
+        
+        // Reset khi chuyển chế độ
+        askedIndices = [];
+        isRandomCycleComplete = false;
+        
+        // Thông báo ngắn
+        const notification = document.getElementById('notification');
+        notification.textContent = `Chế độ: ${isRandomMode ? "Ngẫu nhiên (mỗi câu 1 lần)" : "Thứ tự"}`;
+        notification.style.display = 'block';
+        setTimeout(() => notification.style.display = 'none', 2000);
     }
 
     document.addEventListener('keydown', function(event) {
