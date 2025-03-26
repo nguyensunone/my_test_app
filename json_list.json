@@ -19,6 +19,11 @@
             "name": "dam_thoại_02.json",
             "mapping": "mapping_dam_thoại_02.json",
             "audio": "audio_dam_thoại_02"
+        },
+        {
+            "name": "TQT_100_m.json",
+            "mapping": "mapping_TQT_100_m.json",
+            "audio": "audio_TQT_100_m"
         }
     ]
 }
