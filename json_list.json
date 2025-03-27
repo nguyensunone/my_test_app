@@ -6,9 +6,14 @@
             "audio": "audio_TQT_100"
         },
         {
-            "name": "read_write_TQT.json",
-            "mapping": "mapping_read_write_TQT.json",
-            "audio": "audio_read_write_TQT"
+            "name": "TQT_100_m.json",
+            "mapping": "mapping_TQT_100_m.json",
+            "audio": "audio_TQT_100_m"
+        },
+        {
+            "name": "TQT_read_write.json",
+            "mapping": "mapping_TQT_read_write.json",
+            "audio": "audio_TQT_read_write"
         },
         {
             "name": "dam_thoai_01.json",
@@ -19,11 +24,6 @@
             "name": "dam_thoại_02.json",
             "mapping": "mapping_dam_thoại_02.json",
             "audio": "audio_dam_thoại_02"
-        },
-        {
-            "name": "TQT_100_m.json",
-            "mapping": "mapping_TQT_100_m.json",
-            "audio": "audio_TQT_100_m"
         }
     ]
 }
