@@ -213,8 +213,7 @@
 </div>
 
 <textarea id="answerInput" placeholder="Kiểm Tra Viết Câu Hỏi (V1)" onkeydown="handleKeyDown(event)"></textarea>
-<textarea id="writingCheckBack" placeholder="Kiểm Tra Viết Câu Trả Lời (V2)
-" onkeydown="handleKeyDownBack(event)"></textarea>
+<textarea id="writingCheckBack" placeholder="Kiểm Tra Viết Câu Trả Lời (V2)" onkeydown="handleKeyDownBack(event)"></textarea>
 
 <!-- Nhóm các nút kiểm tra -->
 <div style="text-align: center;">
@@ -741,57 +740,46 @@ function startSpeechRecognitionFront() {
         alert("Trình duyệt của bạn không hỗ trợ nhận diện giọng nói.");
         return;
     }
-    const recognitionFront = new webkitSpeechRecognition();
-    recognitionFront.lang = 'en-US';
-    recognitionFront.interimResults = false;
-    recognitionFront.maxAlternatives = 1;
 
-    recognitionFront.onresult = function(event) {
-        const speechResult = event.results[0][0].transcript;
-        document.getElementById('recognizedSpeech').textContent = speechResult;
+    const activeElement = document.activeElement;
+    const isV1 = activeElement.id === 'answerInput';
+    const isV2 = activeElement.id === 'writingCheckBack';
+
+    const recognition = new webkitSpeechRecognition();
+    recognition.lang = 'en-US';
+    recognition.interimResults = false;
+    recognition.maxAlternatives = 1;
+
+    recognition.onstart = function() {
+        document.getElementById('recognizedSpeech').textContent = "Đang nghe...";
         document.getElementById('speechResult').style.display = 'block';
-        recognitionFront.stop(); // Stop recognition after speech is processed
     };
 
-    recognitionFront.onerror = function(event) {
-        console.error("Lỗi nhận diện giọng nói: ", event.error);
-        alert("Có lỗi xảy ra khi nhận diện giọng nói. Vui lòng thử lại.");
-        recognitionFront.stop(); // Consider stopping recognition on error
-    };
-
-    recognitionFront.onend = function() {
-        // This event is triggered when the speech recognition service has disconnected.
-        // You can add code here to handle restarts or cleanup.
-    };
-
-    recognitionFront.start(); // Start recognition
-}
-    function checkSpeechAnswerFront(speechResult) {
-        const word = vocabList[currentIndex];
-        const expectedText = isFront ? word[0] : word[3];
-        const normalizedExpectedText = removePunctuation(expectedText.toString().trim().toLowerCase());
-        const userAnswer = removePunctuation(speechResult.trim().toLowerCase());
-        if (userAnswer === normalizedExpectedText) {
-            showNotification("Đúng!", true);
-            playPronunciation(expectedText);
-            if (isFront) {
-                setTimeout(() => {
-                    flipCard();
-                }, 3000);
-            } else {
-                setTimeout(() => {
-                    nextWord();
-                }, 4000);
-            }
-        } else {
-            showNotification("Sai!", false);
-            playPronunciation(expectedText);
-            if (!isFront) {
-                flipCardToBack();
-            }
+    recognition.onresult = function(event) {
+        const speechResult = event.results[0][0].transcript;
+        
+        // Hiển thị vào ô tương ứng nếu có focus
+        if (isV1) {
+            document.getElementById('answerInput').value = speechResult;
+        } else if (isV2) {
+            document.getElementById('writingCheckBack').value = speechResult;
         }
-    }
+        
+        // Luôn hiển thị trong khung speechResult
+        document.getElementById('recognizedSpeech').textContent = speechResult;
+        
+        recognition.stop();
+    };
 
+    recognition.onerror = function(event) {
+        console.error("Lỗi nhận diện giọng nói: ", event.error);
+        document.getElementById('recognizedSpeech').textContent = "Lỗi: " + event.error;
+        recognition.stop();
+    };
+
+    recognition.start();
+}
+    
     // Load danh sách bài học từ json_list.json khi trang được tải
     window.onload = function () {
         loadLessonList();
