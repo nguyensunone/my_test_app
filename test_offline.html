@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thi Quoc Tich</title>
+    <title>Language Learning</title>
     <style>    
         body {
             font-family: 'Arial', sans-serif;
@@ -218,10 +218,28 @@
             color: lightgreen;            
             margin-top: 5px;
         }
+        
+        /* Thêm style mới cho tự động kiểm tra */
+        #answerInput.typing, #writingCheckBack.typing {
+            border: 2px solid #61dafb;
+            background-color: #2d3748;
+        }
+
+        #answerInput.checked, #writingCheckBack.checked {
+            transition: all 0.3s ease;
+        }
+        
+        /* Style cho checkbox */
+        label {
+            margin: 0 10px;
+            cursor: pointer;
+            user-select: none;
+        }
     </style>
 </head>
 <body>
 <a href="help.html" style="position: fixed; top: 20px; right: 20px; padding: 10px; background-color: #61dafb; color: #282c34; text-decoration: none; border-radius: 4px;">Help / Trợ giúp</a>
+<a href="read_write.html" style="position: fixed; top: 20px; left: 20px; padding: 10px; background-color: #61dafb; color: #282c34; text-decoration: none; border-radius: 4px;">Read / Write</a>
 
 <div style="text-align: center;">
     <div id="questionCounter">Câu hỏi: 0/0</div>
@@ -238,6 +256,9 @@
 </label>  
 <label>  
     <input type="checkbox" onchange="toggleVisibility('vietnamese')"> Ẩn Vi  
+</label>
+<label>  
+    <input type="checkbox" id="autoCheckToggle" checked onchange="toggleAutoCheck()"> Tự động kiểm tra  
 </label>
 </div>
 
@@ -292,6 +313,9 @@
     let isSpeechRecognitionActive = false;
     let sessionVocabList = []; // Danh sách từ vựng cho phiên học hiện tại
     let sessionStartIndex = 0; // Vị trí bắt đầu của phiên học
+    let isAutoCheckEnabled = true; // Bật tự động kiểm tra mặc định
+    let typingTimer; // Biến hẹn giờ
+    const doneTypingInterval = 1500; // Thời gian chờ sau khi ngừng nhập (ms)
 
     // Danh sách bài học được load động từ file json_list.json
     let lessons = [];
@@ -299,6 +323,23 @@
     let difficultWords = []; // Mảng lưu trữ các câu khó
     let askedIndices = []; // Lưu các index đã hỏi
     let isRandomCycleComplete = false; // Đánh dấu hoàn thành vòng lặp
+
+    // Hàm bật/tắt tự động kiểm tra
+    function toggleAutoCheck() {
+        isAutoCheckEnabled = !isAutoCheckEnabled;
+        const notification = document.getElementById('notification');
+        notification.textContent = `Tự động kiểm tra: ${isAutoCheckEnabled ? "BẬT" : "TẮT"}`;
+        notification.style.display = 'block';
+        notification.style.backgroundColor = isAutoCheckEnabled ? '#4caf50' : '#f44336';
+        setTimeout(() => notification.style.display = 'none', 2000);
+        
+        // Xóa timer nếu đang chạy khi tắt chức năng
+        if (!isAutoCheckEnabled) {
+            clearTimeout(typingTimer);
+            document.getElementById('answerInput').classList.remove('typing');
+            document.getElementById('writingCheckBack').classList.remove('typing');
+        }
+    }
 
     // Hàm khởi tạo: Load danh sách câu khó từ localStorage (nếu có)
     function loadDifficultWords() {
@@ -465,6 +506,11 @@ function flipCard() {
         // Phát âm thanh tương ứng với mặt thẻ  
         const pronunciationText = isFront ? word[0].toString() : word[3].toString();  
         playPronunciation(pronunciationText);  
+        
+        // Reset trạng thái ô nhập liệu
+        document.getElementById('answerInput').classList.remove('typing', 'checked');
+        document.getElementById('writingCheckBack').classList.remove('typing', 'checked');
+        clearTimeout(typingTimer);
     } else {  
         document.getElementById('vocabLabel').innerText = "Tất cả từ vựng đã hoàn thành.";  
     }  
@@ -594,6 +640,7 @@ function flipCard() {
     function handleKeyDown(event) {
         if (event.key === 'Enter' && !event.shiftKey) {
             event.preventDefault();
+            clearTimeout(typingTimer); // Hủy timer nếu có
             checkAnswer();
         }
     }
@@ -601,6 +648,7 @@ function flipCard() {
     function handleKeyDownBack(event) {
         if (event.key === 'Enter' && !event.shiftKey) {
             event.preventDefault();
+            clearTimeout(typingTimer); // Hủy timer nếu có
             checkAnswerBack();
         }
     }
@@ -760,13 +808,30 @@ function autoFlipLogic() {
     }
 }
 
-function removePunctuation(text) {  
-    return text  
-        .replace(/[-]/g, ' ') // Thay thế dấu gạch nối bằng dấu cách  
-        .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"']/g, '') // Loại bỏ các ký tự khác  
-        .replace(/\s{2,}/g, ' ') // Thay thế nhiều dấu cách thành một dấu cách  
-        .trim(); // Loại bỏ dấu cách thừa ở đầu và cuối chuỗi  
-}  
+function normalizeText(text) {
+    return text
+        .replace(/[-]/g, ' ')
+        .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"']/g, '') // remove punctuation
+        .replace(/\s{2,}/g, ' ') // multiple spaces to one
+        .replace(/\b10\b/g, 'ten') // replace number 10 with word
+        .replace(/\b1\b/g, 'one')
+        .replace(/\b2\b/g, 'two')
+        .replace(/\b3\b/g, 'three')
+        .replace(/\b4\b/g, 'four')
+        .replace(/\b5\b/g, 'five')
+        .replace(/\b6\b/g, 'six')
+        .replace(/\b7\b/g, 'seven')
+        .replace(/\b8\b/g, 'eight')
+        .replace(/\b9\b/g, 'nine')
+        .replace(/\b0\b/g, 'zero')
+        .replace(/\b50\b/g, 'fifty')
+        .replace(/\b13\b/g, 'thirteen')
+        .replace(/\b100\b/g, 'one hundred')
+        .replace(/\b4th\b/g, 'fourth')
+        
+        .toLowerCase()
+        .trim();
+}
 
     function showNotification(message, isCorrect, userAnswer = "", correctAnswer = "") {
         const notification = document.getElementById('notification');
@@ -820,10 +885,10 @@ function removePunctuation(text) {
 
     function checkAnswer() {
     const answerInput = document.getElementById('answerInput');
-    const userAnswer = removePunctuation(answerInput.value.toString().trim().toLowerCase());
+    const userAnswer = normalizeText(answerInput.value.toString().trim().toLowerCase());
     const word = vocabList[currentIndex];
     const expectedText = isFront ? word[0] : word[3];
-    const normalizedExpectedText = removePunctuation(expectedText.toString().trim().toLowerCase());
+    const normalizedExpectedText = normalizeText(expectedText.toString().trim().toLowerCase());
 
     if (userAnswer === normalizedExpectedText) {
         showNotification("Đúng!", true);
@@ -856,12 +921,14 @@ function removePunctuation(text) {
         playPronunciation(expectedText);
     }
     answerInput.value = '';
+    answerInput.classList.remove('typing', 'checked');
 }
 
 function checkAnswerBack() {
-    const currentExample = removePunctuation(vocabList[currentIndex][3].toString().trim().toLowerCase());
-    const userAnswerBack = removePunctuation(document.getElementById("writingCheckBack").value.trim().toLowerCase());
+    const currentExample = normalizeText(vocabList[currentIndex][3].toString().trim().toLowerCase());
+    const userAnswerBack = normalizeText(document.getElementById("writingCheckBack").value.trim().toLowerCase());
     document.getElementById("writingCheckBack").value = "";
+    document.getElementById("writingCheckBack").classList.remove('typing', 'checked');
 
     if (userAnswerBack === currentExample) {
         showNotification("Đúng!", true);
@@ -930,8 +997,18 @@ function startSpeechRecognitionFront() {
         // Hiển thị vào ô tương ứng nếu có focus
         if (isV1) {
             document.getElementById('answerInput').value = speechResult;
+            document.getElementById('answerInput').classList.add('typing');
+            // Kích hoạt tự động kiểm tra sau khi nhận diện xong
+            setTimeout(() => {
+                handleTypingDoneV1();
+            }, doneTypingInterval);
         } else if (isV2) {
             document.getElementById('writingCheckBack').value = speechResult;
+            document.getElementById('writingCheckBack').classList.add('typing');
+            // Kích hoạt tự động kiểm tra sau khi nhận diện xong
+            setTimeout(() => {
+                handleTypingDoneV2();
+            }, doneTypingInterval);
         }
         
         // Luôn hiển thị trong khung speechResult
@@ -948,6 +1025,71 @@ function startSpeechRecognitionFront() {
 
     recognition.start();
 }
+
+// Hàm xử lý khi ngừng nhập cho V1
+function handleTypingDoneV1() {
+    if (!isAutoCheckEnabled) return;
+    const input = document.getElementById('answerInput');
+    if (input.value.trim() !== '') {
+        input.classList.add('checked');
+        input.classList.remove('typing');
+        checkAnswer();
+    }
+}
+
+// Hàm xử lý khi ngừng nhập cho V2
+function handleTypingDoneV2() {
+    if (!isAutoCheckEnabled) return;
+    const input = document.getElementById('writingCheckBack');
+    if (input.value.trim() !== '') {
+        input.classList.add('checked');
+        input.classList.remove('typing');
+        checkAnswerBack();
+    }
+}
+
+// Xử lý ô nhập V1
+document.getElementById('answerInput').addEventListener('input', function() {
+    if (!isAutoCheckEnabled) {
+        this.classList.remove('typing');
+        clearTimeout(typingTimer);
+        return;
+    }
+    
+    this.classList.add('typing');
+    clearTimeout(typingTimer);
+    typingTimer = setTimeout(() => {
+        if (isAutoCheckEnabled) {
+            handleTypingDoneV1();
+        }
+    }, doneTypingInterval);
+});
+
+// Xử lý ô nhập V2
+document.getElementById('writingCheckBack').addEventListener('input', function() {
+    if (!isAutoCheckEnabled) {
+        this.classList.remove('typing');
+        clearTimeout(typingTimer);
+        return;
+    }
+    
+    this.classList.add('typing');
+    clearTimeout(typingTimer);
+    typingTimer = setTimeout(() => {
+        if (isAutoCheckEnabled) {
+            handleTypingDoneV2();
+        }
+    }, doneTypingInterval);
+});
+
+// Hủy timeout nếu người dùng tiếp tục nhập
+document.getElementById('answerInput').addEventListener('keydown', function() {
+    clearTimeout(typingTimer);
+});
+
+document.getElementById('writingCheckBack').addEventListener('keydown', function() {
+    clearTimeout(typingTimer);
+});
     
     // Load danh sách bài học từ json_list.json khi trang được tải
     window.onload = function () {
