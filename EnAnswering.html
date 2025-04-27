@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Answering Practice</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1c1c1c;
+      color: #f0f0f0;
+      text-align: center;
+      padding: 20px;
+    }
+    .card {
+      background-color: #2c2c2c;
+      padding: 30px;
+      margin: 20px auto;
+      max-width: 600px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+      font-size: 22px;
+    }
+    input, button, select {
+      font-size: 16px;
+      padding: 10px;
+      margin: 5px;
+    }
+    #practiceStatus {
+      margin-top: 15px;
+      font-weight: bold;
+      color: lightgreen;
+    }
+    .options-row {
+      margin: 15px 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+    .option-item {
+      display: flex;
+      align-items: center;
+    }
+    #nextBtn, #retryBtn, #replayBtn {
+        margin: 5px;
+        transition: all 0.3s ease;
+    }
+    #replayBtn:hover {
+        background-color: #F57C00 !important;
+    }
+    #appSelector {
+      font-size: 14px;
+      border: 1px solid #555;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    #appSelector:hover {
+      background: #444 !important;
+    }
+    .term {
+      color: #4CAF50;
+      font-weight: bold;
+    }
+    .example {
+      color: #2196F3;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div style="position: fixed; top: 10px; right: 10px; z-index: 1000;">
+    <select id="appSelector" onchange="switchApp()" style="padding: 8px; border-radius: 5px; background: #333; color: white;">
+      <option value="ViEnSpeaking.html">Luyện Nói Vi-En</option>
+      <option value="En_Spea_Writ.html">Nói Viết En</option>
+      <option value="test_offline.html">Học Ngoại Ngữ</option>
+      <option value="EnAnswering.html" selected>Trả Lời tiếng Anh</option>
+    </select>
+  </div>
+
+  <h1>English Answering Practice</h1>
+  <div>
+    <select id="lessonSelector"></select>
+    <button onclick="loadLesson()">Load Lesson</button>
+  </div>
+  <div class="options-row">
+    <div class="option-item">
+      <label>From: <input id="practiceStart" type="number" min="1" value="1" style="width:60px;"></label>
+    </div>
+    <div class="option-item">
+      <label>To: <input id="practiceEnd" type="number" min="1" style="width:60px;"></label>
+    </div>
+    <div class="option-item">
+      <label>Delay (ms): <input id="waitDelay" type="number" value="800" style="width:80px;"></label>
+    </div>
+    <div class="option-item">
+      <label><input type="checkbox" id="repeatLesson"> Repeat</label>
+    </div>
+    <div class="option-item">
+      <label><input type="checkbox" id="autoFlipCheckbox"> Auto flip</label>
+    </div>
+    <div class="option-item">
+      <label><input type="checkbox" id="randomModeCheckbox"> Random mode</label>
+    </div>
+  </div>
+  <div>
+    <button onclick="startPracticeTranslationSession()">Start Practice</button>
+    <button onclick="togglePausePractice()" id="pauseBtn">Pause</button>
+  </div>
+  <div id="vocabLabel" class="card">No data loaded yet.</div>
+  <div id="practiceStatus"></div>
+  <div id="recordingStatus" style="margin-top: 10px; font-weight: bold;"></div>
+  <button id="nextBtn" onclick="skipToNextSentence()" style="display:none; margin-top:20px; padding:10px 20px; font-size:18px; background-color:#4CAF50; color:white; border:none; border-radius:6px; cursor:pointer;">➡️ Next Sentence</button>
+  <button id="retryBtn" onclick="retrySpeech()" style="display:none; margin-top:10px; padding:10px 20px; font-size:18px; background-color:#2196F3; color:white; border:none; border-radius:6px; cursor:pointer;">🔁 Try Again</button>
+  <button id="replayBtn" onclick="replayCorrectSentence()" style="display:none; margin-top:10px; padding:10px 20px; font-size:18px; background-color:#FF9800; color:white; border:none; border-radius:6px; cursor:pointer;">🔊 Replay Sample</button>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
+  <script>
+    let vocabList = [], audioMapping = [], lessons = [];
+    let currentIndex = 0, practiceStep = 0, practiceCounter = 0;
+    let isPracticeMode = false, isPaused = false, repeatMode = false;
+    let waitDelay = 800, isSlowPronunciation = false, forceNext = false;
+    let audio, recognition, currentPronunciationText = '';
+    let autoFlipMode = false, randomMode = false;
+    let practiceIndices = []; // For random mode tracking
+    let currentPracticeOrder = []; // Tracks the order of practiced items
+
+    window.onload = () => {
+      fetch("json_list.json")
+        .then(res => res.json())
+        .then(data => {
+          lessons = data.lessons || [];
+          const selector = document.getElementById("lessonSelector");
+          selector.innerHTML = "";
+          lessons.forEach(lesson => {
+            const option = document.createElement("option");
+            option.value = lesson.name;
+            option.textContent = lesson.name.replace('.json', '');
+            selector.appendChild(option);
+          });
+        })
+        .catch(err => console.error("Could not load lesson list", err));
+    };
+
+    function loadLesson() {
+      const selected = document.getElementById('lessonSelector').value;
+      const lesson = lessons.find(l => l.name === selected);
+      if (!lesson) return alert("Lesson not found!");
+
+      Promise.all([
+        fetch("LESSON/" + lesson.name).then(res => res.json()),
+        fetch("LESSON/" + lesson.mapping).then(res => res.json())
+      ]).then(([lessonData, mappingData]) => {
+        vocabList = lessonData;
+        audioMapping = Array.isArray(mappingData) ? mappingData : [mappingData];
+        document.getElementById('vocabLabel').innerText = "✅ Lesson loaded. You can start practicing.";
+      }).catch(err => {
+        alert("❌ Error loading lesson or audio files.");
+        console.error(err);
+      });
+    }
+
+    function playPracticeSequence() {
+        if (!isPracticeMode || isPaused) return;
+        
+        // In random mode, get the current index from our shuffled array
+        const displayIndex = randomMode ? practiceIndices[currentIndex] : currentIndex;
+        const word = vocabList[displayIndex];
+        
+        // Practice sequence for English-English mode
+        const sequence = autoFlipMode 
+            ? [
+                { type: 'en', text: word[0], html: `<span class='term'>${word[0]}</span>` },
+                { type: 'ex_en', text: word[3], html: `<span class='example'>${word[3]}</span>` }
+            ]
+            : [
+                { type: 'en', text: word[0], html: `<span class='term'>${word[0]}</span>` }
+            ];
+
+        if (practiceStep >= sequence.length) {
+            practiceStep = 0;
+            practiceCounter++;
+            updatePracticeStatus();
+            
+            if (currentIndex + 1 < practiceRangeEnd) {
+                currentIndex++;
+                setTimeout(() => playPracticeSequence(), waitDelay);
+            } else if (repeatMode) {
+                if (randomMode) {
+                    // Reshuffle for new repeat cycle
+                    initializeRandomPractice();
+                }
+                currentIndex = 0;
+                practiceCounter = 0;
+                setTimeout(() => playPracticeSequence(), waitDelay);
+            } else {
+                isPracticeMode = false;
+                document.getElementById('practiceStatus').innerText = "✅ Practice completed.";
+            }
+            return;
+        }
+
+        const current = sequence[practiceStep];
+        document.getElementById('vocabLabel').innerHTML = `<div class='card'>${current.html}</div>`;
+        document.getElementById('recordingStatus').innerText = '';
+        
+        const audioEntry = audioMapping.find(item => item.text === current.text && item.type === current.type);
+        if (!audioEntry) {
+            practiceStep++;
+            setTimeout(() => playPracticeSequence(), waitDelay);
+            return;
+        }
+
+        const audioFilePath = "LESSON/" + audioEntry.file;
+        audio = new Howl({
+            src: [audioFilePath], 
+            html5: true,
+            rate: isSlowPronunciation ? 0.75 : 1,
+            onend: () => {
+                if (autoFlipMode) {
+                    // Auto mode: move to next step
+                    practiceStep++;
+                    setTimeout(() => playPracticeSequence(), waitDelay);
+                } else {
+                    // Practice mode: start recording when showing the vocabulary
+                    if (current.type === 'en') {
+                        currentPronunciationText = word[3]; // Expect the example sentence
+                        forceNext = false;
+                        setTimeout(() => startSpeechRecognition(word[3]), 300);
+                    } else {
+                        practiceStep++;
+                        setTimeout(() => playPracticeSequence(), waitDelay);
+                    }
+                }
+            }
+        });
+        audio.play();
+    }
+
+    function initializeRandomPractice() {
+        // Create an array of indices for the practice range
+        practiceIndices = [];
+        for (let i = practiceRangeStart; i < practiceRangeEnd; i++) {
+            practiceIndices.push(i);
+        }
+        
+        // Shuffle the array
+        for (let i = practiceIndices.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [practiceIndices[i], practiceIndices[j]] = [practiceIndices[j], practiceIndices[i]];
+        }
+        
+        // Reset current index
+        currentIndex = 0;
+    }
+
+    function replayCorrectSentence() {
+      if (!currentPronunciationText) return;
+      
+      const displayIndex = randomMode ? practiceIndices[currentIndex] : currentIndex;
+      const currentWord = vocabList[displayIndex];
+      const audioEntry = audioMapping.find(item => item.text === currentWord[3] && item.type === 'ex_en');
+
+      if (audioEntry) {
+          const audioFilePath = "LESSON/" + audioEntry.file;
+          new Howl({
+              src: [audioFilePath],
+              html5: true,
+              rate: isSlowPronunciation ? 0.75 : 1
+          }).play();
+      }
+    }
+
+    function startSpeechRecognition(expectedText) {
+        if (!('webkitSpeechRecognition' in window)) {
+            practiceStep++;
+            setTimeout(() => playPracticeSequence(), waitDelay);
+            return;
+        }
+
+        recognition = new webkitSpeechRecognition();
+        recognition.lang = 'en-US';
+        recognition.interimResults = false;
+        recognition.maxAlternatives = 1;
+
+        document.getElementById('recordingStatus').innerText = '🎤 Recording...';
+        recognition.start();
+
+        recognition.onresult = (event) => {
+            const result = event.results[0][0].transcript.toLowerCase();
+            const score = comparePronunciation(expectedText.toLowerCase(), result);
+            document.getElementById('recordingStatus').innerText = `🗣️ You said: "${result}" — Match: ${score}%`;
+            
+            if (score >= 80 || forceNext) {
+                // Show and play the correct example sentence
+                const displayIndex = randomMode ? practiceIndices[currentIndex] : currentIndex;
+                const word = vocabList[displayIndex];
+                
+                document.getElementById('vocabLabel').innerHTML = `<div class='card'><span class='example'>${word[3]}</span></div>`;
+                
+                const audioEntry = audioMapping.find(item => 
+                    item.text === word[3] && item.type === 'ex_en'
+                );
+                
+                if (audioEntry) {
+                    new Howl({
+                        src: ["LESSON/" + audioEntry.file],
+                        html5: true,
+                        rate: isSlowPronunciation ? 0.75 : 1,
+                        onend: () => {
+                            hideAllControlButtons();
+                            practiceStep++;
+                            setTimeout(() => playPracticeSequence(), waitDelay);
+                        }
+                    }).play();
+                } else {
+                    practiceStep++;
+                    setTimeout(() => playPracticeSequence(), waitDelay);
+                }
+            } else {
+                // Incorrect - show and play the correct sentence then retry
+                const displayIndex = randomMode ? practiceIndices[currentIndex] : currentIndex;
+                const word = vocabList[displayIndex];
+                
+                document.getElementById('vocabLabel').innerHTML = `<div class='card'><span class='example'>${word[3]}</span></div>`;
+                
+                const audioEntry = audioMapping.find(item => 
+                    item.text === word[3] && item.type === 'ex_en'
+                );
+                
+                if (audioEntry) {
+                    new Howl({
+                        src: ["LESSON/" + audioEntry.file],
+                        html5: true,
+                        rate: isSlowPronunciation ? 0.75 : 1,
+                        onend: () => {
+                            setTimeout(() => startSpeechRecognition(expectedText), 800);
+                        }
+                    }).play();
+                } else {
+                    setTimeout(() => startSpeechRecognition(expectedText), 800);
+                }
+            }
+        };
+
+        recognition.onerror = () => {
+            document.getElementById('recordingStatus').innerText = '⚠️ Recording failed.';
+            document.getElementById('nextBtn').style.display = 'inline-block';
+        };
+
+        recognition.onend = () => {
+            if (!forceNext) {
+                document.getElementById('recordingStatus').innerText;
+                showControlButtons();
+            }
+        };
+    }
+
+    function hideAllControlButtons() {
+      document.getElementById('nextBtn').style.display = 'none';
+      document.getElementById('retryBtn').style.display = 'none';
+      document.getElementById('replayBtn').style.display = 'none';
+    }
+
+    function showControlButtons() {
+        document.getElementById('nextBtn').style.display = 'inline-block';
+        document.getElementById('retryBtn').style.display = 'inline-block';
+        document.getElementById('replayBtn').style.display = 'inline-block';
+    }
+
+    function retrySpeech() {
+      document.getElementById('retryBtn').style.display = 'none';
+      document.getElementById('recordingStatus').innerText = '🎤 Recording again...';
+      startSpeechRecognition(currentPronunciationText);
+    }
+
+    function skipToNextSentence() {
+      forceNext = true;
+      hideAllControlButtons();
+      practiceStep++;
+      playPracticeSequence();
+    }
+
+    function updatePracticeStatus() {
+      const total = practiceRangeEnd - practiceRangeStart;
+      const completed = Math.min(practiceCounter, total);
+      document.getElementById('practiceStatus').innerText = `Practicing: ${completed}/${total} sentences`;
+    }
+
+    function togglePausePractice() {
+      isPaused = !isPaused;
+      document.getElementById('pauseBtn').innerText = isPaused ? "Continue" : "Pause";
+      if (!isPaused && isPracticeMode) playPracticeSequence();
+    }
+
+    function startPracticeTranslationSession() {
+      if (vocabList.length === 0) return alert("No lesson loaded!");
+      practiceRangeStart = parseInt(document.getElementById('practiceStart').value) - 1;
+      practiceRangeEnd = parseInt(document.getElementById('practiceEnd').value);
+      waitDelay = parseInt(document.getElementById('waitDelay').value) || 800;
+      repeatMode = document.getElementById('repeatLesson').checked;
+      autoFlipMode = document.getElementById('autoFlipCheckbox').checked;
+      randomMode = document.getElementById('randomModeCheckbox').checked;
+      
+      if (isNaN(practiceRangeStart) || isNaN(practiceRangeEnd) || practiceRangeStart < 0 || practiceRangeEnd <= practiceRangeStart || practiceRangeEnd > vocabList.length) {
+        alert("Invalid sentence range."); return;
+      }
+      
+      // Initialize random order if needed
+      if (randomMode) {
+        initializeRandomPractice();
+      }
+      
+      currentIndex = 0;
+      practiceCounter = 0;
+      practiceStep = 0;
+      isPracticeMode = true;
+      isPaused = false;
+      document.getElementById('pauseBtn').innerText = "Pause";
+      updatePracticeStatus();
+      playPracticeSequence();
+    }
+
+    function comparePronunciation(expected, actual) {
+      const ed = new Array(expected.length + 1).fill(null).map(() => new Array(actual.length + 1).fill(0));
+      for (let i = 0; i <= expected.length; i++) ed[i][0] = i;
+      for (let j = 0; j <= actual.length; j++) ed[0][j] = j;
+      for (let i = 1; i <= expected.length; i++) {
+        for (let j = 1; j <= actual.length; j++) {
+          ed[i][j] = expected[i - 1] === actual[j - 1] ? ed[i - 1][j - 1] : 1 + Math.min(ed[i - 1][j], ed[i][j - 1], ed[i - 1][j - 1]);
+        }
+      }
+      const distance = ed[expected.length][actual.length];
+      const maxLen = Math.max(expected.length, actual.length);
+      return Math.max(0, Math.round(100 - (distance / maxLen) * 100));
+    }
+
+    function switchApp() {
+      const selectedApp = document.getElementById('appSelector').value;
+      if (selectedApp && selectedApp !== window.location.pathname.split('/').pop()) {
+        window.location.href = selectedApp;
+      }
+    }
+
+    /* === CHẾ ĐỘ NGẪU NHIÊN GỐC (CHO PHÉP LẶP LẠI) === */
+function toggleMode() {
+    isRandomMode = !isRandomMode;
+    document.getElementById("toggleModeButton").innerText = 
+        isRandomMode ? "🔀 Ngẫu Nhiên (có lặp)" : "➡️ Thứ Tự";
+}
+
+function nextWord() {
+    if (vocabList.length === 0) return;
+    clearTimeout(autoFlipTimeout);
+    
+    currentIndex = isRandomMode 
+        ? Math.floor(Math.random() * vocabList.length) // Chọn bất kỳ
+        : (currentIndex + 1) % vocabList.length; // Tuần tự
+    
+    isFront = true;
+    displayWord();
+}
+
+function prevWord() {
+    if (isRandomMode) nextWord(); // Trong chế độ ngẫu nhiên, "Trước" cũng là ngẫu nhiên
+    else {
+        currentIndex = (currentIndex - 1 + vocabList.length) % vocabList.length;
+        isFront = true;
+        displayWord();
+    }
+}
+  </script>
+</body>
+</html>

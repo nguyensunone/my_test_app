@@ -1,802 +1,2002 @@
 [
     {
         "text": "How are you?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_1_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_0.mp3",
+        "type": "en"
     },
     {
         "text": "I'm good, thanks.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_1_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_0.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn khỏe không?",
+        "file": "audio_dam_thoai_01\\vi_0.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi khỏe, cảm ơn.",
+        "file": "audio_dam_thoai_01\\ex_vi_0.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's your name?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_2_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_1.mp3",
+        "type": "en"
     },
     {
         "text": "My name is John.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_2_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_1.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tên bạn là gì?",
+        "file": "audio_dam_thoai_01\\vi_1.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tên tôi là John.",
+        "file": "audio_dam_thoai_01\\ex_vi_1.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Where are you from?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_3_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_2.mp3",
+        "type": "en"
     },
     {
         "text": "I'm from the US.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_3_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_2.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đến từ đâu?",
+        "file": "audio_dam_thoai_01\\vi_2.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi đến từ Mỹ.",
+        "file": "audio_dam_thoai_01\\ex_vi_2.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you help me?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_4_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_3.mp3",
+        "type": "en"
     },
     {
         "text": "Of course!",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_4_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_3.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể giúp tôi không?",
+        "file": "audio_dam_thoai_01\\vi_3.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên rồi!",
+        "file": "audio_dam_thoai_01\\ex_vi_3.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What time is it?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_5_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_4.mp3",
+        "type": "en"
     },
     {
         "text": "It's 10:00.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_5_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_4.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Mấy giờ rồi?",
+        "file": "audio_dam_thoai_01\\vi_4.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Bây giờ là 10 giờ.",
+        "file": "audio_dam_thoai_01\\ex_vi_4.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How much is this?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_6_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_5.mp3",
+        "type": "en"
     },
     {
         "text": "It's five dollars.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_6_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_5.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cái này bao nhiêu tiền?",
+        "file": "audio_dam_thoai_01\\vi_5.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nó giá 5 đô la.",
+        "file": "audio_dam_thoai_01\\ex_vi_5.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you speak English?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_7_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_6.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I do.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_7_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_6.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có nói tiếng Anh không?",
+        "file": "audio_dam_thoai_01\\vi_6.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, tôi nói.",
+        "file": "audio_dam_thoai_01\\ex_vi_6.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Where's the restroom?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_8_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_7.mp3",
+        "type": "en"
     },
     {
         "text": "It's over there.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_8_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_7.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nhà vệ sinh ở đâu?",
+        "file": "audio_dam_thoai_01\\vi_7.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nó ở đằng kia.",
+        "file": "audio_dam_thoai_01\\ex_vi_7.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How was your day?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_9_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_8.mp3",
+        "type": "en"
     },
     {
         "text": "It was great.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_9_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_8.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày của bạn thế nào?",
+        "file": "audio_dam_thoai_01\\vi_8.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ngày của tôi thật tuyệt.",
+        "file": "audio_dam_thoai_01\\ex_vi_8.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I have the menu?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_10_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_9.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, here it is.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_10_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_9.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể xem thực đơn không?",
+        "file": "audio_dam_thoai_01\\vi_9.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chắc chắn rồi, đây ạ.",
+        "file": "audio_dam_thoai_01\\ex_vi_9.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Are you busy?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_11_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_10.mp3",
+        "type": "en"
     },
     {
         "text": "Not really.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_11_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_10.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đang bận à?",
+        "file": "audio_dam_thoai_01\\vi_10.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không hẳn.",
+        "file": "audio_dam_thoai_01\\ex_vi_10.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's up?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_12_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_11.mp3",
+        "type": "en"
     },
     {
         "text": "Not much.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_12_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_11.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có chuyện gì vậy?",
+        "file": "audio_dam_thoai_01\\vi_11.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không có gì nhiều.",
+        "file": "audio_dam_thoai_01\\ex_vi_11.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Where do you live?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_13_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_12.mp3",
+        "type": "en"
     },
     {
         "text": "I live in California.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_13_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_12.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn sống ở đâu?",
+        "file": "audio_dam_thoai_01\\vi_12.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi sống ở California.",
+        "file": "audio_dam_thoai_01\\ex_vi_12.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I sit here?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_14_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_13.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, go ahead.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_14_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_13.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể ngồi đây không?",
+        "file": "audio_dam_thoai_01\\vi_13.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, cứ tự nhiên.",
+        "file": "audio_dam_thoai_01\\ex_vi_13.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's your job?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_15_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_14.mp3",
+        "type": "en"
     },
     {
         "text": "I'm a teacher.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_15_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_14.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn làm nghề gì?",
+        "file": "audio_dam_thoai_01\\vi_14.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi là giáo viên.",
+        "file": "audio_dam_thoai_01\\ex_vi_14.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How do you spell that?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_16_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_15.mp3",
+        "type": "en"
     },
     {
         "text": "It's: J O H N.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_16_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_15.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đánh vần cái đó như thế nào?",
+        "file": "audio_dam_thoai_01\\vi_15.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Là J-O-H-N.",
+        "file": "audio_dam_thoai_01\\ex_vi_15.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you drive?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_17_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_16.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I can.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_17_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_16.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn biết lái xe không?",
+        "file": "audio_dam_thoai_01\\vi_16.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, tôi biết.",
+        "file": "audio_dam_thoai_01\\ex_vi_16.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What do you think?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_18_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_17.mp3",
+        "type": "en"
     },
     {
         "text": "I like it.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_18_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_17.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn nghĩ sao?",
+        "file": "audio_dam_thoai_01\\vi_17.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thích nó.",
+        "file": "audio_dam_thoai_01\\ex_vi_17.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you have siblings?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_19_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_18.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I have a brother.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_19_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_18.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có anh chị em không?",
+        "file": "audio_dam_thoai_01\\vi_18.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi có một người anh/em trai.",
+        "file": "audio_dam_thoai_01\\ex_vi_18.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Is it far from here?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_20_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_19.mp3",
+        "type": "en"
     },
     {
         "text": "No, it's close.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_20_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_19.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nó có xa đây không?",
+        "file": "audio_dam_thoai_01\\vi_19.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không, nó gần.",
+        "file": "audio_dam_thoai_01\\ex_vi_19.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Are you hungry?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_21_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_20.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I am.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_21_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_20.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có đói không?",
+        "file": "audio_dam_thoai_01\\vi_20.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi đói.",
+        "file": "audio_dam_thoai_01\\ex_vi_20.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you repeat that?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_22_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_21.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, no problem.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_22_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_21.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể nhắc lại không?",
+        "file": "audio_dam_thoai_01\\vi_21.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, không vấn đề gì.",
+        "file": "audio_dam_thoai_01\\ex_vi_21.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you want some coffee?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_23_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_22.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, please.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_23_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_22.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có muốn chút cà phê không?",
+        "file": "audio_dam_thoai_01\\vi_22.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, làm ơn.",
+        "file": "audio_dam_thoai_01\\ex_vi_22.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What do you like to do?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_24_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_23.mp3",
+        "type": "en"
     },
     {
         "text": "I like reading.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_24_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_23.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn thích làm gì?",
+        "file": "audio_dam_thoai_01\\vi_23.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thích đọc sách.",
+        "file": "audio_dam_thoai_01\\ex_vi_23.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How's the weather today?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_25_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_24.mp3",
+        "type": "en"
     },
     {
         "text": "It's sunny.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_25_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_24.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thời tiết hôm nay thế nào?",
+        "file": "audio_dam_thoai_01\\vi_24.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Trời nắng.",
+        "file": "audio_dam_thoai_01\\ex_vi_24.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you have a pet?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_26_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_25.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I have a dog.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_26_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_25.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có nuôi thú cưng không?",
+        "file": "audio_dam_thoai_01\\vi_25.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi nuôi một con chó.",
+        "file": "audio_dam_thoai_01\\ex_vi_25.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's your favorite color?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_27_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_26.mp3",
+        "type": "en"
     },
     {
         "text": "It's blue.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_27_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_26.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Màu yêu thích của bạn là gì?",
+        "file": "audio_dam_thoai_01\\vi_26.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Là màu xanh dương.",
+        "file": "audio_dam_thoai_01\\ex_vi_26.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you swim?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_28_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_27.mp3",
+        "type": "en"
     },
     {
         "text": "No, I can't.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_28_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_27.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn biết bơi không?",
+        "file": "audio_dam_thoai_01\\vi_27.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không, tôi không biết bơi.",
+        "file": "audio_dam_thoai_01\\ex_vi_27.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's the matter?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_29_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_28.mp3",
+        "type": "en"
     },
     {
         "text": "Nothing, I'm fine.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_29_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_28.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có chuyện gì vậy?",
+        "file": "audio_dam_thoai_01\\vi_28.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không có gì, tôi ổn.",
+        "file": "audio_dam_thoai_01\\ex_vi_28.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I pay by card?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_30_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_29.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, you can.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_30_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_29.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể trả bằng thẻ không?",
+        "file": "audio_dam_thoai_01\\vi_29.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, bạn có thể.",
+        "file": "audio_dam_thoai_01\\ex_vi_29.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How do you feel today?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_31_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_30.mp3",
+        "type": "en"
     },
     {
         "text": "I feel great, thanks.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_31_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_30.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hôm nay bạn cảm thấy thế nào?",
+        "file": "audio_dam_thoai_01\\vi_30.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi cảm thấy tuyệt, cảm ơn.",
+        "file": "audio_dam_thoai_01\\ex_vi_30.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Is this your first time here?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_32_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_31.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, it is.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_32_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_31.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Đây là lần đầu bạn tới đây phải không?",
+        "file": "audio_dam_thoai_01\\vi_31.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đúng vậy.",
+        "file": "audio_dam_thoai_01\\ex_vi_31.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you like traveling?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_33_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_32.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I love it.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_33_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_32.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thích du lịch không?",
+        "file": "audio_dam_thoai_01\\vi_32.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi rất thích.",
+        "file": "audio_dam_thoai_01\\ex_vi_32.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's your favorite food?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_34_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_33.mp3",
+        "type": "en"
     },
     {
         "text": "I love pizza.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_34_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_33.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Món ăn yêu thích của bạn là gì?",
+        "file": "audio_dam_thoai_01\\vi_33.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thích pizza.",
+        "file": "audio_dam_thoai_01\\ex_vi_33.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I borrow your pen?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_35_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_34.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, here you go.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_35_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_34.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi mượn bút của bạn được không?",
+        "file": "audio_dam_thoai_01\\vi_34.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, đây này.",
+        "file": "audio_dam_thoai_01\\ex_vi_34.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Are you ready to go?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_36_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_35.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I'm ready.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_36_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_35.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn sẵn sàng đi chưa?",
+        "file": "audio_dam_thoai_01\\vi_35.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Rồi, tôi sẵn sàng.",
+        "file": "audio_dam_thoai_01\\ex_vi_35.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What time do you wake up?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_37_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_36.mp3",
+        "type": "en"
     },
     {
         "text": "I wake up at 7:00 AM.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_37_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_36.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn dậy lúc mấy giờ?",
+        "file": "audio_dam_thoai_01\\vi_36.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi dậy lúc 7 giờ sáng.",
+        "file": "audio_dam_thoai_01\\ex_vi_36.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you like this movie?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_38_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_37.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, it's amazing.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_38_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_37.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thích bộ phim này không?",
+        "file": "audio_dam_thoai_01\\vi_37.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, nó rất tuyệt vời.",
+        "file": "audio_dam_thoai_01\\ex_vi_37.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are your hobbies?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_39_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_38.mp3",
+        "type": "en"
     },
     {
         "text": "I enjoy painting.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_39_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_38.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Sở thích của bạn là gì?",
+        "file": "audio_dam_thoai_01\\vi_38.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thích vẽ tranh.",
+        "file": "audio_dam_thoai_01\\ex_vi_38.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Could you show me the way?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_40_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_39.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, follow me.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_40_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_39.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể chỉ đường cho tôi không?",
+        "file": "audio_dam_thoai_01\\vi_39.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, đi theo tôi.",
+        "file": "audio_dam_thoai_01\\ex_vi_39.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How long does it take?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_41_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_40.mp3",
+        "type": "en"
     },
     {
         "text": "About 10 minutes.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_41_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_40.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Mất bao lâu?",
+        "file": "audio_dam_thoai_01\\vi_40.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Khoảng 10 phút.",
+        "file": "audio_dam_thoai_01\\ex_vi_40.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I call you later?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_42_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_41.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, no problem.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_42_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_41.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể gọi cho bạn sau không?",
+        "file": "audio_dam_thoai_01\\vi_41.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, không vấn đề gì.",
+        "file": "audio_dam_thoai_01\\ex_vi_41.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Is it okay if I sit here?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_43_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_42.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, go ahead.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_43_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_42.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi ngồi đây được không?",
+        "file": "audio_dam_thoai_01\\vi_42.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, cứ tự nhiên.",
+        "file": "audio_dam_thoai_01\\ex_vi_42.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What do you need?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_44_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_43.mp3",
+        "type": "en"
     },
     {
         "text": "I need some help.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_44_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_43.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn cần gì?",
+        "file": "audio_dam_thoai_01\\vi_43.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi cần một chút giúp đỡ.",
+        "file": "audio_dam_thoai_01\\ex_vi_43.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "When is your birthday?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_45_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_44.mp3",
+        "type": "en"
     },
     {
         "text": "It's in July.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_45_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_44.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Sinh nhật bạn khi nào?",
+        "file": "audio_dam_thoai_01\\vi_44.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Là vào tháng 7.",
+        "file": "audio_dam_thoai_01\\ex_vi_44.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How old are you?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_46_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_45.mp3",
+        "type": "en"
     },
     {
         "text": "I'm 25 years old.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_46_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_45.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn bao nhiêu tuổi?",
+        "file": "audio_dam_thoai_01\\vi_45.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi 25 tuổi.",
+        "file": "audio_dam_thoai_01\\ex_vi_45.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you want to join us?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_47_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_46.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I'd love to.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_47_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_46.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn muốn tham gia cùng chúng tôi không?",
+        "file": "audio_dam_thoai_01\\vi_46.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi rất muốn.",
+        "file": "audio_dam_thoai_01\\ex_vi_46.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How do I get there?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_48_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_47.mp3",
+        "type": "en"
     },
     {
         "text": "Take the bus.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_48_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_47.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi đến đó bằng cách nào?",
+        "file": "audio_dam_thoai_01\\vi_47.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đi xe buýt.",
+        "file": "audio_dam_thoai_01\\ex_vi_47.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Have you eaten yet?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_49_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_48.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I have.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_49_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_48.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đã ăn chưa?",
+        "file": "audio_dam_thoai_01\\vi_48.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Rồi, tôi ăn rồi.",
+        "file": "audio_dam_thoai_01\\ex_vi_48.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you speak more slowly?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_50_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_49.mp3",
+        "type": "en"
     },
     {
         "text": "Of course!",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_50_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_49.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể nói chậm hơn không?",
+        "file": "audio_dam_thoai_01\\vi_49.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên rồi!",
+        "file": "audio_dam_thoai_01\\ex_vi_49.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you turn on the light?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_51_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_50.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, I'll do it.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_51_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_50.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể bật đèn không?",
+        "file": "audio_dam_thoai_01\\vi_50.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, tôi sẽ làm ngay.",
+        "file": "audio_dam_thoai_01\\ex_vi_50.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What do you want to eat?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_52_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_51.mp3",
+        "type": "en"
     },
     {
         "text": "I'd like some pasta.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_52_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_51.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn muốn ăn gì?",
+        "file": "audio_dam_thoai_01\\vi_51.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi muốn ăn mì ống.",
+        "file": "audio_dam_thoai_01\\ex_vi_51.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you enjoy music?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_53_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_52.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I listen every day.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_53_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_52.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thích âm nhạc không?",
+        "file": "audio_dam_thoai_01\\vi_52.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi nghe nhạc hàng ngày.",
+        "file": "audio_dam_thoai_01\\ex_vi_52.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Where did you go?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_54_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_53.mp3",
+        "type": "en"
     },
     {
         "text": "I went to the park.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_54_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_53.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đã đi đâu?",
+        "file": "audio_dam_thoai_01\\vi_53.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi đã đi đến công viên.",
+        "file": "audio_dam_thoai_01\\ex_vi_53.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I open the window?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_55_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_54.mp3",
+        "type": "en"
     },
     {
         "text": "Go ahead, please do.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_55_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_54.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi mở cửa sổ được không?",
+        "file": "audio_dam_thoai_01\\vi_54.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Cứ tự nhiên, hãy làm đi.",
+        "file": "audio_dam_thoai_01\\ex_vi_54.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's the plan for today?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_56_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_55.mp3",
+        "type": "en"
     },
     {
         "text": "We're visiting the museum.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_56_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_55.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Kế hoạch hôm nay là gì?",
+        "file": "audio_dam_thoai_01\\vi_55.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta sẽ thăm bảo tàng.",
+        "file": "audio_dam_thoai_01\\ex_vi_55.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you give me a hand?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_57_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_56.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, what do you need?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_57_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_56.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể giúp tôi một tay không?",
+        "file": "audio_dam_thoai_01\\vi_56.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, bạn cần gì?",
+        "file": "audio_dam_thoai_01\\ex_vi_56.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How do you get to school?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_58_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_57.mp3",
+        "type": "en"
     },
     {
         "text": "I take the train.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_58_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_57.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đến trường bằng cách nào?",
+        "file": "audio_dam_thoai_01\\vi_57.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi đi tàu.",
+        "file": "audio_dam_thoai_01\\ex_vi_57.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Is this seat taken?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_59_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_58.mp3",
+        "type": "en"
     },
     {
         "text": "No, it's free.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_59_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_58.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ghế này có ai ngồi chưa?",
+        "file": "audio_dam_thoai_01\\vi_58.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không, nó còn trống.",
+        "file": "audio_dam_thoai_01\\ex_vi_58.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "When will you arrive?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_60_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_59.mp3",
+        "type": "en"
     },
     {
         "text": "I'll be there at 5:00 PM.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_60_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_59.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Khi nào bạn đến?",
+        "file": "audio_dam_thoai_01\\vi_59.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi sẽ đến lúc 5 giờ chiều.",
+        "file": "audio_dam_thoai_01\\ex_vi_59.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's the problem?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_61_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_60.mp3",
+        "type": "en"
     },
     {
         "text": "There's no internet.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_61_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_60.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Vấn đề là gì?",
+        "file": "audio_dam_thoai_01\\vi_60.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không có internet.",
+        "file": "audio_dam_thoai_01\\ex_vi_60.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you like sports?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_62_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_61.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I play soccer.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_62_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_61.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thích thể thao không?",
+        "file": "audio_dam_thoai_01\\vi_61.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi chơi bóng đá.",
+        "file": "audio_dam_thoai_01\\ex_vi_61.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Where can I buy this?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_63_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_62.mp3",
+        "type": "en"
     },
     {
         "text": "At the supermarket.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_63_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_62.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể mua cái này ở đâu?",
+        "file": "audio_dam_thoai_01\\vi_62.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ở siêu thị.",
+        "file": "audio_dam_thoai_01\\ex_vi_62.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are you doing now?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_64_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_63.mp3",
+        "type": "en"
     },
     {
         "text": "I'm watching TV.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_64_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_63.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bây giờ bạn đang làm gì?",
+        "file": "audio_dam_thoai_01\\vi_63.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi đang xem TV.",
+        "file": "audio_dam_thoai_01\\ex_vi_63.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Could you close the door?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_65_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_64.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, I'll do it now.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_65_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_64.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể đóng cửa không?",
+        "file": "audio_dam_thoai_01\\vi_64.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chắc chắn, tôi sẽ làm ngay.",
+        "file": "audio_dam_thoai_01\\ex_vi_64.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How do you get to work?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_66_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_65.mp3",
+        "type": "en"
     },
     {
         "text": "I drive my car.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_66_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_65.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đi làm bằng cách nào?",
+        "file": "audio_dam_thoai_01\\vi_65.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi lái xe hơi.",
+        "file": "audio_dam_thoai_01\\ex_vi_65.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you like your job?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_67_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_66.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I enjoy it a lot.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_67_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_66.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thích công việc của mình không?",
+        "file": "audio_dam_thoai_01\\vi_66.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi rất thích công việc của mình.",
+        "file": "audio_dam_thoai_01\\ex_vi_66.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you wait a moment?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_68_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_67.mp3",
+        "type": "en"
     },
     {
         "text": "Of course, take your time.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_68_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_67.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể chờ một chút được không?",
+        "file": "audio_dam_thoai_01\\vi_67.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, cứ từ từ.",
+        "file": "audio_dam_thoai_01\\ex_vi_67.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you need a ride?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_69_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_68.mp3",
+        "type": "en"
     },
     {
         "text": "No, I'm good, thanks.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_69_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_68.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có cần đi nhờ xe không?",
+        "file": "audio_dam_thoai_01\\vi_68.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không, tôi ổn, cảm ơn.",
+        "file": "audio_dam_thoai_01\\ex_vi_68.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Have you been here before?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_70_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_69.mp3",
+        "type": "en"
     },
     {
         "text": "No, this is my first time.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_70_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_69.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đã từng đến đây trước đây chưa?",
+        "file": "audio_dam_thoai_01\\vi_69.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chưa, đây là lần đầu tiên của tôi.",
+        "file": "audio_dam_thoai_01\\ex_vi_69.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What do you usually do?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_71_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_70.mp3",
+        "type": "en"
     },
     {
         "text": "I usually work and read.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_71_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_70.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn thường làm gì?",
+        "file": "audio_dam_thoai_01\\vi_70.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thường làm việc và đọc sách.",
+        "file": "audio_dam_thoai_01\\ex_vi_70.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I help you with that?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_72_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_71.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, please.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_72_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_71.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể giúp bạn với việc đó không?",
+        "file": "audio_dam_thoai_01\\vi_71.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, làm ơn.",
+        "file": "audio_dam_thoai_01\\ex_vi_71.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Is it your car?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_73_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_72.mp3",
+        "type": "en"
     },
     {
         "text": "No, it's my friend's car.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_73_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_72.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Đây có phải là xe của bạn không?",
+        "file": "audio_dam_thoai_01\\vi_72.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không, nó là xe của bạn tôi.",
+        "file": "audio_dam_thoai_01\\ex_vi_72.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How far is it from here?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_74_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_73.mp3",
+        "type": "en"
     },
     {
         "text": "It's about 2 miles.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_74_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_73.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nó cách đây bao xa?",
+        "file": "audio_dam_thoai_01\\vi_73.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nó cách khoảng 2 dặm.",
+        "file": "audio_dam_thoai_01\\ex_vi_73.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's your phone number?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_75_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_74.mp3",
+        "type": "en"
     },
     {
         "text": "It's: 1 2 3  4 5 6  7 8 9 0.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_75_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_74.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Số điện thoại của bạn là gì?",
+        "file": "audio_dam_thoai_01\\vi_74.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Là 123-456-7890.",
+        "file": "audio_dam_thoai_01\\ex_vi_74.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Have you finished your work?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_76_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_75.mp3",
+        "type": "en"
     },
     {
         "text": "Not yet.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_76_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_75.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đã hoàn thành công việc chưa?",
+        "file": "audio_dam_thoai_01\\vi_75.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chưa xong.",
+        "file": "audio_dam_thoai_01\\ex_vi_75.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Are you going to the party?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_77_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_76.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I'll be there.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_77_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_76.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có đi dự tiệc không?",
+        "file": "audio_dam_thoai_01\\vi_76.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi sẽ tới đó.",
+        "file": "audio_dam_thoai_01\\ex_vi_76.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you want to go for a walk?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_78_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_77.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, let's go.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_78_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_77.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có muốn đi dạo không?",
+        "file": "audio_dam_thoai_01\\vi_77.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, đi nào.",
+        "file": "audio_dam_thoai_01\\ex_vi_77.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's your favorite drink?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_79_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_78.mp3",
+        "type": "en"
     },
     {
         "text": "I love green tea.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_79_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_78.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Đồ uống yêu thích của bạn là gì?",
+        "file": "audio_dam_thoai_01\\vi_78.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thích trà xanh.",
+        "file": "audio_dam_thoai_01\\ex_vi_78.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I have your email address?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_80_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_79.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, it's john@example.com.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_80_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_79.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể xin địa chỉ email của bạn không?",
+        "file": "audio_dam_thoai_01\\vi_79.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, là john@example.com.",
+        "file": "audio_dam_thoai_01\\ex_vi_79.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you like reading books?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_81_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_80.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I read every night.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_81_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_80.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thích đọc sách không?",
+        "file": "audio_dam_thoai_01\\vi_80.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, tôi đọc sách mỗi đêm.",
+        "file": "audio_dam_thoai_01\\ex_vi_80.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's your favorite season?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_82_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_81.mp3",
+        "type": "en"
     },
     {
         "text": "I love spring.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_82_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_81.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Mùa yêu thích của bạn là gì?",
+        "file": "audio_dam_thoai_01\\vi_81.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thích mùa xuân.",
+        "file": "audio_dam_thoai_01\\ex_vi_81.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I take your photo?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_83_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_82.mp3",
+        "type": "en"
     },
     {
         "text": "Sure, go ahead.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_83_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_82.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể chụp ảnh bạn không?",
+        "file": "audio_dam_thoai_01\\vi_82.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất nhiên, cứ tự nhiên.",
+        "file": "audio_dam_thoai_01\\ex_vi_82.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you like this place?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_84_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_83.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, it's beautiful.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_84_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_83.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thích nơi này không?",
+        "file": "audio_dam_thoai_01\\vi_83.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, nó rất đẹp.",
+        "file": "audio_dam_thoai_01\\ex_vi_83.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What time does the store open?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_85_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_84.mp3",
+        "type": "en"
     },
     {
         "text": "It opens at 9:00 AM.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_85_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_84.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cửa hàng mở lúc mấy giờ?",
+        "file": "audio_dam_thoai_01\\vi_84.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nó mở lúc 9 giờ sáng.",
+        "file": "audio_dam_thoai_01\\ex_vi_84.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you pass me the pepper and salt?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_86_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_85.mp3",
+        "type": "en"
     },
     {
         "text": "Here you go.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_86_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_85.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đưa giúp tôi lọ muối được không?",
+        "file": "audio_dam_thoai_01\\vi_85.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đây, của bạn đây.",
+        "file": "audio_dam_thoai_01\\ex_vi_85.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Are you free this weekend?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_87_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_86.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, let's hang out.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_87_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_86.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn rảnh cuối tuần này không?",
+        "file": "audio_dam_thoai_01\\vi_86.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, đi chơi đi.",
+        "file": "audio_dam_thoai_01\\ex_vi_86.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How was the food?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_88_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_87.mp3",
+        "type": "en"
     },
     {
         "text": "It was delicious.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_88_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_87.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Đồ ăn thế nào?",
+        "file": "audio_dam_thoai_01\\vi_87.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nó rất ngon.",
+        "file": "audio_dam_thoai_01\\ex_vi_87.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can I pay in cash?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_89_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_88.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, cash is fine.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_89_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_88.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tôi có thể trả bằng tiền mặt không?",
+        "file": "audio_dam_thoai_01\\vi_88.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, thanh toán tiền mặt được.",
+        "file": "audio_dam_thoai_01\\ex_vi_88.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's your favorite movie?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_90_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_89.mp3",
+        "type": "en"
     },
     {
         "text": "I love The Godfather.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_90_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_89.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bộ phim yêu thích của bạn là gì?",
+        "file": "audio_dam_thoai_01\\vi_89.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thích \"Bố Già\".",
+        "file": "audio_dam_thoai_01\\ex_vi_89.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are you looking for?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_91_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_90.mp3",
+        "type": "en"
     },
     {
         "text": "I'm looking for my keys.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_91_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_90.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn đang tìm gì vậy?",
+        "file": "audio_dam_thoai_01\\vi_90.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi đang tìm chìa khóa của mình.",
+        "file": "audio_dam_thoai_01\\ex_vi_90.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you want me to help you?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_92_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_91.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, please.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_92_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_91.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có muốn tôi giúp bạn không?",
+        "file": "audio_dam_thoai_01\\vi_91.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, làm ơn.",
+        "file": "audio_dam_thoai_01\\ex_vi_91.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How often do you exercise?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_93_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_92.mp3",
+        "type": "en"
     },
     {
         "text": "I exercise three times a week.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_93_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_92.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn tập thể dục bao lâu một lần?",
+        "file": "audio_dam_thoai_01\\vi_92.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi tập thể dục ba lần một tuần.",
+        "file": "audio_dam_thoai_01\\ex_vi_92.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Could you tell me your name?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_94_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_93.mp3",
+        "type": "en"
     },
     {
         "text": "My name is Sarah.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_94_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_93.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thể cho tôi biết tên của bạn không?",
+        "file": "audio_dam_thoai_01\\vi_93.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tên tôi là Sarah.",
+        "file": "audio_dam_thoai_01\\ex_vi_93.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you work from home?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_95_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_94.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, I work remotely.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_95_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_94.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn làm việc tại nhà phải không?",
+        "file": "audio_dam_thoai_01\\vi_94.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đúng, tôi làm việc từ xa.",
+        "file": "audio_dam_thoai_01\\ex_vi_94.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Can you hear me clearly?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_96_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_95.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, loud and clear.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_96_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_95.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có nghe rõ tôi không?",
+        "file": "audio_dam_thoai_01\\vi_95.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vâng, rõ ràng.",
+        "file": "audio_dam_thoai_01\\ex_vi_95.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What's the best way to get there?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_97_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_96.mp3",
+        "type": "en"
     },
     {
         "text": "Take a taxi.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_97_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_96.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cách tốt nhất để đến đó là gì?",
+        "file": "audio_dam_thoai_01\\vi_96.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đi taxi.",
+        "file": "audio_dam_thoai_01\\ex_vi_96.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Are you coming with us?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_98_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_97.mp3",
+        "type": "en"
     },
     {
         "text": "No, I can't make it.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_98_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_97.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có đi cùng chúng tôi không?",
+        "file": "audio_dam_thoai_01\\vi_97.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Không, tôi không thể đi được.",
+        "file": "audio_dam_thoai_01\\ex_vi_97.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What do you usually eat for breakfast?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_99_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_98.mp3",
+        "type": "en"
     },
     {
         "text": "I usually eat toast and eggs.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_99_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_98.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn thường ăn gì vào bữa sáng?",
+        "file": "audio_dam_thoai_01\\vi_98.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tôi thường ăn bánh mì nướng và trứng.",
+        "file": "audio_dam_thoai_01\\ex_vi_98.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Do you like shopping?",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_100_col0.mp3"
+        "file": "audio_dam_thoai_01\\en_99.mp3",
+        "type": "en"
     },
     {
         "text": "Yes, it's fun.",
-        "file": "audio_dam_thoai_01/audio_dam_thoai_01_100_col3.mp3"
+        "file": "audio_dam_thoai_01\\ex_en_99.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bạn có thích mua sắm không?",
+        "file": "audio_dam_thoai_01\\vi_99.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có, rất vui.",
+        "file": "audio_dam_thoai_01\\ex_vi_99.mp3",
+        "type": "ex_vi"
     }
 ]

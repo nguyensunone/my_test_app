@@ -1,1698 +1,4242 @@
 [
     {
         "text": "What is the capital of the United States?",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_1_col0.mp3"
+        "file": "audio_TQT_read_write\\en_0.mp3",
+        "type": "en"
     },
     {
         "text": "What is the capital of the United States?",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_1_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_0.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thủ đô của Hoa Kỳ là gì?",
+        "file": "audio_TQT_read_write\\vi_0.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thủ đô của Hoa Kỳ là gì?",
+        "file": "audio_TQT_read_write\\ex_vi_0.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who was the first president?",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_2_col0.mp3"
+        "file": "audio_TQT_read_write\\en_1.mp3",
+        "type": "en"
     },
     {
         "text": "Who was the first president?",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_2_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_1.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai là tổng thống đầu tiên?",
+        "file": "audio_TQT_read_write\\vi_1.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ai là tổng thống đầu tiên?",
+        "file": "audio_TQT_read_write\\ex_vi_1.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "When is Independence Day?",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_3_col0.mp3"
+        "file": "audio_TQT_read_write\\en_2.mp3",
+        "type": "en"
     },
     {
         "text": "When is Independence Day?",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_3_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_2.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày Độc lập là khi nào?",
+        "file": "audio_TQT_read_write\\vi_2.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ngày Độc lập là khi nào?",
+        "file": "audio_TQT_read_write\\ex_vi_2.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has 50 states.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_4_col0.mp3"
+        "file": "audio_TQT_read_write\\en_3.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has 50 states.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_4_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_3.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có năm mươi tiểu bang.",
+        "file": "audio_TQT_read_write\\vi_3.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có năm mươi tiểu bang.",
+        "file": "audio_TQT_read_write\\ex_vi_3.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The flag is red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_5_col0.mp3"
+        "file": "audio_TQT_read_write\\en_4.mp3",
+        "type": "en"
     },
     {
         "text": "The flag is red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_5_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_4.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ có màu đỏ, trắng và xanh.",
+        "file": "audio_TQT_read_write\\vi_4.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ có màu đỏ, trắng và xanh.",
+        "file": "audio_TQT_read_write\\ex_vi_4.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "George Washington was the first president.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_6_col0.mp3"
+        "file": "audio_TQT_read_write\\en_5.mp3",
+        "type": "en"
     },
     {
         "text": "George Washington was the first president.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_6_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_5.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "George Washington là tổng thống đầu tiên.",
+        "file": "audio_TQT_read_write\\vi_5.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "George Washington là tổng thống đầu tiên.",
+        "file": "audio_TQT_read_write\\ex_vi_5.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We vote for the president in November.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_7_col0.mp3"
+        "file": "audio_TQT_read_write\\en_6.mp3",
+        "type": "en"
     },
     {
         "text": "We vote for the president in November.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_7_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_6.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta bầu tổng thống vào tháng 11.",
+        "file": "audio_TQT_read_write\\vi_6.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta bầu tổng thống vào tháng 11.",
+        "file": "audio_TQT_read_write\\ex_vi_6.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The president lives in the White House.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_8_col0.mp3"
+        "file": "audio_TQT_read_write\\en_7.mp3",
+        "type": "en"
     },
     {
         "text": "The president lives in the White House.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_8_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_7.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống sống trong Nhà Trắng.",
+        "file": "audio_TQT_read_write\\vi_7.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống sống trong Nhà Trắng.",
+        "file": "audio_TQT_read_write\\ex_vi_7.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Congress meets in Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_9_col0.mp3"
+        "file": "audio_TQT_read_write\\en_8.mp3",
+        "type": "en"
     },
     {
         "text": "The Congress meets in Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_9_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_8.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội họp tại Washington, D.C.",
+        "file": "audio_TQT_read_write\\vi_8.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội họp tại Washington, D.C.",
+        "file": "audio_TQT_read_write\\ex_vi_8.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag has 13 stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_10_col0.mp3"
+        "file": "audio_TQT_read_write\\en_9.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag has 13 stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_10_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_9.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ có 13 sọc.",
+        "file": "audio_TQT_read_write\\vi_9.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ có 13 sọc.",
+        "file": "audio_TQT_read_write\\ex_vi_9.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "There are three branches of government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_11_col0.mp3"
+        "file": "audio_TQT_read_write\\en_10.mp3",
+        "type": "en"
     },
     {
         "text": "There are three branches of government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_11_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_10.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có ba nhánh của chính phủ.",
+        "file": "audio_TQT_read_write\\vi_10.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có ba nhánh của chính phủ.",
+        "file": "audio_TQT_read_write\\ex_vi_10.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Supreme Court is the highest court.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_12_col0.mp3"
+        "file": "audio_TQT_read_write\\en_11.mp3",
+        "type": "en"
     },
     {
         "text": "The Supreme Court is the highest court.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_12_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_11.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tòa án Tối cao là tòa án cao nhất.",
+        "file": "audio_TQT_read_write\\vi_11.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tòa án Tối cao là tòa án cao nhất.",
+        "file": "audio_TQT_read_write\\ex_vi_11.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Citizens can vote.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_13_col0.mp3"
+        "file": "audio_TQT_read_write\\en_12.mp3",
+        "type": "en"
     },
     {
         "text": "Citizens can vote.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_13_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_12.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Công dân có thể bỏ phiếu.",
+        "file": "audio_TQT_read_write\\vi_12.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Công dân có thể bỏ phiếu.",
+        "file": "audio_TQT_read_write\\ex_vi_12.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States is a free country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_14_col0.mp3"
+        "file": "audio_TQT_read_write\\en_13.mp3",
+        "type": "en"
     },
     {
         "text": "The United States is a free country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_14_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_13.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ là một đất nước tự do.",
+        "file": "audio_TQT_read_write\\vi_13.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ là một đất nước tự do.",
+        "file": "audio_TQT_read_write\\ex_vi_13.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We pay taxes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_15_col0.mp3"
+        "file": "audio_TQT_read_write\\en_14.mp3",
+        "type": "en"
     },
     {
         "text": "We pay taxes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_15_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_14.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta đóng thuế.",
+        "file": "audio_TQT_read_write\\vi_14.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta đóng thuế.",
+        "file": "audio_TQT_read_write\\ex_vi_14.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has a president.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_16_col0.mp3"
+        "file": "audio_TQT_read_write\\en_15.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has a president.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_16_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_15.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một tổng thống.",
+        "file": "audio_TQT_read_write\\vi_15.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một tổng thống.",
+        "file": "audio_TQT_read_write\\ex_vi_15.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The White House is in Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_17_col0.mp3"
+        "file": "audio_TQT_read_write\\en_16.mp3",
+        "type": "en"
     },
     {
         "text": "The White House is in Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_17_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_16.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nhà Trắng ở Washington, D.C.",
+        "file": "audio_TQT_read_write\\vi_16.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nhà Trắng ở Washington, D.C.",
+        "file": "audio_TQT_read_write\\ex_vi_16.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag has stars.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_18_col0.mp3"
+        "file": "audio_TQT_read_write\\en_17.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag has stars.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_18_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_17.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ có các ngôi sao.",
+        "file": "audio_TQT_read_write\\vi_17.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ có các ngôi sao.",
+        "file": "audio_TQT_read_write\\ex_vi_17.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "People have freedom of speech.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_19_col0.mp3"
+        "file": "audio_TQT_read_write\\en_18.mp3",
+        "type": "en"
     },
     {
         "text": "People have freedom of speech.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_19_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_18.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Mọi người có quyền tự do ngôn luận.",
+        "file": "audio_TQT_read_write\\vi_18.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Mọi người có quyền tự do ngôn luận.",
+        "file": "audio_TQT_read_write\\ex_vi_18.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Constitution is the supreme law.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_20_col0.mp3"
+        "file": "audio_TQT_read_write\\en_19.mp3",
+        "type": "en"
     },
     {
         "text": "The Constitution is the supreme law.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_20_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_19.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp là luật tối cao.",
+        "file": "audio_TQT_read_write\\vi_19.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp là luật tối cao.",
+        "file": "audio_TQT_read_write\\ex_vi_19.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has one hundred Senators.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_21_col0.mp3"
+        "file": "audio_TQT_read_write\\en_20.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has 100 Senators.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_21_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_20.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một trăm Thượng nghị sĩ.",
+        "file": "audio_TQT_read_write\\vi_20.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một trăm Thượng nghị sĩ.",
+        "file": "audio_TQT_read_write\\ex_vi_20.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We elect a President every four years.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_22_col0.mp3"
+        "file": "audio_TQT_read_write\\en_21.mp3",
+        "type": "en"
     },
     {
         "text": "We elect a President every four years.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_22_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_21.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta bầu Tổng thống mỗi bốn năm.",
+        "file": "audio_TQT_read_write\\vi_21.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta bầu Tổng thống mỗi bốn năm.",
+        "file": "audio_TQT_read_write\\ex_vi_21.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The House of Representatives has 435 members.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_23_col0.mp3"
+        "file": "audio_TQT_read_write\\en_22.mp3",
+        "type": "en"
     },
     {
         "text": "The House of Representatives has 435 members.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_23_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_22.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hạ viện có 435 thành viên.",
+        "file": "audio_TQT_read_write\\vi_22.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hạ viện có 435 thành viên.",
+        "file": "audio_TQT_read_write\\ex_vi_22.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Abraham Lincoln was the President during the Civil War.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_24_col0.mp3"
+        "file": "audio_TQT_read_write\\en_23.mp3",
+        "type": "en"
     },
     {
         "text": "Abraham Lincoln was the President during the Civil War.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_24_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_23.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Abraham Lincoln là Tổng thống trong Nội chiến.",
+        "file": "audio_TQT_read_write\\vi_23.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Abraham Lincoln là Tổng thống trong Nội chiến.",
+        "file": "audio_TQT_read_write\\ex_vi_23.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States fought for independence.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_25_col0.mp3"
+        "file": "audio_TQT_read_write\\en_24.mp3",
+        "type": "en"
     },
     {
         "text": "The United States fought for independence.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_25_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_24.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ đã chiến đấu vì độc lập.",
+        "file": "audio_TQT_read_write\\vi_24.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ đã chiến đấu vì độc lập.",
+        "file": "audio_TQT_read_write\\ex_vi_24.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Columbus discovered America in 1492.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_26_col0.mp3"
+        "file": "audio_TQT_read_write\\en_25.mp3",
+        "type": "en"
     },
     {
         "text": "Columbus discovered America in 1492.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_26_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_25.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Columbus khám phá ra châu Mỹ năm 1492.",
+        "file": "audio_TQT_read_write\\vi_25.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Columbus khám phá ra châu Mỹ năm 1492.",
+        "file": "audio_TQT_read_write\\ex_vi_25.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States is a democracy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_27_col0.mp3"
+        "file": "audio_TQT_read_write\\en_26.mp3",
+        "type": "en"
     },
     {
         "text": "The United States is a democracy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_27_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_26.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ là một nền dân chủ.",
+        "file": "audio_TQT_read_write\\vi_26.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ là một nền dân chủ.",
+        "file": "audio_TQT_read_write\\ex_vi_26.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Declaration of Independence was written in 1776.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_28_col0.mp3"
+        "file": "audio_TQT_read_write\\en_27.mp3",
+        "type": "en"
     },
     {
         "text": "The Declaration of Independence was written in 1776.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_28_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_27.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tuyên ngôn Độc lập được viết vào năm 1776.",
+        "file": "audio_TQT_read_write\\vi_27.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tuyên ngôn Độc lập được viết vào năm 1776.",
+        "file": "audio_TQT_read_write\\ex_vi_27.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American people elect Congress.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_29_col0.mp3"
+        "file": "audio_TQT_read_write\\en_28.mp3",
+        "type": "en"
     },
     {
         "text": "The American people elect Congress.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_29_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_28.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân Mỹ bầu Quốc hội.",
+        "file": "audio_TQT_read_write\\vi_28.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân Mỹ bầu Quốc hội.",
+        "file": "audio_TQT_read_write\\ex_vi_28.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Freedom of speech is important.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_30_col0.mp3"
+        "file": "audio_TQT_read_write\\en_29.mp3",
+        "type": "en"
     },
     {
         "text": "Freedom of speech is important.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_30_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_29.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tự do ngôn luận rất quan trọng.",
+        "file": "audio_TQT_read_write\\vi_29.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tự do ngôn luận rất quan trọng.",
+        "file": "audio_TQT_read_write\\ex_vi_29.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "George Washington is the Father of Our Country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_31_col0.mp3"
+        "file": "audio_TQT_read_write\\en_30.mp3",
+        "type": "en"
     },
     {
         "text": "George Washington is the Father of Our Country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_31_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_30.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "George Washington là Cha lập quốc của đất nước chúng ta.",
+        "file": "audio_TQT_read_write\\vi_30.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "George Washington là Cha lập quốc của đất nước chúng ta.",
+        "file": "audio_TQT_read_write\\ex_vi_30.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "There are fifty states in the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_32_col0.mp3"
+        "file": "audio_TQT_read_write\\en_31.mp3",
+        "type": "en"
     },
     {
         "text": "There are 50 states in the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_32_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_31.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có 50 tiểu bang trong Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_31.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Có 50 tiểu bang trong Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_31.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Citizens have the right to vote.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_33_col0.mp3"
+        "file": "audio_TQT_read_write\\en_32.mp3",
+        "type": "en"
     },
     {
         "text": "Citizens have the right to vote.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_33_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_32.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Công dân có quyền bỏ phiếu.",
+        "file": "audio_TQT_read_write\\vi_32.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Công dân có quyền bỏ phiếu.",
+        "file": "audio_TQT_read_write\\ex_vi_32.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States Constitution is the highest law.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_34_col0.mp3"
+        "file": "audio_TQT_read_write\\en_33.mp3",
+        "type": "en"
     },
     {
         "text": "The United States Constitution is the highest law.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_34_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_33.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp Hoa Kỳ là luật tối cao.",
+        "file": "audio_TQT_read_write\\vi_33.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp Hoa Kỳ là luật tối cao.",
+        "file": "audio_TQT_read_write\\ex_vi_33.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Bill of Rights is part of the Constitution.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_35_col0.mp3"
+        "file": "audio_TQT_read_write\\en_34.mp3",
+        "type": "en"
     },
     {
         "text": "The Bill of Rights is part of the Constitution.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_35_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_34.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tuyên ngôn Nhân quyền là một phần của Hiến pháp.",
+        "file": "audio_TQT_read_write\\vi_34.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tuyên ngôn Nhân quyền là một phần của Hiến pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_34.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Thomas Jefferson wrote the Declaration of Independence.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_36_col0.mp3"
+        "file": "audio_TQT_read_write\\en_35.mp3",
+        "type": "en"
     },
     {
         "text": "Thomas Jefferson wrote the Declaration of Independence.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_36_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_35.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thomas Jefferson đã viết Tuyên ngôn Độc lập.",
+        "file": "audio_TQT_read_write\\vi_35.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thomas Jefferson đã viết Tuyên ngôn Độc lập.",
+        "file": "audio_TQT_read_write\\ex_vi_35.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The government has three branches.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_37_col0.mp3"
+        "file": "audio_TQT_read_write\\en_36.mp3",
+        "type": "en"
     },
     {
         "text": "The government has three branches.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_37_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_36.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ có ba nhánh.",
+        "file": "audio_TQT_read_write\\vi_36.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ có ba nhánh.",
+        "file": "audio_TQT_read_write\\ex_vi_36.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Stars and Stripes is the American flag.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_38_col0.mp3"
+        "file": "audio_TQT_read_write\\en_37.mp3",
+        "type": "en"
     },
     {
         "text": "The Stars and Stripes is the American flag.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_38_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_37.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "\"Stars and Stripes\" là lá cờ Mỹ.",
+        "file": "audio_TQT_read_write\\vi_37.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "\"Stars and Stripes\" là lá cờ Mỹ.",
+        "file": "audio_TQT_read_write\\ex_vi_37.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The people elect the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_39_col0.mp3"
+        "file": "audio_TQT_read_write\\en_38.mp3",
+        "type": "en"
     },
     {
         "text": "The people elect the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_39_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_38.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân bầu Tổng thống.",
+        "file": "audio_TQT_read_write\\vi_38.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân bầu Tổng thống.",
+        "file": "audio_TQT_read_write\\ex_vi_38.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has a Constitution.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_40_col0.mp3"
+        "file": "audio_TQT_read_write\\en_39.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has a Constitution.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_40_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_39.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một bản Hiến pháp.",
+        "file": "audio_TQT_read_write\\vi_39.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một bản Hiến pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_39.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Constitution was written in 1787.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_41_col0.mp3"
+        "file": "audio_TQT_read_write\\en_40.mp3",
+        "type": "en"
     },
     {
         "text": "The Constitution was written in 1787.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_41_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_40.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp được viết vào năm 1787.",
+        "file": "audio_TQT_read_write\\vi_40.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp được viết vào năm 1787.",
+        "file": "audio_TQT_read_write\\ex_vi_40.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President is elected every four years.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_42_col0.mp3"
+        "file": "audio_TQT_read_write\\en_41.mp3",
+        "type": "en"
     },
     {
         "text": "The President is elected every four years.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_42_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_41.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống được bầu mỗi bốn năm.",
+        "file": "audio_TQT_read_write\\vi_41.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống được bầu mỗi bốn năm.",
+        "file": "audio_TQT_read_write\\ex_vi_41.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Congress makes federal laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_43_col0.mp3"
+        "file": "audio_TQT_read_write\\en_42.mp3",
+        "type": "en"
     },
     {
         "text": "Congress makes federal laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_43_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_42.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội ban hành luật liên bang.",
+        "file": "audio_TQT_read_write\\vi_42.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội ban hành luật liên bang.",
+        "file": "audio_TQT_read_write\\ex_vi_42.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Senate has 100 members.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_44_col0.mp3"
+        "file": "audio_TQT_read_write\\en_43.mp3",
+        "type": "en"
     },
     {
         "text": "The Senate has 100 members.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_44_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_43.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thượng viện có 100 thành viên.",
+        "file": "audio_TQT_read_write\\vi_43.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thượng viện có 100 thành viên.",
+        "file": "audio_TQT_read_write\\ex_vi_43.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The House of Representatives has 435 voting members.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_45_col0.mp3"
+        "file": "audio_TQT_read_write\\en_44.mp3",
+        "type": "en"
     },
     {
         "text": "The House of Representatives has 435 voting members.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_45_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_44.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hạ viện có 435 thành viên bỏ phiếu.",
+        "file": "audio_TQT_read_write\\vi_44.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hạ viện có 435 thành viên bỏ phiếu.",
+        "file": "audio_TQT_read_write\\ex_vi_44.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Supreme Court is the highest court in the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_46_col0.mp3"
+        "file": "audio_TQT_read_write\\en_45.mp3",
+        "type": "en"
     },
     {
         "text": "The Supreme Court is the highest court in the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_46_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_45.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tòa án Tối cao là tòa án cao nhất ở Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_45.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tòa án Tối cao là tòa án cao nhất ở Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_45.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The first ten amendments are called the Bill of Rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_47_col0.mp3"
+        "file": "audio_TQT_read_write\\en_46.mp3",
+        "type": "en"
     },
     {
         "text": "The first ten amendments are called the Bill of Rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_47_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_46.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Mười sửa đổi đầu tiên được gọi là Tuyên ngôn Nhân quyền.",
+        "file": "audio_TQT_read_write\\vi_46.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Mười sửa đổi đầu tiên được gọi là Tuyên ngôn Nhân quyền.",
+        "file": "audio_TQT_read_write\\ex_vi_46.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President signs bills into law.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_48_col0.mp3"
+        "file": "audio_TQT_read_write\\en_47.mp3",
+        "type": "en"
     },
     {
         "text": "The President signs bills into law.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_48_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_47.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống ký các dự luật thành luật.",
+        "file": "audio_TQT_read_write\\vi_47.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống ký các dự luật thành luật.",
+        "file": "audio_TQT_read_write\\ex_vi_47.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We celebrate Independence Day on July 4.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_49_col0.mp3"
+        "file": "audio_TQT_read_write\\en_48.mp3",
+        "type": "en"
     },
     {
         "text": "We celebrate Independence Day on July 4th.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_49_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_48.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta kỷ niệm Ngày Độc lập vào ngày 4 tháng 7.",
+        "file": "audio_TQT_read_write\\vi_48.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta kỷ niệm Ngày Độc lập vào ngày 4 tháng 7.",
+        "file": "audio_TQT_read_write\\ex_vi_48.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President is the Commander in Chief of the military.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_50_col0.mp3"
+        "file": "audio_TQT_read_write\\en_49.mp3",
+        "type": "en"
     },
     {
         "text": "The President is the Commander in Chief of the military.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_50_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_49.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống là Tổng tư lệnh quân đội.",
+        "file": "audio_TQT_read_write\\vi_49.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống là Tổng tư lệnh quân đội.",
+        "file": "audio_TQT_read_write\\ex_vi_49.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag has 50 stars.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_51_col0.mp3"
+        "file": "audio_TQT_read_write\\en_50.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag has 50 stars.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_51_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_50.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ có 50 ngôi sao.",
+        "file": "audio_TQT_read_write\\vi_50.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ có 50 ngôi sao.",
+        "file": "audio_TQT_read_write\\ex_vi_50.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Benjamin Franklin was a U.S. diplomat.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_52_col0.mp3"
+        "file": "audio_TQT_read_write\\en_51.mp3",
+        "type": "en"
     },
     {
         "text": "Benjamin Franklin was a U.S. diplomat.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_52_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_51.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Benjamin Franklin là một nhà ngoại giao Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_51.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Benjamin Franklin là một nhà ngoại giao Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_51.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Civil War was between the North and the South.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_53_col0.mp3"
+        "file": "audio_TQT_read_write\\en_52.mp3",
+        "type": "en"
     },
     {
         "text": "The Civil War was between the North and the South.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_53_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_52.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nội chiến xảy ra giữa miền Bắc và miền Nam.",
+        "file": "audio_TQT_read_write\\vi_52.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nội chiến xảy ra giữa miền Bắc và miền Nam.",
+        "file": "audio_TQT_read_write\\ex_vi_52.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Martin Luther King Jr. fought for civil rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_54_col0.mp3"
+        "file": "audio_TQT_read_write\\en_53.mp3",
+        "type": "en"
     },
     {
         "text": "Martin Luther King Jr. fought for civil rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_54_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_53.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Martin Luther King Jr. đấu tranh cho quyền công dân.",
+        "file": "audio_TQT_read_write\\vi_53.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Martin Luther King Jr. đấu tranh cho quyền công dân.",
+        "file": "audio_TQT_read_write\\ex_vi_53.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States bought Louisiana from France in 1803.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_55_col0.mp3"
+        "file": "audio_TQT_read_write\\en_54.mp3",
+        "type": "en"
     },
     {
         "text": "The United States bought Louisiana from France in 1803.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_55_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_54.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ mua Louisiana từ Pháp vào năm 1803.",
+        "file": "audio_TQT_read_write\\vi_54.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ mua Louisiana từ Pháp vào năm 1803.",
+        "file": "audio_TQT_read_write\\ex_vi_54.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Emancipation Proclamation freed the slaves.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_56_col0.mp3"
+        "file": "audio_TQT_read_write\\en_55.mp3",
+        "type": "en"
     },
     {
         "text": "The Emancipation Proclamation freed the slaves.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_56_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_55.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tuyên ngôn Giải phóng đã giải phóng những người nô lệ.",
+        "file": "audio_TQT_read_write\\vi_55.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tuyên ngôn Giải phóng đã giải phóng những người nô lệ.",
+        "file": "audio_TQT_read_write\\ex_vi_55.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Great Depression was a difficult time in U.S. history.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_57_col0.mp3"
+        "file": "audio_TQT_read_write\\en_56.mp3",
+        "type": "en"
     },
     {
         "text": "The Great Depression was a difficult time in U.S. history.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_57_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_56.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Đại khủng hoảng là một thời kỳ khó khăn trong lịch sử Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_56.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đại khủng hoảng là một thời kỳ khó khăn trong lịch sử Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_56.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Alaska is the largest state.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_58_col0.mp3"
+        "file": "audio_TQT_read_write\\en_57.mp3",
+        "type": "en"
     },
     {
         "text": "Alaska is the largest state.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_58_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_57.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Alaska là tiểu bang lớn nhất.",
+        "file": "audio_TQT_read_write\\vi_57.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Alaska là tiểu bang lớn nhất.",
+        "file": "audio_TQT_read_write\\ex_vi_57.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Statue of Liberty is in New York.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_59_col0.mp3"
+        "file": "audio_TQT_read_write\\en_58.mp3",
+        "type": "en"
     },
     {
         "text": "The Statue of Liberty is in New York.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_59_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_58.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tượng Nữ thần Tự do nằm ở New York.",
+        "file": "audio_TQT_read_write\\vi_58.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tượng Nữ thần Tự do nằm ở New York.",
+        "file": "audio_TQT_read_write\\ex_vi_58.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Pacific Ocean is on the West Coast of the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_60_col0.mp3"
+        "file": "audio_TQT_read_write\\en_59.mp3",
+        "type": "en"
     },
     {
         "text": "The Pacific Ocean is on the West Coast of the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_60_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_59.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thái Bình Dương nằm ở bờ Tây của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_59.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thái Bình Dương nằm ở bờ Tây của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_59.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Atlantic Ocean is on the East Coast of the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_61_col0.mp3"
+        "file": "audio_TQT_read_write\\en_60.mp3",
+        "type": "en"
     },
     {
         "text": "The Atlantic Ocean is on the East Coast of the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_61_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_60.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Đại Tây Dương nằm ở bờ Đông của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_60.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đại Tây Dương nằm ở bờ Đông của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_60.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States shares a border with Canada.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_62_col0.mp3"
+        "file": "audio_TQT_read_write\\en_61.mp3",
+        "type": "en"
     },
     {
         "text": "The United States shares a border with Canada.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_62_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_61.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có chung biên giới với Canada.",
+        "file": "audio_TQT_read_write\\vi_61.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có chung biên giới với Canada.",
+        "file": "audio_TQT_read_write\\ex_vi_61.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States shares a border with Mexico.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_63_col0.mp3"
+        "file": "audio_TQT_read_write\\en_62.mp3",
+        "type": "en"
     },
     {
         "text": "The United States shares a border with Mexico.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_63_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_62.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có chung biên giới với Mexico.",
+        "file": "audio_TQT_read_write\\vi_62.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có chung biên giới với Mexico.",
+        "file": "audio_TQT_read_write\\ex_vi_62.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Washington, D.C. is the capital of the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_64_col0.mp3"
+        "file": "audio_TQT_read_write\\en_63.mp3",
+        "type": "en"
     },
     {
         "text": "Washington, D.C. is the capital of the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_64_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_63.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Washington, D.C. là thủ đô của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_63.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Washington, D.C. là thủ đô của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_63.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Liberty Bell is in Philadelphia.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_65_col0.mp3"
+        "file": "audio_TQT_read_write\\en_64.mp3",
+        "type": "en"
     },
     {
         "text": "The Liberty Bell is in Philadelphia.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_65_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_64.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chuông Tự do nằm ở Philadelphia.",
+        "file": "audio_TQT_read_write\\vi_64.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chuông Tự do nằm ở Philadelphia.",
+        "file": "audio_TQT_read_write\\ex_vi_64.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Mississippi River is the longest river in the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_66_col0.mp3"
+        "file": "audio_TQT_read_write\\en_65.mp3",
+        "type": "en"
     },
     {
         "text": "The Mississippi River is the longest river in the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_66_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_65.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Sông Mississippi là con sông dài nhất ở Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_65.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Sông Mississippi là con sông dài nhất ở Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_65.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Mount Rushmore has the faces of four Presidents.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_67_col0.mp3"
+        "file": "audio_TQT_read_write\\en_66.mp3",
+        "type": "en"
     },
     {
         "text": "Mount Rushmore has the faces of four Presidents.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_67_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_66.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Núi Rushmore có khuôn mặt của bốn vị Tổng thống.",
+        "file": "audio_TQT_read_write\\vi_66.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Núi Rushmore có khuôn mặt của bốn vị Tổng thống.",
+        "file": "audio_TQT_read_write\\ex_vi_66.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. flag has 13 stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_68_col0.mp3"
+        "file": "audio_TQT_read_write\\en_67.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. flag has 13 stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_68_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_67.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ có 13 sọc.",
+        "file": "audio_TQT_read_write\\vi_67.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ có 13 sọc.",
+        "file": "audio_TQT_read_write\\ex_vi_67.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The stripes on the flag represent the original 13 colonies.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_69_col0.mp3"
+        "file": "audio_TQT_read_write\\en_68.mp3",
+        "type": "en"
     },
     {
         "text": "The stripes on the flag represent the original 13 colonies.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_69_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_68.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Các sọc trên cờ đại diện cho 13 thuộc địa ban đầu.",
+        "file": "audio_TQT_read_write\\vi_68.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Các sọc trên cờ đại diện cho 13 thuộc địa ban đầu.",
+        "file": "audio_TQT_read_write\\ex_vi_68.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The stars on the flag represent the 50 states.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_70_col0.mp3"
+        "file": "audio_TQT_read_write\\en_69.mp3",
+        "type": "en"
     },
     {
         "text": "The stars on the flag represent the 50 states.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_70_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_69.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Các ngôi sao trên cờ đại diện cho 50 tiểu bang.",
+        "file": "audio_TQT_read_write\\vi_69.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Các ngôi sao trên cờ đại diện cho 50 tiểu bang.",
+        "file": "audio_TQT_read_write\\ex_vi_69.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Independence Day is in July.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_71_col0.mp3"
+        "file": "audio_TQT_read_write\\en_70.mp3",
+        "type": "en"
     },
     {
         "text": "Independence Day is in July.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_71_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_70.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày Độc lập rơi vào tháng Bảy.",
+        "file": "audio_TQT_read_write\\vi_70.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ngày Độc lập rơi vào tháng Bảy.",
+        "file": "audio_TQT_read_write\\ex_vi_70.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Thanksgiving is in November.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_72_col0.mp3"
+        "file": "audio_TQT_read_write\\en_71.mp3",
+        "type": "en"
     },
     {
         "text": "Thanksgiving is in November.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_72_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_71.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lễ Tạ ơn rơi vào tháng Mười Một.",
+        "file": "audio_TQT_read_write\\vi_71.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lễ Tạ ơn rơi vào tháng Mười Một.",
+        "file": "audio_TQT_read_write\\ex_vi_71.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Labor Day is in September.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_73_col0.mp3"
+        "file": "audio_TQT_read_write\\en_72.mp3",
+        "type": "en"
     },
     {
         "text": "Labor Day is in September.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_73_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_72.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày Lao động rơi vào tháng Chín.",
+        "file": "audio_TQT_read_write\\vi_72.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ngày Lao động rơi vào tháng Chín.",
+        "file": "audio_TQT_read_write\\ex_vi_72.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Memorial Day is in May.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_74_col0.mp3"
+        "file": "audio_TQT_read_write\\en_73.mp3",
+        "type": "en"
     },
     {
         "text": "Memorial Day is in May.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_74_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_73.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày Chiến sĩ Trận vong rơi vào tháng Năm.",
+        "file": "audio_TQT_read_write\\vi_73.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ngày Chiến sĩ Trận vong rơi vào tháng Năm.",
+        "file": "audio_TQT_read_write\\ex_vi_73.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. flag is red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_75_col0.mp3"
+        "file": "audio_TQT_read_write\\en_74.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. flag is red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_75_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_74.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ có màu đỏ, trắng và xanh dương.",
+        "file": "audio_TQT_read_write\\vi_74.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ có màu đỏ, trắng và xanh dương.",
+        "file": "audio_TQT_read_write\\ex_vi_74.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We pay taxes to the government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_76_col0.mp3"
+        "file": "audio_TQT_read_write\\en_75.mp3",
+        "type": "en"
     },
     {
         "text": "We pay taxes to the government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_76_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_75.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta nộp thuế cho chính phủ.",
+        "file": "audio_TQT_read_write\\vi_75.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta nộp thuế cho chính phủ.",
+        "file": "audio_TQT_read_write\\ex_vi_75.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Citizens can vote in elections.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_77_col0.mp3"
+        "file": "audio_TQT_read_write\\en_76.mp3",
+        "type": "en"
     },
     {
         "text": "Citizens can vote in elections.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_77_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_76.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Công dân có thể bỏ phiếu trong các cuộc bầu cử.",
+        "file": "audio_TQT_read_write\\vi_76.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Công dân có thể bỏ phiếu trong các cuộc bầu cử.",
+        "file": "audio_TQT_read_write\\ex_vi_76.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The people elect Congress.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_78_col0.mp3"
+        "file": "audio_TQT_read_write\\en_77.mp3",
+        "type": "en"
     },
     {
         "text": "The people elect Congress.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_78_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_77.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân bầu Quốc hội.",
+        "file": "audio_TQT_read_write\\vi_77.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân bầu Quốc hội.",
+        "file": "audio_TQT_read_write\\ex_vi_77.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has three branches of government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_79_col0.mp3"
+        "file": "audio_TQT_read_write\\en_78.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has three branches of government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_79_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_78.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có ba nhánh chính phủ.",
+        "file": "audio_TQT_read_write\\vi_78.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có ba nhánh chính phủ.",
+        "file": "audio_TQT_read_write\\ex_vi_78.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Congress meets in Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_80_col0.mp3"
+        "file": "audio_TQT_read_write\\en_79.mp3",
+        "type": "en"
     },
     {
         "text": "Congress meets in Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_80_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_79.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội họp tại Washington, D.C.",
+        "file": "audio_TQT_read_write\\vi_79.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội họp tại Washington, D.C.",
+        "file": "audio_TQT_read_write\\ex_vi_79.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We have the right to vote.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_81_col0.mp3"
+        "file": "audio_TQT_read_write\\en_80.mp3",
+        "type": "en"
     },
     {
         "text": "We have the right to vote.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_81_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_80.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta có quyền bầu cử.",
+        "file": "audio_TQT_read_write\\vi_80.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta có quyền bầu cử.",
+        "file": "audio_TQT_read_write\\ex_vi_80.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Citizens have rights and responsibilities.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_82_col0.mp3"
+        "file": "audio_TQT_read_write\\en_81.mp3",
+        "type": "en"
     },
     {
         "text": "Citizens have rights and responsibilities.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_82_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_81.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Công dân có quyền và trách nhiệm.",
+        "file": "audio_TQT_read_write\\vi_81.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Công dân có quyền và trách nhiệm.",
+        "file": "audio_TQT_read_write\\ex_vi_81.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Abraham Lincoln freed the slaves.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_83_col0.mp3"
+        "file": "audio_TQT_read_write\\en_82.mp3",
+        "type": "en"
     },
     {
         "text": "Abraham Lincoln freed the slaves.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_83_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_82.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Abraham Lincoln đã giải phóng nô lệ.",
+        "file": "audio_TQT_read_write\\vi_82.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Abraham Lincoln đã giải phóng nô lệ.",
+        "file": "audio_TQT_read_write\\ex_vi_82.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Civil War ended slavery.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_84_col0.mp3"
+        "file": "audio_TQT_read_write\\en_83.mp3",
+        "type": "en"
     },
     {
         "text": "The Civil War ended slavery.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_84_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_83.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nội chiến đã chấm dứt chế độ nô lệ.",
+        "file": "audio_TQT_read_write\\vi_83.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nội chiến đã chấm dứt chế độ nô lệ.",
+        "file": "audio_TQT_read_write\\ex_vi_83.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Constitution is the supreme law of the land.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_85_col0.mp3"
+        "file": "audio_TQT_read_write\\en_84.mp3",
+        "type": "en"
     },
     {
         "text": "The Constitution is the supreme law of the land.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_85_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_84.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp là luật tối cao của đất nước.",
+        "file": "audio_TQT_read_write\\vi_84.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp là luật tối cao của đất nước.",
+        "file": "audio_TQT_read_write\\ex_vi_84.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has 50 states.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_86_col0.mp3"
+        "file": "audio_TQT_read_write\\en_85.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has 50 states.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_86_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_85.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có 50 tiểu bang.",
+        "file": "audio_TQT_read_write\\vi_85.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có 50 tiểu bang.",
+        "file": "audio_TQT_read_write\\ex_vi_85.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The capital of the United States is Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_87_col0.mp3"
+        "file": "audio_TQT_read_write\\en_86.mp3",
+        "type": "en"
     },
     {
         "text": "The capital of the United States is Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_87_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_86.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thủ đô của Hoa Kỳ là Washington, D.C.",
+        "file": "audio_TQT_read_write\\vi_86.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thủ đô của Hoa Kỳ là Washington, D.C.",
+        "file": "audio_TQT_read_write\\ex_vi_86.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President is elected in November.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_88_col0.mp3"
+        "file": "audio_TQT_read_write\\en_87.mp3",
+        "type": "en"
     },
     {
         "text": "The President is elected in November.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_88_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_87.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống được bầu vào tháng Mười Một.",
+        "file": "audio_TQT_read_write\\vi_87.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống được bầu vào tháng Mười Một.",
+        "file": "audio_TQT_read_write\\ex_vi_87.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has freedom of religion.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_89_col0.mp3"
+        "file": "audio_TQT_read_write\\en_88.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has freedom of religion.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_89_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_88.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có quyền tự do tôn giáo.",
+        "file": "audio_TQT_read_write\\vi_88.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có quyền tự do tôn giáo.",
+        "file": "audio_TQT_read_write\\ex_vi_88.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag is a symbol of freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_90_col0.mp3"
+        "file": "audio_TQT_read_write\\en_89.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag is a symbol of freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_90_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_89.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ là biểu tượng của tự do.",
+        "file": "audio_TQT_read_write\\vi_89.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ là biểu tượng của tự do.",
+        "file": "audio_TQT_read_write\\ex_vi_89.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag is red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_91_col0.mp3"
+        "file": "audio_TQT_read_write\\en_90.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag is red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_91_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_90.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ có màu đỏ, trắng và xanh dương.",
+        "file": "audio_TQT_read_write\\vi_90.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ có màu đỏ, trắng và xanh dương.",
+        "file": "audio_TQT_read_write\\ex_vi_90.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. Constitution is the supreme law.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_92_col0.mp3"
+        "file": "audio_TQT_read_write\\en_91.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. Constitution is the supreme law.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_92_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_91.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp Hoa Kỳ là luật tối cao.",
+        "file": "audio_TQT_read_write\\vi_91.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp Hoa Kỳ là luật tối cao.",
+        "file": "audio_TQT_read_write\\ex_vi_91.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We celebrate Independence Day in July.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_93_col0.mp3"
+        "file": "audio_TQT_read_write\\en_92.mp3",
+        "type": "en"
     },
     {
         "text": "We celebrate Independence Day in July.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_93_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_92.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta kỷ niệm Ngày Độc lập vào tháng Bảy.",
+        "file": "audio_TQT_read_write\\vi_92.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta kỷ niệm Ngày Độc lập vào tháng Bảy.",
+        "file": "audio_TQT_read_write\\ex_vi_92.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States is a country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_94_col0.mp3"
+        "file": "audio_TQT_read_write\\en_93.mp3",
+        "type": "en"
     },
     {
         "text": "The United States is a country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_94_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_93.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ là một quốc gia.",
+        "file": "audio_TQT_read_write\\vi_93.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ là một quốc gia.",
+        "file": "audio_TQT_read_write\\ex_vi_93.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President works in the White House.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_95_col0.mp3"
+        "file": "audio_TQT_read_write\\en_94.mp3",
+        "type": "en"
     },
     {
         "text": "The President works in the White House.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_95_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_94.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống làm việc tại Nhà Trắng.",
+        "file": "audio_TQT_read_write\\vi_94.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống làm việc tại Nhà Trắng.",
+        "file": "audio_TQT_read_write\\ex_vi_94.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The people vote for the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_96_col0.mp3"
+        "file": "audio_TQT_read_write\\en_95.mp3",
+        "type": "en"
     },
     {
         "text": "The people vote for the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_96_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_95.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân bầu Tổng thống.",
+        "file": "audio_TQT_read_write\\vi_95.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân bầu Tổng thống.",
+        "file": "audio_TQT_read_write\\ex_vi_95.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has a Congress.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_97_col0.mp3"
+        "file": "audio_TQT_read_write\\en_96.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has a Congress.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_97_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_96.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một Quốc hội.",
+        "file": "audio_TQT_read_write\\vi_96.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một Quốc hội.",
+        "file": "audio_TQT_read_write\\ex_vi_96.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "People in the U.S. have freedom of speech.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_98_col0.mp3"
+        "file": "audio_TQT_read_write\\en_97.mp3",
+        "type": "en"
     },
     {
         "text": "People in the U.S. have freedom of speech.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_98_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_97.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân Mỹ có quyền tự do ngôn luận.",
+        "file": "audio_TQT_read_write\\vi_97.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân Mỹ có quyền tự do ngôn luận.",
+        "file": "audio_TQT_read_write\\ex_vi_97.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The first President was George Washington.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_99_col0.mp3"
+        "file": "audio_TQT_read_write\\en_98.mp3",
+        "type": "en"
     },
     {
         "text": "The first President was George Washington.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_99_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_98.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống đầu tiên là George Washington.",
+        "file": "audio_TQT_read_write\\vi_98.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống đầu tiên là George Washington.",
+        "file": "audio_TQT_read_write\\ex_vi_98.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We have a Bill of Rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_100_col0.mp3"
+        "file": "audio_TQT_read_write\\en_99.mp3",
+        "type": "en"
     },
     {
         "text": "We have a Bill of Rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_100_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_99.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta có Tuyên ngôn Nhân quyền.",
+        "file": "audio_TQT_read_write\\vi_99.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta có Tuyên ngôn Nhân quyền.",
+        "file": "audio_TQT_read_write\\ex_vi_99.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. Constitution was written in 1787.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_101_col0.mp3"
+        "file": "audio_TQT_read_write\\en_100.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. Constitution was written in 1787.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_101_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_100.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp Hoa Kỳ được viết vào năm 1787.",
+        "file": "audio_TQT_read_write\\vi_100.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp Hoa Kỳ được viết vào năm 1787.",
+        "file": "audio_TQT_read_write\\ex_vi_100.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We pay taxes every year.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_102_col0.mp3"
+        "file": "audio_TQT_read_write\\en_101.mp3",
+        "type": "en"
     },
     {
         "text": "We pay taxes every year.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_102_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_101.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta đóng thuế mỗi năm.",
+        "file": "audio_TQT_read_write\\vi_101.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta đóng thuế mỗi năm.",
+        "file": "audio_TQT_read_write\\ex_vi_101.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has a strong economy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_103_col0.mp3"
+        "file": "audio_TQT_read_write\\en_102.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has a strong economy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_103_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_102.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một nền kinh tế mạnh.",
+        "file": "audio_TQT_read_write\\vi_102.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một nền kinh tế mạnh.",
+        "file": "audio_TQT_read_write\\ex_vi_102.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The military protects the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_104_col0.mp3"
+        "file": "audio_TQT_read_write\\en_103.mp3",
+        "type": "en"
     },
     {
         "text": "The military protects the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_104_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_103.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quân đội bảo vệ đất nước.",
+        "file": "audio_TQT_read_write\\vi_103.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quân đội bảo vệ đất nước.",
+        "file": "audio_TQT_read_write\\ex_vi_103.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag stands for freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_105_col0.mp3"
+        "file": "audio_TQT_read_write\\en_104.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag stands for freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_105_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_104.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ tượng trưng cho tự do.",
+        "file": "audio_TQT_read_write\\vi_104.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ tượng trưng cho tự do.",
+        "file": "audio_TQT_read_write\\ex_vi_104.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The government is elected by the people.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_106_col0.mp3"
+        "file": "audio_TQT_read_write\\en_105.mp3",
+        "type": "en"
     },
     {
         "text": "The government is elected by the people.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_106_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_105.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ được bầu bởi người dân.",
+        "file": "audio_TQT_read_write\\vi_105.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ được bầu bởi người dân.",
+        "file": "audio_TQT_read_write\\ex_vi_105.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States is one nation.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_107_col0.mp3"
+        "file": "audio_TQT_read_write\\en_106.mp3",
+        "type": "en"
     },
     {
         "text": "The United States is one nation.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_107_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_106.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ là một quốc gia.",
+        "file": "audio_TQT_read_write\\vi_106.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ là một quốc gia.",
+        "file": "audio_TQT_read_write\\ex_vi_106.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President lives in Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_108_col0.mp3"
+        "file": "audio_TQT_read_write\\en_107.mp3",
+        "type": "en"
     },
     {
         "text": "The President lives in Washington, D.C.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_108_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_107.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống sống tại Washington, D.C.",
+        "file": "audio_TQT_read_write\\vi_107.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống sống tại Washington, D.C.",
+        "file": "audio_TQT_read_write\\ex_vi_107.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Freedom of speech is a right.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_109_col0.mp3"
+        "file": "audio_TQT_read_write\\en_108.mp3",
+        "type": "en"
     },
     {
         "text": "Freedom of speech is a right.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_109_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_108.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tự do ngôn luận là một quyền lợi.",
+        "file": "audio_TQT_read_write\\vi_108.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tự do ngôn luận là một quyền lợi.",
+        "file": "audio_TQT_read_write\\ex_vi_108.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. has a Constitution.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_110_col0.mp3"
+        "file": "audio_TQT_read_write\\en_109.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. has a Constitution.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_110_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_109.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một Hiến pháp.",
+        "file": "audio_TQT_read_write\\vi_109.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một Hiến pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_109.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Congress meets in the Capitol.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_111_col0.mp3"
+        "file": "audio_TQT_read_write\\en_110.mp3",
+        "type": "en"
     },
     {
         "text": "Congress meets in the Capitol.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_111_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_110.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội họp tại Tòa nhà Quốc hội.",
+        "file": "audio_TQT_read_write\\vi_110.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội họp tại Tòa nhà Quốc hội.",
+        "file": "audio_TQT_read_write\\ex_vi_110.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Supreme Court is part of the government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_112_col0.mp3"
+        "file": "audio_TQT_read_write\\en_111.mp3",
+        "type": "en"
     },
     {
         "text": "The Supreme Court is part of the government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_112_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_111.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tòa án Tối cao là một phần của chính phủ.",
+        "file": "audio_TQT_read_write\\vi_111.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tòa án Tối cao là một phần của chính phủ.",
+        "file": "audio_TQT_read_write\\ex_vi_111.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The White House is where the President lives.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_113_col0.mp3"
+        "file": "audio_TQT_read_write\\en_112.mp3",
+        "type": "en"
     },
     {
         "text": "The White House is where the President lives.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_113_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_112.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nhà Trắng là nơi Tổng thống sinh sống.",
+        "file": "audio_TQT_read_write\\vi_112.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nhà Trắng là nơi Tổng thống sinh sống.",
+        "file": "audio_TQT_read_write\\ex_vi_112.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "People pay taxes to the government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_114_col0.mp3"
+        "file": "audio_TQT_read_write\\en_113.mp3",
+        "type": "en"
     },
     {
         "text": "People pay taxes to the government.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_114_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_113.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân đóng thuế cho chính phủ.",
+        "file": "audio_TQT_read_write\\vi_113.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân đóng thuế cho chính phủ.",
+        "file": "audio_TQT_read_write\\ex_vi_113.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag has red and white stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_115_col0.mp3"
+        "file": "audio_TQT_read_write\\en_114.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag has red and white stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_115_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_114.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ có sọc đỏ và trắng.",
+        "file": "audio_TQT_read_write\\vi_114.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ có sọc đỏ và trắng.",
+        "file": "audio_TQT_read_write\\ex_vi_114.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President is the leader of the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_116_col0.mp3"
+        "file": "audio_TQT_read_write\\en_115.mp3",
+        "type": "en"
     },
     {
         "text": "The President is the leader of the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_116_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_115.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống là nhà lãnh đạo của đất nước.",
+        "file": "audio_TQT_read_write\\vi_115.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống là nhà lãnh đạo của đất nước.",
+        "file": "audio_TQT_read_write\\ex_vi_115.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We celebrate Presidents' Day in February.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_117_col0.mp3"
+        "file": "audio_TQT_read_write\\en_116.mp3",
+        "type": "en"
     },
     {
         "text": "We celebrate Presidents' Day in February.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_117_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_116.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta kỷ niệm Ngày Tổng thống vào tháng Hai.",
+        "file": "audio_TQT_read_write\\vi_116.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta kỷ niệm Ngày Tổng thống vào tháng Hai.",
+        "file": "audio_TQT_read_write\\ex_vi_116.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American government has three branches.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_118_col0.mp3"
+        "file": "audio_TQT_read_write\\en_117.mp3",
+        "type": "en"
     },
     {
         "text": "The American government has three branches.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_118_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_117.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ Hoa Kỳ có ba nhánh.",
+        "file": "audio_TQT_read_write\\vi_117.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ Hoa Kỳ có ba nhánh.",
+        "file": "audio_TQT_read_write\\ex_vi_117.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The people elect their leaders.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_119_col0.mp3"
+        "file": "audio_TQT_read_write\\en_118.mp3",
+        "type": "en"
     },
     {
         "text": "The people elect their leaders.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_119_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_118.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân bầu chọn lãnh đạo của họ.",
+        "file": "audio_TQT_read_write\\vi_118.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân bầu chọn lãnh đạo của họ.",
+        "file": "audio_TQT_read_write\\ex_vi_118.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The military defends the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_120_col0.mp3"
+        "file": "audio_TQT_read_write\\en_119.mp3",
+        "type": "en"
     },
     {
         "text": "The military defends the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_120_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_119.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quân đội bảo vệ đất nước.",
+        "file": "audio_TQT_read_write\\vi_119.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quân đội bảo vệ đất nước.",
+        "file": "audio_TQT_read_write\\ex_vi_119.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States is called America.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_121_col0.mp3"
+        "file": "audio_TQT_read_write\\en_120.mp3",
+        "type": "en"
     },
     {
         "text": "The United States is called America.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_121_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_120.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ còn được gọi là nước Mỹ.",
+        "file": "audio_TQT_read_write\\vi_120.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ còn được gọi là nước Mỹ.",
+        "file": "audio_TQT_read_write\\ex_vi_120.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Congress writes the laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_122_col0.mp3"
+        "file": "audio_TQT_read_write\\en_121.mp3",
+        "type": "en"
     },
     {
         "text": "Congress writes the laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_122_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_121.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội soạn thảo luật.",
+        "file": "audio_TQT_read_write\\vi_121.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội soạn thảo luật.",
+        "file": "audio_TQT_read_write\\ex_vi_121.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Supreme Court has nine justices.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_123_col0.mp3"
+        "file": "audio_TQT_read_write\\en_122.mp3",
+        "type": "en"
     },
     {
         "text": "The Supreme Court has nine justices.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_123_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_122.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tòa án Tối cao có chín thẩm phán.",
+        "file": "audio_TQT_read_write\\vi_122.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tòa án Tối cao có chín thẩm phán.",
+        "file": "audio_TQT_read_write\\ex_vi_122.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Freedom of religion is important.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_124_col0.mp3"
+        "file": "audio_TQT_read_write\\en_123.mp3",
+        "type": "en"
     },
     {
         "text": "Freedom of religion is important.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_124_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_123.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tự do tôn giáo là điều quan trọng.",
+        "file": "audio_TQT_read_write\\vi_123.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tự do tôn giáo là điều quan trọng.",
+        "file": "audio_TQT_read_write\\ex_vi_123.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American people vote for leaders.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_125_col0.mp3"
+        "file": "audio_TQT_read_write\\en_124.mp3",
+        "type": "en"
     },
     {
         "text": "The American people vote for leaders.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_125_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_124.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân Mỹ bỏ phiếu bầu lãnh đạo.",
+        "file": "audio_TQT_read_write\\vi_124.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân Mỹ bỏ phiếu bầu lãnh đạo.",
+        "file": "audio_TQT_read_write\\ex_vi_124.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. government has three parts.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_126_col0.mp3"
+        "file": "audio_TQT_read_write\\en_125.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. government has three parts.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_126_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_125.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ Mỹ có ba phần.",
+        "file": "audio_TQT_read_write\\vi_125.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ Mỹ có ba phần.",
+        "file": "audio_TQT_read_write\\ex_vi_125.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President is the Commander-in-Chief.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_127_col0.mp3"
+        "file": "audio_TQT_read_write\\en_126.mp3",
+        "type": "en"
     },
     {
         "text": "The President is the Commander-in-Chief.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_127_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_126.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống là Tổng tư lệnh.",
+        "file": "audio_TQT_read_write\\vi_126.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống là Tổng tư lệnh.",
+        "file": "audio_TQT_read_write\\ex_vi_126.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The government collects taxes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_128_col0.mp3"
+        "file": "audio_TQT_read_write\\en_127.mp3",
+        "type": "en"
     },
     {
         "text": "The government collects taxes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_128_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_127.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ thu thuế.",
+        "file": "audio_TQT_read_write\\vi_127.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ thu thuế.",
+        "file": "audio_TQT_read_write\\ex_vi_127.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Vice President helps the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_129_col0.mp3"
+        "file": "audio_TQT_read_write\\en_128.mp3",
+        "type": "en"
     },
     {
         "text": "The Vice President helps the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_129_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_128.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Phó Tổng thống hỗ trợ Tổng thống.",
+        "file": "audio_TQT_read_write\\vi_128.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Phó Tổng thống hỗ trợ Tổng thống.",
+        "file": "audio_TQT_read_write\\ex_vi_128.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American people have many rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_130_col0.mp3"
+        "file": "audio_TQT_read_write\\en_129.mp3",
+        "type": "en"
     },
     {
         "text": "The American people have many rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_130_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_129.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân Mỹ có nhiều quyền lợi.",
+        "file": "audio_TQT_read_write\\vi_129.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân Mỹ có nhiều quyền lợi.",
+        "file": "audio_TQT_read_write\\ex_vi_129.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The flag stands for the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_131_col0.mp3"
+        "file": "audio_TQT_read_write\\en_130.mp3",
+        "type": "en"
     },
     {
         "text": "The flag stands for the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_131_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_130.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ tượng trưng cho đất nước.",
+        "file": "audio_TQT_read_write\\vi_130.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ tượng trưng cho đất nước.",
+        "file": "audio_TQT_read_write\\ex_vi_130.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Washington was the first President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_132_col0.mp3"
+        "file": "audio_TQT_read_write\\en_131.mp3",
+        "type": "en"
     },
     {
         "text": "Washington was the first President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_132_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_131.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Washington là Tổng thống đầu tiên.",
+        "file": "audio_TQT_read_write\\vi_131.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Washington là Tổng thống đầu tiên.",
+        "file": "audio_TQT_read_write\\ex_vi_131.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. has a strong military.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_133_col0.mp3"
+        "file": "audio_TQT_read_write\\en_132.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. has a strong military.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_133_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_132.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một quân đội mạnh.",
+        "file": "audio_TQT_read_write\\vi_132.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một quân đội mạnh.",
+        "file": "audio_TQT_read_write\\ex_vi_132.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American people respect the flag.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_134_col0.mp3"
+        "file": "audio_TQT_read_write\\en_133.mp3",
+        "type": "en"
     },
     {
         "text": "The American people respect the flag.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_134_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_133.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân Mỹ tôn trọng lá cờ.",
+        "file": "audio_TQT_read_write\\vi_133.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân Mỹ tôn trọng lá cờ.",
+        "file": "audio_TQT_read_write\\ex_vi_133.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The government makes laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_135_col0.mp3"
+        "file": "audio_TQT_read_write\\en_134.mp3",
+        "type": "en"
     },
     {
         "text": "The government makes laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_135_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_134.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ ban hành luật.",
+        "file": "audio_TQT_read_write\\vi_134.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ ban hành luật.",
+        "file": "audio_TQT_read_write\\ex_vi_134.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We celebrate Memorial Day in May.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_136_col0.mp3"
+        "file": "audio_TQT_read_write\\en_135.mp3",
+        "type": "en"
     },
     {
         "text": "We celebrate Memorial Day in May.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_136_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_135.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta kỷ niệm Ngày Chiến sĩ Trận vong vào tháng Năm.",
+        "file": "audio_TQT_read_write\\vi_135.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta kỷ niệm Ngày Chiến sĩ Trận vong vào tháng Năm.",
+        "file": "audio_TQT_read_write\\ex_vi_135.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag has red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_137_col0.mp3"
+        "file": "audio_TQT_read_write\\en_136.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag has red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_137_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_136.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ Mỹ có màu đỏ, trắng và xanh.",
+        "file": "audio_TQT_read_write\\vi_136.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ Mỹ có màu đỏ, trắng và xanh.",
+        "file": "audio_TQT_read_write\\ex_vi_136.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Constitution has laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_138_col0.mp3"
+        "file": "audio_TQT_read_write\\en_137.mp3",
+        "type": "en"
     },
     {
         "text": "The Constitution has laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_138_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_137.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp có các điều luật.",
+        "file": "audio_TQT_read_write\\vi_137.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp có các điều luật.",
+        "file": "audio_TQT_read_write\\ex_vi_137.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States is a big country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_139_col0.mp3"
+        "file": "audio_TQT_read_write\\en_138.mp3",
+        "type": "en"
     },
     {
         "text": "The United States is a big country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_139_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_138.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ là một quốc gia rộng lớn.",
+        "file": "audio_TQT_read_write\\vi_138.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ là một quốc gia rộng lớn.",
+        "file": "audio_TQT_read_write\\ex_vi_138.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President and Congress make laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_140_col0.mp3"
+        "file": "audio_TQT_read_write\\en_139.mp3",
+        "type": "en"
     },
     {
         "text": "The President and Congress make laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_140_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_139.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống và Quốc hội ban hành luật.",
+        "file": "audio_TQT_read_write\\vi_139.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống và Quốc hội ban hành luật.",
+        "file": "audio_TQT_read_write\\ex_vi_139.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The government is for the people.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_141_col0.mp3"
+        "file": "audio_TQT_read_write\\en_140.mp3",
+        "type": "en"
     },
     {
         "text": "The government is for the people.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_141_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_140.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ là của nhân dân.",
+        "file": "audio_TQT_read_write\\vi_140.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ là của nhân dân.",
+        "file": "audio_TQT_read_write\\ex_vi_140.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. has fifty states.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_142_col0.mp3"
+        "file": "audio_TQT_read_write\\en_141.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. has fifty states.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_142_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_141.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có 50 tiểu bang.",
+        "file": "audio_TQT_read_write\\vi_141.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có 50 tiểu bang.",
+        "file": "audio_TQT_read_write\\ex_vi_141.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President is elected by the people.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_143_col0.mp3"
+        "file": "audio_TQT_read_write\\en_142.mp3",
+        "type": "en"
     },
     {
         "text": "The President is elected by the people.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_143_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_142.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống được bầu bởi nhân dân.",
+        "file": "audio_TQT_read_write\\vi_142.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống được bầu bởi nhân dân.",
+        "file": "audio_TQT_read_write\\ex_vi_142.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Supreme Court has nine judges.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_144_col0.mp3"
+        "file": "audio_TQT_read_write\\en_143.mp3",
+        "type": "en"
     },
     {
         "text": "The Supreme Court has nine judges.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_144_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_143.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tòa án Tối cao có chín thẩm phán.",
+        "file": "audio_TQT_read_write\\vi_143.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tòa án Tối cao có chín thẩm phán.",
+        "file": "audio_TQT_read_write\\ex_vi_143.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The flag is a symbol of the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_145_col0.mp3"
+        "file": "audio_TQT_read_write\\en_144.mp3",
+        "type": "en"
     },
     {
         "text": "The flag is a symbol of the United States.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_145_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_144.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Lá cờ là biểu tượng của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_144.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lá cờ là biểu tượng của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_144.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "People in America have freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_146_col0.mp3"
+        "file": "audio_TQT_read_write\\en_145.mp3",
+        "type": "en"
     },
     {
         "text": "People in America have freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_146_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_145.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân ở Mỹ có tự do.",
+        "file": "audio_TQT_read_write\\vi_145.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân ở Mỹ có tự do.",
+        "file": "audio_TQT_read_write\\ex_vi_145.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The government makes laws for the people.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_147_col0.mp3"
+        "file": "audio_TQT_read_write\\en_146.mp3",
+        "type": "en"
     },
     {
         "text": "The government makes laws for the people.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_147_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_146.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ ban hành luật cho nhân dân.",
+        "file": "audio_TQT_read_write\\vi_146.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ ban hành luật cho nhân dân.",
+        "file": "audio_TQT_read_write\\ex_vi_146.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Bill of Rights is in the Constitution.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_148_col0.mp3"
+        "file": "audio_TQT_read_write\\en_147.mp3",
+        "type": "en"
     },
     {
         "text": "The Bill of Rights is in the Constitution.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_148_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_147.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tuyên ngôn Nhân quyền nằm trong Hiến pháp.",
+        "file": "audio_TQT_read_write\\vi_147.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tuyên ngôn Nhân quyền nằm trong Hiến pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_147.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has many famous landmarks.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_149_col0.mp3"
+        "file": "audio_TQT_read_write\\en_148.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has many famous landmarks.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_149_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_148.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có nhiều địa danh nổi tiếng.",
+        "file": "audio_TQT_read_write\\vi_148.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có nhiều địa danh nổi tiếng.",
+        "file": "audio_TQT_read_write\\ex_vi_148.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. has a diverse population.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_150_col0.mp3"
+        "file": "audio_TQT_read_write\\en_149.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. has a diverse population.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_150_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_149.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một dân số đa dạng.",
+        "file": "audio_TQT_read_write\\vi_149.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một dân số đa dạng.",
+        "file": "audio_TQT_read_write\\ex_vi_149.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American Revolution started in 1775.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_151_col0.mp3"
+        "file": "audio_TQT_read_write\\en_150.mp3",
+        "type": "en"
     },
     {
         "text": "The American Revolution started in 1775.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_151_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_150.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cuộc Cách mạng Mỹ bắt đầu vào năm 1775.",
+        "file": "audio_TQT_read_write\\vi_150.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Cuộc Cách mạng Mỹ bắt đầu vào năm 1775.",
+        "file": "audio_TQT_read_write\\ex_vi_150.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The national anthem is \"The Star-Spangled Banner.\"",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_152_col0.mp3"
+        "file": "audio_TQT_read_write\\en_151.mp3",
+        "type": "en"
     },
     {
         "text": "The national anthem is \"The Star-Spangled Banner.\"",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_152_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_151.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc ca là \"The Star-Spangled Banner.\"",
+        "file": "audio_TQT_read_write\\vi_151.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc ca là \"The Star-Spangled Banner.\"",
+        "file": "audio_TQT_read_write\\ex_vi_151.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. Constitution was signed in 1787.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_153_col0.mp3"
+        "file": "audio_TQT_read_write\\en_152.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. Constitution was signed in 1787.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_153_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_152.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp Hoa Kỳ được ký kết vào năm 1787.",
+        "file": "audio_TQT_read_write\\vi_152.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp Hoa Kỳ được ký kết vào năm 1787.",
+        "file": "audio_TQT_read_write\\ex_vi_152.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American economy is one of the largest in the world.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_154_col0.mp3"
+        "file": "audio_TQT_read_write\\en_153.mp3",
+        "type": "en"
     },
     {
         "text": "The American economy is one of the largest in the world.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_154_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_153.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nền kinh tế Mỹ là một trong những nền kinh tế lớn nhất thế giới.",
+        "file": "audio_TQT_read_write\\vi_153.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nền kinh tế Mỹ là một trong những nền kinh tế lớn nhất thế giới.",
+        "file": "audio_TQT_read_write\\ex_vi_153.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States is famous for its national parks.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_155_col0.mp3"
+        "file": "audio_TQT_read_write\\en_154.mp3",
+        "type": "en"
     },
     {
         "text": "The United States is famous for its national parks.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_155_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_154.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ nổi tiếng với các công viên quốc gia.",
+        "file": "audio_TQT_read_write\\vi_154.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ nổi tiếng với các công viên quốc gia.",
+        "file": "audio_TQT_read_write\\ex_vi_154.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. has a strong educational system.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_156_col0.mp3"
+        "file": "audio_TQT_read_write\\en_155.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. has a strong educational system.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_156_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_155.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có hệ thống giáo dục mạnh mẽ.",
+        "file": "audio_TQT_read_write\\vi_155.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có hệ thống giáo dục mạnh mẽ.",
+        "file": "audio_TQT_read_write\\ex_vi_155.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American Dream is about achieving success.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_157_col0.mp3"
+        "file": "audio_TQT_read_write\\en_156.mp3",
+        "type": "en"
     },
     {
         "text": "The American Dream is about achieving success.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_157_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_156.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Giấc mơ Mỹ là về việc đạt được thành công.",
+        "file": "audio_TQT_read_write\\vi_156.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Giấc mơ Mỹ là về việc đạt được thành công.",
+        "file": "audio_TQT_read_write\\ex_vi_156.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. has a variety of climates.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_158_col0.mp3"
+        "file": "audio_TQT_read_write\\en_157.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. has a variety of climates.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_158_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_157.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có nhiều loại khí hậu.",
+        "file": "audio_TQT_read_write\\vi_157.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có nhiều loại khí hậu.",
+        "file": "audio_TQT_read_write\\ex_vi_157.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Statue of Liberty is in New York Harbor.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_159_col0.mp3"
+        "file": "audio_TQT_read_write\\en_158.mp3",
+        "type": "en"
     },
     {
         "text": "The Statue of Liberty is in New York Harbor.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_159_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_158.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tượng Nữ thần Tự do nằm ở Cảng New York.",
+        "file": "audio_TQT_read_write\\vi_158.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tượng Nữ thần Tự do nằm ở Cảng New York.",
+        "file": "audio_TQT_read_write\\ex_vi_158.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States was founded in 1776.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_160_col0.mp3"
+        "file": "audio_TQT_read_write\\en_159.mp3",
+        "type": "en"
     },
     {
         "text": "The United States was founded in 1776.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_160_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_159.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ được thành lập vào năm 1776.",
+        "file": "audio_TQT_read_write\\vi_159.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ được thành lập vào năm 1776.",
+        "file": "audio_TQT_read_write\\ex_vi_159.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. government is a republic.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_161_col0.mp3"
+        "file": "audio_TQT_read_write\\en_160.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. government is a republic.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_161_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_160.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chính phủ Hoa Kỳ là một nước cộng hòa.",
+        "file": "audio_TQT_read_write\\vi_160.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chính phủ Hoa Kỳ là một nước cộng hòa.",
+        "file": "audio_TQT_read_write\\ex_vi_160.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The national flower of the U.S. is the rose.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_162_col0.mp3"
+        "file": "audio_TQT_read_write\\en_161.mp3",
+        "type": "en"
     },
     {
         "text": "The national flower of the U.S. is the rose.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_162_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_161.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Loài hoa quốc gia của Hoa Kỳ là hoa hồng.",
+        "file": "audio_TQT_read_write\\vi_161.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Loài hoa quốc gia của Hoa Kỳ là hoa hồng.",
+        "file": "audio_TQT_read_write\\ex_vi_161.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has a diverse culture.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_163_col0.mp3"
+        "file": "audio_TQT_read_write\\en_162.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has a diverse culture.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_163_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_162.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một nền văn hóa đa dạng.",
+        "file": "audio_TQT_read_write\\vi_162.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một nền văn hóa đa dạng.",
+        "file": "audio_TQT_read_write\\ex_vi_162.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American people enjoy their freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_164_col0.mp3"
+        "file": "audio_TQT_read_write\\en_163.mp3",
+        "type": "en"
     },
     {
         "text": "The American people enjoy their freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_164_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_163.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân Mỹ tận hưởng tự do của họ.",
+        "file": "audio_TQT_read_write\\vi_163.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân Mỹ tận hưởng tự do của họ.",
+        "file": "audio_TQT_read_write\\ex_vi_163.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. has the world's largest economy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_165_col0.mp3"
+        "file": "audio_TQT_read_write\\en_164.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. has the world's largest economy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_165_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_164.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có nền kinh tế lớn nhất thế giới.",
+        "file": "audio_TQT_read_write\\vi_164.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có nền kinh tế lớn nhất thế giới.",
+        "file": "audio_TQT_read_write\\ex_vi_164.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American system values democracy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_166_col0.mp3"
+        "file": "audio_TQT_read_write\\en_165.mp3",
+        "type": "en"
     },
     {
         "text": "The American system values democracy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_166_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_165.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hệ thống Mỹ coi trọng nền dân chủ.",
+        "file": "audio_TQT_read_write\\vi_165.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hệ thống Mỹ coi trọng nền dân chủ.",
+        "file": "audio_TQT_read_write\\ex_vi_165.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. has many famous cities like New York.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_167_col0.mp3"
+        "file": "audio_TQT_read_write\\en_166.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. has many famous cities like New York.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_167_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_166.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có nhiều thành phố nổi tiếng như New York.",
+        "file": "audio_TQT_read_write\\vi_166.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có nhiều thành phố nổi tiếng như New York.",
+        "file": "audio_TQT_read_write\\ex_vi_166.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. celebrates Independence Day on July 4th.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_168_col0.mp3"
+        "file": "audio_TQT_read_write\\en_167.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. celebrates Independence Day on July 4th.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_168_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_167.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ kỷ niệm Ngày Độc lập vào ngày 4 tháng Bảy.",
+        "file": "audio_TQT_read_write\\vi_167.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ kỷ niệm Ngày Độc lập vào ngày 4 tháng Bảy.",
+        "file": "audio_TQT_read_write\\ex_vi_167.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President is the head of the Executive Branch.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_169_col0.mp3"
+        "file": "audio_TQT_read_write\\en_168.mp3",
+        "type": "en"
     },
     {
         "text": "The President is the head of the Executive Branch.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_169_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_168.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống là người đứng đầu nhánh hành pháp.",
+        "file": "audio_TQT_read_write\\vi_168.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống là người đứng đầu nhánh hành pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_168.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The first ten amendments are the Bill of Rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_170_col0.mp3"
+        "file": "audio_TQT_read_write\\en_169.mp3",
+        "type": "en"
     },
     {
         "text": "The first ten amendments are the Bill of Rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_170_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_169.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Mười tu chính án đầu tiên là Tuyên ngôn Nhân quyền.",
+        "file": "audio_TQT_read_write\\vi_169.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Mười tu chính án đầu tiên là Tuyên ngôn Nhân quyền.",
+        "file": "audio_TQT_read_write\\ex_vi_169.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. flag has fifty stars.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_171_col0.mp3"
+        "file": "audio_TQT_read_write\\en_170.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. flag has fifty stars.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_171_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_170.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc kỳ Hoa Kỳ có 50 ngôi sao.",
+        "file": "audio_TQT_read_write\\vi_170.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc kỳ Hoa Kỳ có 50 ngôi sao.",
+        "file": "audio_TQT_read_write\\ex_vi_170.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has a market economy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_172_col0.mp3"
+        "file": "audio_TQT_read_write\\en_171.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has a market economy.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_172_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_171.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có nền kinh tế thị trường.",
+        "file": "audio_TQT_read_write\\vi_171.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có nền kinh tế thị trường.",
+        "file": "audio_TQT_read_write\\ex_vi_171.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States borders Canada and Mexico.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_173_col0.mp3"
+        "file": "audio_TQT_read_write\\en_172.mp3",
+        "type": "en"
     },
     {
         "text": "The United States borders Canada and Mexico.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_173_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_172.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ giáp biên giới với Canada và Mexico.",
+        "file": "audio_TQT_read_write\\vi_172.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ giáp biên giới với Canada và Mexico.",
+        "file": "audio_TQT_read_write\\ex_vi_172.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. celebrates Thanksgiving in November.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_174_col0.mp3"
+        "file": "audio_TQT_read_write\\en_173.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. celebrates Thanksgiving in November.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_174_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_173.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ tổ chức Lễ Tạ ơn vào tháng 11.",
+        "file": "audio_TQT_read_write\\vi_173.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ tổ chức Lễ Tạ ơn vào tháng 11.",
+        "file": "audio_TQT_read_write\\ex_vi_173.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Vice President is next in line to the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_175_col0.mp3"
+        "file": "audio_TQT_read_write\\en_174.mp3",
+        "type": "en"
     },
     {
         "text": "The Vice President is next in line to the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_175_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_174.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Phó Tổng thống là người kế nhiệm Tổng thống.",
+        "file": "audio_TQT_read_write\\vi_174.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Phó Tổng thống là người kế nhiệm Tổng thống.",
+        "file": "audio_TQT_read_write\\ex_vi_174.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Congress has two parts: the Senate and the House.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_176_col0.mp3"
+        "file": "audio_TQT_read_write\\en_175.mp3",
+        "type": "en"
     },
     {
         "text": "Congress has two parts: the Senate and the House.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_176_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_175.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội có hai phần: Thượng viện và Hạ viện.",
+        "file": "audio_TQT_read_write\\vi_175.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội có hai phần: Thượng viện và Hạ viện.",
+        "file": "audio_TQT_read_write\\ex_vi_175.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag has thirteen stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_177_col0.mp3"
+        "file": "audio_TQT_read_write\\en_176.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag has thirteen stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_177_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_176.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc kỳ Hoa Kỳ có 13 sọc.",
+        "file": "audio_TQT_read_write\\vi_176.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc kỳ Hoa Kỳ có 13 sọc.",
+        "file": "audio_TQT_read_write\\ex_vi_176.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Independence Day is on July 4th.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_178_col0.mp3"
+        "file": "audio_TQT_read_write\\en_177.mp3",
+        "type": "en"
     },
     {
         "text": "Independence Day is on July 4th.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_178_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_177.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày Độc lập là vào ngày 4 tháng 7.",
+        "file": "audio_TQT_read_write\\vi_177.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ngày Độc lập là vào ngày 4 tháng 7.",
+        "file": "audio_TQT_read_write\\ex_vi_177.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. fought in World War I and II.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_179_col0.mp3"
+        "file": "audio_TQT_read_write\\en_178.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. fought in World War I and II.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_179_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_178.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ đã tham gia Thế chiến thứ nhất và thứ hai.",
+        "file": "audio_TQT_read_write\\vi_178.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ đã tham gia Thế chiến thứ nhất và thứ hai.",
+        "file": "audio_TQT_read_write\\ex_vi_178.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Civil Rights Movement fought for equality.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_180_col0.mp3"
+        "file": "audio_TQT_read_write\\en_179.mp3",
+        "type": "en"
     },
     {
         "text": "The Civil Rights Movement fought for equality.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_180_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_179.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Phong trào Dân quyền đấu tranh cho sự bình đẳng.",
+        "file": "audio_TQT_read_write\\vi_179.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Phong trào Dân quyền đấu tranh cho sự bình đẳng.",
+        "file": "audio_TQT_read_write\\ex_vi_179.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has one President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_181_col0.mp3"
+        "file": "audio_TQT_read_write\\en_180.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has one President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_181_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_180.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một Tổng thống.",
+        "file": "audio_TQT_read_write\\vi_180.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một Tổng thống.",
+        "file": "audio_TQT_read_write\\ex_vi_180.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Washington, D.C. is the capital of the U.S.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_182_col0.mp3"
+        "file": "audio_TQT_read_write\\en_181.mp3",
+        "type": "en"
     },
     {
         "text": "Washington, D.C. is the capital of the U.S.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_182_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_181.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Washington, D.C. là thủ đô của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\vi_181.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Washington, D.C. là thủ đô của Hoa Kỳ.",
+        "file": "audio_TQT_read_write\\ex_vi_181.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. Congress makes laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_183_col0.mp3"
+        "file": "audio_TQT_read_write\\en_182.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. Congress makes laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_183_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_182.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội Hoa Kỳ lập pháp.",
+        "file": "audio_TQT_read_write\\vi_182.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội Hoa Kỳ lập pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_182.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Declaration of Independence is important.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_184_col0.mp3"
+        "file": "audio_TQT_read_write\\en_183.mp3",
+        "type": "en"
     },
     {
         "text": "The Declaration of Independence is important.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_184_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_183.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tuyên ngôn Độc lập rất quan trọng.",
+        "file": "audio_TQT_read_write\\vi_183.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tuyên ngôn Độc lập rất quan trọng.",
+        "file": "audio_TQT_read_write\\ex_vi_183.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The national motto is \"In God We Trust.\"",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_185_col0.mp3"
+        "file": "audio_TQT_read_write\\en_184.mp3",
+        "type": "en"
     },
     {
         "text": "The national motto is \"In God We Trust.\"",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_185_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_184.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Phương châm quốc gia là \"Chúng tôi tin vào Chúa.\"",
+        "file": "audio_TQT_read_write\\vi_184.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Phương châm quốc gia là \"Chúng tôi tin vào Chúa.\"",
+        "file": "audio_TQT_read_write\\ex_vi_184.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag stands for the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_186_col0.mp3"
+        "file": "audio_TQT_read_write\\en_185.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag stands for the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_186_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_185.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc kỳ Mỹ đại diện cho đất nước.",
+        "file": "audio_TQT_read_write\\vi_185.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc kỳ Mỹ đại diện cho đất nước.",
+        "file": "audio_TQT_read_write\\ex_vi_185.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. Congress has two chambers.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_187_col0.mp3"
+        "file": "audio_TQT_read_write\\en_186.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. Congress has two chambers.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_187_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_186.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội Hoa Kỳ có hai viện.",
+        "file": "audio_TQT_read_write\\vi_186.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội Hoa Kỳ có hai viện.",
+        "file": "audio_TQT_read_write\\ex_vi_186.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Senate has one hundred members.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_188_col0.mp3"
+        "file": "audio_TQT_read_write\\en_187.mp3",
+        "type": "en"
     },
     {
         "text": "The Senate has one hundred members.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_188_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_187.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thượng viện có 100 thành viên.",
+        "file": "audio_TQT_read_write\\vi_187.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thượng viện có 100 thành viên.",
+        "file": "audio_TQT_read_write\\ex_vi_187.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The House of Representatives makes laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_189_col0.mp3"
+        "file": "audio_TQT_read_write\\en_188.mp3",
+        "type": "en"
     },
     {
         "text": "The House of Representatives makes laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_189_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_188.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hạ viện lập pháp.",
+        "file": "audio_TQT_read_write\\vi_188.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hạ viện lập pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_188.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President signs laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_190_col0.mp3"
+        "file": "audio_TQT_read_write\\en_189.mp3",
+        "type": "en"
     },
     {
         "text": "The President signs laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_190_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_189.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống ký ban hành luật.",
+        "file": "audio_TQT_read_write\\vi_189.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống ký ban hành luật.",
+        "file": "audio_TQT_read_write\\ex_vi_189.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has fifty stars on its flag.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_191_col0.mp3"
+        "file": "audio_TQT_read_write\\en_190.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has fifty stars on its flag.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_191_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_190.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có 50 ngôi sao trên lá cờ.",
+        "file": "audio_TQT_read_write\\vi_190.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có 50 ngôi sao trên lá cờ.",
+        "file": "audio_TQT_read_write\\ex_vi_190.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has thirteen stripes on its flag.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_192_col0.mp3"
+        "file": "audio_TQT_read_write\\en_191.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has thirteen stripes on its flag.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_192_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_191.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có 13 sọc trên lá cờ.",
+        "file": "audio_TQT_read_write\\vi_191.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có 13 sọc trên lá cờ.",
+        "file": "audio_TQT_read_write\\ex_vi_191.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Independence Day is on the Fourth of July.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_193_col0.mp3"
+        "file": "audio_TQT_read_write\\en_192.mp3",
+        "type": "en"
     },
     {
         "text": "Independence Day is on the Fourth of July.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_193_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_192.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày Độc lập là vào ngày 4 tháng 7.",
+        "file": "audio_TQT_read_write\\vi_192.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ngày Độc lập là vào ngày 4 tháng 7.",
+        "file": "audio_TQT_read_write\\ex_vi_192.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Citizens vote for the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_194_col0.mp3"
+        "file": "audio_TQT_read_write\\en_193.mp3",
+        "type": "en"
     },
     {
         "text": "Citizens vote for the President.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_194_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_193.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Công dân bỏ phiếu bầu Tổng thống.",
+        "file": "audio_TQT_read_write\\vi_193.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Công dân bỏ phiếu bầu Tổng thống.",
+        "file": "audio_TQT_read_write\\ex_vi_193.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag represents freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_195_col0.mp3"
+        "file": "audio_TQT_read_write\\en_194.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag represents freedom.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_195_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_194.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc kỳ Mỹ đại diện cho tự do.",
+        "file": "audio_TQT_read_write\\vi_194.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc kỳ Mỹ đại diện cho tự do.",
+        "file": "audio_TQT_read_write\\ex_vi_194.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Congress writes laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_196_col0.mp3"
+        "file": "audio_TQT_read_write\\en_195.mp3",
+        "type": "en"
     },
     {
         "text": "Congress writes laws.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_196_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_195.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc hội soạn thảo luật.",
+        "file": "audio_TQT_read_write\\vi_195.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc hội soạn thảo luật.",
+        "file": "audio_TQT_read_write\\ex_vi_195.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The people elect the Congress.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_197_col0.mp3"
+        "file": "audio_TQT_read_write\\en_196.mp3",
+        "type": "en"
     },
     {
         "text": "The people elect the Congress.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_197_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_196.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân bầu ra Quốc hội.",
+        "file": "audio_TQT_read_write\\vi_196.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân bầu ra Quốc hội.",
+        "file": "audio_TQT_read_write\\ex_vi_196.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President is the leader of the executive branch.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_198_col0.mp3"
+        "file": "audio_TQT_read_write\\en_197.mp3",
+        "type": "en"
     },
     {
         "text": "The President is the leader of the executive branch.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_198_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_197.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống là lãnh đạo nhánh hành pháp.",
+        "file": "audio_TQT_read_write\\vi_197.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống là lãnh đạo nhánh hành pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_197.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Bill of Rights has ten amendments.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_199_col0.mp3"
+        "file": "audio_TQT_read_write\\en_198.mp3",
+        "type": "en"
     },
     {
         "text": "The Bill of Rights has ten amendments.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_199_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_198.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tuyên ngôn Nhân quyền có 10 tu chính án.",
+        "file": "audio_TQT_read_write\\vi_198.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tuyên ngôn Nhân quyền có 10 tu chính án.",
+        "file": "audio_TQT_read_write\\ex_vi_198.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The First Amendment protects freedom of religion.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_200_col0.mp3"
+        "file": "audio_TQT_read_write\\en_199.mp3",
+        "type": "en"
     },
     {
         "text": "The First Amendment protects freedom of religion.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_200_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_199.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tu chính án thứ nhất bảo vệ tự do tôn giáo.",
+        "file": "audio_TQT_read_write\\vi_199.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tu chính án thứ nhất bảo vệ tự do tôn giáo.",
+        "file": "audio_TQT_read_write\\ex_vi_199.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. economy is based on capitalism.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_201_col0.mp3"
+        "file": "audio_TQT_read_write\\en_200.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. economy is based on capitalism.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_201_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_200.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nền kinh tế Mỹ dựa trên chủ nghĩa tư bản.",
+        "file": "audio_TQT_read_write\\vi_200.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nền kinh tế Mỹ dựa trên chủ nghĩa tư bản.",
+        "file": "audio_TQT_read_write\\ex_vi_200.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The U.S. military protects the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_202_col0.mp3"
+        "file": "audio_TQT_read_write\\en_201.mp3",
+        "type": "en"
     },
     {
         "text": "The U.S. military protects the country.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_202_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_201.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quân đội Mỹ bảo vệ đất nước.",
+        "file": "audio_TQT_read_write\\vi_201.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quân đội Mỹ bảo vệ đất nước.",
+        "file": "audio_TQT_read_write\\ex_vi_201.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The United States has a national holiday on July 4th.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_203_col0.mp3"
+        "file": "audio_TQT_read_write\\en_202.mp3",
+        "type": "en"
     },
     {
         "text": "The United States has a national holiday on July 4th.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_203_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_202.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ có một ngày lễ quốc gia vào ngày 4 tháng 7.",
+        "file": "audio_TQT_read_write\\vi_202.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ có một ngày lễ quốc gia vào ngày 4 tháng 7.",
+        "file": "audio_TQT_read_write\\ex_vi_202.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Every citizen has the right to vote.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_204_col0.mp3"
+        "file": "audio_TQT_read_write\\en_203.mp3",
+        "type": "en"
     },
     {
         "text": "Every citizen has the right to vote.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_204_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_203.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Mỗi công dân có quyền bỏ phiếu.",
+        "file": "audio_TQT_read_write\\vi_203.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Mỗi công dân có quyền bỏ phiếu.",
+        "file": "audio_TQT_read_write\\ex_vi_203.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The national flag is red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_205_col0.mp3"
+        "file": "audio_TQT_read_write\\en_204.mp3",
+        "type": "en"
     },
     {
         "text": "The national flag is red, white, and blue.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_205_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_204.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc kỳ có màu đỏ, trắng và xanh dương.",
+        "file": "audio_TQT_read_write\\vi_204.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc kỳ có màu đỏ, trắng và xanh dương.",
+        "file": "audio_TQT_read_write\\ex_vi_204.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President and Congress work together.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_206_col0.mp3"
+        "file": "audio_TQT_read_write\\en_205.mp3",
+        "type": "en"
     },
     {
         "text": "The President and Congress work together.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_206_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_205.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống và Quốc hội làm việc cùng nhau.",
+        "file": "audio_TQT_read_write\\vi_205.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống và Quốc hội làm việc cùng nhau.",
+        "file": "audio_TQT_read_write\\ex_vi_205.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American people elect leaders.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_207_col0.mp3"
+        "file": "audio_TQT_read_write\\en_206.mp3",
+        "type": "en"
     },
     {
         "text": "The American people elect leaders.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_207_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_206.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Người dân Mỹ bầu chọn lãnh đạo.",
+        "file": "audio_TQT_read_write\\vi_206.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người dân Mỹ bầu chọn lãnh đạo.",
+        "file": "audio_TQT_read_write\\ex_vi_206.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The American flag has stars and stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_208_col0.mp3"
+        "file": "audio_TQT_read_write\\en_207.mp3",
+        "type": "en"
     },
     {
         "text": "The American flag has stars and stripes.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_208_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_207.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Quốc kỳ Mỹ có các ngôi sao và sọc.",
+        "file": "audio_TQT_read_write\\vi_207.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc kỳ Mỹ có các ngôi sao và sọc.",
+        "file": "audio_TQT_read_write\\ex_vi_207.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Constitution protects individual rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_209_col0.mp3"
+        "file": "audio_TQT_read_write\\en_208.mp3",
+        "type": "en"
     },
     {
         "text": "The Constitution protects individual rights.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_209_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_208.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến pháp bảo vệ quyền cá nhân.",
+        "file": "audio_TQT_read_write\\vi_208.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến pháp bảo vệ quyền cá nhân.",
+        "file": "audio_TQT_read_write\\ex_vi_208.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Citizens serve on a jury.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_210_col0.mp3"
+        "file": "audio_TQT_read_write\\en_209.mp3",
+        "type": "en"
     },
     {
         "text": "Citizens serve on a jury.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_210_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_209.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Công dân phục vụ trong bồi thẩm đoàn.",
+        "file": "audio_TQT_read_write\\vi_209.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Công dân phục vụ trong bồi thẩm đoàn.",
+        "file": "audio_TQT_read_write\\ex_vi_209.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Voting is an important responsibility.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_211_col0.mp3"
+        "file": "audio_TQT_read_write\\en_210.mp3",
+        "type": "en"
     },
     {
         "text": "Voting is an important responsibility.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_211_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_210.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bỏ phiếu là một trách nhiệm quan trọng.",
+        "file": "audio_TQT_read_write\\vi_210.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Bỏ phiếu là một trách nhiệm quan trọng.",
+        "file": "audio_TQT_read_write\\ex_vi_210.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The President leads the executive branch.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_212_col0.mp3"
+        "file": "audio_TQT_read_write\\en_211.mp3",
+        "type": "en"
     },
     {
         "text": "The President leads the executive branch.",
-        "file": "audio_TQT_read_write/audio_TQT_read_write_212_col3.mp3"
+        "file": "audio_TQT_read_write\\ex_en_211.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tổng thống lãnh đạo nhánh hành pháp.",
+        "file": "audio_TQT_read_write\\vi_211.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng thống lãnh đạo nhánh hành pháp.",
+        "file": "audio_TQT_read_write\\ex_vi_211.mp3",
+        "type": "ex_vi"
     }
 ]

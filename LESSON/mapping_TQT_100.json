@@ -1,802 +1,2002 @@
 [
     {
         "text": "What is the supreme law of the land?",
-        "file": "audio_TQT_100/audio_TQT_100_1_col0.mp3"
+        "file": "audio_TQT_100\\en_0.mp3",
+        "type": "en"
     },
     {
         "text": "the Constitution",
-        "file": "audio_TQT_100/audio_TQT_100_1_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_0.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Luật tối cao của đất nước là gì?",
+        "file": "audio_TQT_100\\vi_0.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hiến Pháp",
+        "file": "audio_TQT_100\\ex_vi_0.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What does the Constitution do?",
-        "file": "audio_TQT_100/audio_TQT_100_2_col0.mp3"
+        "file": "audio_TQT_100\\en_1.mp3",
+        "type": "en"
     },
     {
-        "text": "sets up the government",
-        "file": "audio_TQT_100/audio_TQT_100_2_col3.mp3"
+        "text": "It sets up the government",
+        "file": "audio_TQT_100\\ex_en_1.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến Pháp thực thi điều gì?",
+        "file": "audio_TQT_100\\vi_1.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "thiết lập chính phủ",
+        "file": "audio_TQT_100\\ex_vi_1.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The idea of self-government is in the first three words of the Constitution. What are these words?",
-        "file": "audio_TQT_100/audio_TQT_100_3_col0.mp3"
+        "file": "audio_TQT_100\\en_2.mp3",
+        "type": "en"
     },
     {
         "text": "We the People",
-        "file": "audio_TQT_100/audio_TQT_100_3_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_2.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ý niệm của việc tự trị nằm trong ba chữ đầu của Hiến Pháp. Các chữ đó là gì?",
+        "file": "audio_TQT_100\\vi_2.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chúng ta người dân",
+        "file": "audio_TQT_100\\ex_vi_2.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is an amendment?",
-        "file": "audio_TQT_100/audio_TQT_100_4_col0.mp3"
+        "file": "audio_TQT_100\\en_3.mp3",
+        "type": "en"
     },
     {
         "text": "a change to the Constitution",
-        "file": "audio_TQT_100/audio_TQT_100_4_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_3.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tu chính án là gì?",
+        "file": "audio_TQT_100\\vi_3.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "một sự thay đổi (trong Hiến Pháp)",
+        "file": "audio_TQT_100\\ex_vi_3.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What do we call the first ten amendments to the Constitution?",
-        "file": "audio_TQT_100/audio_TQT_100_5_col0.mp3"
+        "file": "audio_TQT_100\\en_4.mp3",
+        "type": "en"
     },
     {
         "text": "the Bill of Rights",
-        "file": "audio_TQT_100/audio_TQT_100_5_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_4.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta gọi 10 tu chánh án đầu tiên của Hiến Pháp là gì?",
+        "file": "audio_TQT_100\\vi_4.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Bàn Tuyên Ngôn Nhân Quyền",
+        "file": "audio_TQT_100\\ex_vi_4.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is one right or freedom from the First Amendment?",
-        "file": "audio_TQT_100/audio_TQT_100_6_col0.mp3"
+        "file": "audio_TQT_100\\en_5.mp3",
+        "type": "en"
     },
     {
         "text": "speech",
-        "file": "audio_TQT_100/audio_TQT_100_6_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_5.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Một quyền hoặc tự do từ Tu Chính Án thứ nhất là gì?*",
+        "file": "audio_TQT_100\\vi_5.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "ngôn luận",
+        "file": "audio_TQT_100\\ex_vi_5.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How many amendments does the Constitution have?",
-        "file": "audio_TQT_100/audio_TQT_100_7_col0.mp3"
+        "file": "audio_TQT_100\\en_6.mp3",
+        "type": "en"
     },
     {
         "text": "27",
-        "file": "audio_TQT_100/audio_TQT_100_7_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_6.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến Pháp có bao nhiêu tu chánh án?",
+        "file": "audio_TQT_100\\vi_6.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "hai mươi bảy (27)",
+        "file": "audio_TQT_100\\ex_vi_6.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What did the Declaration of Independence do?",
-        "file": "audio_TQT_100/audio_TQT_100_8_col0.mp3"
+        "file": "audio_TQT_100\\en_7.mp3",
+        "type": "en"
     },
     {
-        "text": "said that the United States is free from Great Britain",
-        "file": "audio_TQT_100/audio_TQT_100_8_col3.mp3"
+        "text": "It said that the United States is free from Great Britain",
+        "file": "audio_TQT_100\\ex_en_7.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bản Tuyên Ngôn Độc Lập có ý nghĩa gì?",
+        "file": "audio_TQT_100\\vi_7.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "cho biết Hoa Kỳ đã tự do (khỏi Anh Quốc)",
+        "file": "audio_TQT_100\\ex_vi_7.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are two rights in the Declaration of Independence?",
-        "file": "audio_TQT_100/audio_TQT_100_9_col0.mp3"
+        "file": "audio_TQT_100\\en_8.mp3",
+        "type": "en"
     },
     {
         "text": "life, liberty",
-        "file": "audio_TQT_100/audio_TQT_100_9_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_8.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Kể ra Hai quyền trong bản Bản Tuyên Ngôn Độc Lập?",
+        "file": "audio_TQT_100\\vi_8.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "quyền sống, quyền tự do",
+        "file": "audio_TQT_100\\ex_vi_8.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is freedom of religion?",
-        "file": "audio_TQT_100/audio_TQT_100_10_col0.mp3"
+        "file": "audio_TQT_100\\en_9.mp3",
+        "type": "en"
     },
     {
         "text": "You can practice any religion, or not practice a religion.",
-        "file": "audio_TQT_100/audio_TQT_100_10_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_9.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tự do tôn giáo là gì?",
+        "file": "audio_TQT_100\\vi_9.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quý vị có thể theo bất cứ tôn giáo nào, hoặc không theo tôn giáo nào.",
+        "file": "audio_TQT_100\\ex_vi_9.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the economic system in the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_11_col0.mp3"
+        "file": "audio_TQT_100\\en_10.mp3",
+        "type": "en"
     },
     {
         "text": "market economy",
-        "file": "audio_TQT_100/audio_TQT_100_11_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_10.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hệ thống kinh tế của Hoa Kỳ là gì?*",
+        "file": "audio_TQT_100\\vi_10.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "kinh tế thị trường",
+        "file": "audio_TQT_100\\ex_vi_10.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the \"rule of law\"?",
-        "file": "audio_TQT_100/audio_TQT_100_12_col0.mp3"
+        "file": "audio_TQT_100\\en_11.mp3",
+        "type": "en"
     },
     {
         "text": "Everyone must follow the law.",
-        "file": "audio_TQT_100/audio_TQT_100_12_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_11.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "\"Thượng tôn luật pháp\" là gì?",
+        "file": "audio_TQT_100\\vi_11.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Mọi người đều phải tuân theo luật pháp.",
+        "file": "audio_TQT_100\\ex_vi_11.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one branch or part of the government.",
-        "file": "audio_TQT_100/audio_TQT_100_13_col0.mp3"
+        "file": "audio_TQT_100\\en_12.mp3",
+        "type": "en"
     },
     {
         "text": "Congress",
-        "file": "audio_TQT_100/audio_TQT_100_13_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_12.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết một ngành hay phần của chính phủ.*",
+        "file": "audio_TQT_100\\vi_12.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc Hội",
+        "file": "audio_TQT_100\\ex_vi_12.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What stops one branch of government from becoming too powerful?",
-        "file": "audio_TQT_100/audio_TQT_100_14_col0.mp3"
+        "file": "audio_TQT_100\\en_13.mp3",
+        "type": "en"
     },
     {
         "text": "checks and balances",
-        "file": "audio_TQT_100/audio_TQT_100_14_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_13.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Điều gì ngăn chặn một ngành công quyền trở nên quá nhiều quyền lực?",
+        "file": "audio_TQT_100\\vi_13.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "kiểm soát lẫn nhau",
+        "file": "audio_TQT_100\\ex_vi_13.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who is in charge of the executive branch?",
-        "file": "audio_TQT_100/audio_TQT_100_15_col0.mp3"
+        "file": "audio_TQT_100\\en_14.mp3",
+        "type": "en"
     },
     {
         "text": "the President",
-        "file": "audio_TQT_100/audio_TQT_100_15_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_14.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai phụ trách hành pháp?",
+        "file": "audio_TQT_100\\vi_14.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng Thống",
+        "file": "audio_TQT_100\\ex_vi_14.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who makes federal laws?",
-        "file": "audio_TQT_100/audio_TQT_100_16_col0.mp3"
+        "file": "audio_TQT_100\\en_15.mp3",
+        "type": "en"
     },
     {
         "text": "Congress",
-        "file": "audio_TQT_100/audio_TQT_100_16_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_15.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai lập ra luật liên bang?",
+        "file": "audio_TQT_100\\vi_15.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Quốc Hội",
+        "file": "audio_TQT_100\\ex_vi_15.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are the two parts of the U.S. Congress?",
-        "file": "audio_TQT_100/audio_TQT_100_17_col0.mp3"
+        "file": "audio_TQT_100\\en_16.mp3",
+        "type": "en"
     },
     {
         "text": "the Senate and House of Representatives",
-        "file": "audio_TQT_100/audio_TQT_100_17_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_16.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hai phần của Quốc Hội Hoa Kỳ là gì?*",
+        "file": "audio_TQT_100\\vi_16.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thượng và Hạ Nghị Viện",
+        "file": "audio_TQT_100\\ex_vi_16.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How many U.S. Senators are there?",
-        "file": "audio_TQT_100/audio_TQT_100_18_col0.mp3"
+        "file": "audio_TQT_100\\en_17.mp3",
+        "type": "en"
     },
     {
         "text": "100",
-        "file": "audio_TQT_100/audio_TQT_100_18_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_17.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có bao nhiêu Thượng Nghị Sĩ Liên Bang?",
+        "file": "audio_TQT_100\\vi_17.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "một trăm (100)",
+        "file": "audio_TQT_100\\ex_vi_17.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We elect a U.S. Senator for how many years?",
-        "file": "audio_TQT_100/audio_TQT_100_19_col0.mp3"
+        "file": "audio_TQT_100\\en_18.mp3",
+        "type": "en"
     },
     {
         "text": "6",
-        "file": "audio_TQT_100/audio_TQT_100_19_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_18.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta bầu Thượng Nghị Sĩ cho bao nhiêu năm?",
+        "file": "audio_TQT_100\\vi_18.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "sáu (6)",
+        "file": "audio_TQT_100\\ex_vi_18.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who is one of your state's U.S. Senators now?",
-        "file": "audio_TQT_100/audio_TQT_100_20_col0.mp3"
+        "file": "audio_TQT_100\\en_19.mp3",
+        "type": "en"
     },
     {
         "text": "Adam Schiff",
-        "file": "audio_TQT_100/audio_TQT_100_20_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_19.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiện nay ai là một trong những Thượng Nghị Sĩ Liên Bang của bạn?*",
+        "file": "audio_TQT_100\\vi_19.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Adam Schiff",
+        "file": "audio_TQT_100\\ex_vi_19.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The House of Representatives has how many voting members?",
-        "file": "audio_TQT_100/audio_TQT_100_21_col0.mp3"
+        "file": "audio_TQT_100\\en_20.mp3",
+        "type": "en"
     },
     {
         "text": "435",
-        "file": "audio_TQT_100/audio_TQT_100_21_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_20.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hạ Nghị Viện có bao nhiêu dân biểu?",
+        "file": "audio_TQT_100\\vi_20.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "bốn trăm ba mươi lăm (435)",
+        "file": "audio_TQT_100\\ex_vi_20.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We elect a U.S. Representative for how many years?",
-        "file": "audio_TQT_100/audio_TQT_100_22_col0.mp3"
+        "file": "audio_TQT_100\\en_21.mp3",
+        "type": "en"
     },
     {
         "text": "2",
-        "file": "audio_TQT_100/audio_TQT_100_22_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_21.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chúng ta bầu dân biểu cho mấy năm?",
+        "file": "audio_TQT_100\\vi_21.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "hai năm (2)",
+        "file": "audio_TQT_100\\ex_vi_21.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name your U.S. Representative.",
-        "file": "audio_TQT_100/audio_TQT_100_23_col0.mp3"
+        "file": "audio_TQT_100\\en_22.mp3",
+        "type": "en"
     },
     {
         "text": "Row Khanna",
-        "file": "audio_TQT_100/audio_TQT_100_23_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_22.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết tên vị dân biểu của bạn.",
+        "file": "audio_TQT_100\\vi_22.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Ro Khanna",
+        "file": "audio_TQT_100\\ex_vi_22.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who does a U.S. Senator represent?",
-        "file": "audio_TQT_100/audio_TQT_100_24_col0.mp3"
+        "file": "audio_TQT_100\\en_23.mp3",
+        "type": "en"
     },
     {
         "text": "all people of the state",
-        "file": "audio_TQT_100/audio_TQT_100_24_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_23.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thượng nghị sĩ đại diện ai?",
+        "file": "audio_TQT_100\\vi_23.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tất cả người dân trong tiểu bang",
+        "file": "audio_TQT_100\\ex_vi_23.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Why do some states have more Representatives than other states?",
-        "file": "audio_TQT_100/audio_TQT_100_25_col0.mp3"
+        "file": "audio_TQT_100\\en_24.mp3",
+        "type": "en"
     },
     {
         "text": "Because they have more people.",
-        "file": "audio_TQT_100/audio_TQT_100_25_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_24.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tại sao có những tiểu bang có nhiều đại biểu hơn các tiểu bang khác?",
+        "file": "audio_TQT_100\\vi_24.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "(Vì) tiểu bang đó đông dân hơn",
+        "file": "audio_TQT_100\\ex_vi_24.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "We elect a President for how many years?",
-        "file": "audio_TQT_100/audio_TQT_100_26_col0.mp3"
+        "file": "audio_TQT_100\\en_25.mp3",
+        "type": "en"
     },
     {
         "text": "4",
-        "file": "audio_TQT_100/audio_TQT_100_26_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_25.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nhiệm kỳ Tổng Thống là mấy năm?",
+        "file": "audio_TQT_100\\vi_25.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Bốn (4) năm",
+        "file": "audio_TQT_100\\ex_vi_25.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "In what month do we vote for President?",
-        "file": "audio_TQT_100/audio_TQT_100_27_col0.mp3"
+        "file": "audio_TQT_100\\en_26.mp3",
+        "type": "en"
     },
     {
         "text": "November",
-        "file": "audio_TQT_100/audio_TQT_100_27_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_26.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bầu Tổng Thống vào tháng nào?*",
+        "file": "audio_TQT_100\\vi_26.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tháng Mười Một",
+        "file": "audio_TQT_100\\ex_vi_26.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the name of the President of the United States now?",
-        "file": "audio_TQT_100/audio_TQT_100_28_col0.mp3"
+        "file": "audio_TQT_100\\en_27.mp3",
+        "type": "en"
     },
     {
         "text": "Donald Trump",
-        "file": "audio_TQT_100/audio_TQT_100_28_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_27.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiện nay tên Tổng Thống Hoa Kỳ là gì?*",
+        "file": "audio_TQT_100\\vi_27.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Donald Trump",
+        "file": "audio_TQT_100\\ex_vi_27.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the name of the Vice President of the United States now?",
-        "file": "audio_TQT_100/audio_TQT_100_29_col0.mp3"
+        "file": "audio_TQT_100\\en_28.mp3",
+        "type": "en"
     },
     {
         "text": "JD Vance",
-        "file": "audio_TQT_100/audio_TQT_100_29_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_28.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiện nay tên Phó Tổng Thống Hoa Kỳ là gì?",
+        "file": "audio_TQT_100\\vi_28.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Vance",
+        "file": "audio_TQT_100\\ex_vi_28.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "If the President can no longer serve, who becomes President?",
-        "file": "audio_TQT_100/audio_TQT_100_30_col0.mp3"
+        "file": "audio_TQT_100\\en_29.mp3",
+        "type": "en"
     },
     {
         "text": "the Vice President",
-        "file": "audio_TQT_100/audio_TQT_100_30_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_29.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nếu Tổng Thống không thể làm việc được nữa, ai sẽ thay thế làm Tổng Thống?",
+        "file": "audio_TQT_100\\vi_29.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Phó Tổng Thống",
+        "file": "audio_TQT_100\\ex_vi_29.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "If both the President and the Vice President can no longer serve, who becomes President?",
-        "file": "audio_TQT_100/audio_TQT_100_31_col0.mp3"
+        "file": "audio_TQT_100\\en_30.mp3",
+        "type": "en"
     },
     {
         "text": "the Speaker of the House",
-        "file": "audio_TQT_100/audio_TQT_100_31_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_30.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nếu cả Tổng Thống và Phó Tổng Thống không thể làm việc được nữa, ai sẽ thay thế?",
+        "file": "audio_TQT_100\\vi_30.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chủ Tịch Hạ Nghị Viện",
+        "file": "audio_TQT_100\\ex_vi_30.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who is the Commander in Chief of the military?",
-        "file": "audio_TQT_100/audio_TQT_100_32_col0.mp3"
+        "file": "audio_TQT_100\\en_31.mp3",
+        "type": "en"
     },
     {
         "text": "the President",
-        "file": "audio_TQT_100/audio_TQT_100_32_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_31.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai là Tổng Tư Lệnh quân đội?",
+        "file": "audio_TQT_100\\vi_31.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng Thống",
+        "file": "audio_TQT_100\\ex_vi_31.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who signs bills to become laws?",
-        "file": "audio_TQT_100/audio_TQT_100_33_col0.mp3"
+        "file": "audio_TQT_100\\en_32.mp3",
+        "type": "en"
     },
     {
         "text": "the President",
-        "file": "audio_TQT_100/audio_TQT_100_33_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_32.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai sẽ ký dự thảo luật thành luật?",
+        "file": "audio_TQT_100\\vi_32.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng Thống",
+        "file": "audio_TQT_100\\ex_vi_32.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who vetoes bills?",
-        "file": "audio_TQT_100/audio_TQT_100_34_col0.mp3"
+        "file": "audio_TQT_100\\en_33.mp3",
+        "type": "en"
     },
     {
         "text": "the President",
-        "file": "audio_TQT_100/audio_TQT_100_34_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_33.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai có quyền phủ quyết các dự luật?",
+        "file": "audio_TQT_100\\vi_33.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tổng Thống",
+        "file": "audio_TQT_100\\ex_vi_33.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What does the President's Cabinet do?",
-        "file": "audio_TQT_100/audio_TQT_100_35_col0.mp3"
+        "file": "audio_TQT_100\\en_34.mp3",
+        "type": "en"
     },
     {
         "text": "advises the President",
-        "file": "audio_TQT_100/audio_TQT_100_35_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_34.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nội các của Tổng Thống làm gì?",
+        "file": "audio_TQT_100\\vi_34.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Cố vấn cho Tổng Thống",
+        "file": "audio_TQT_100\\ex_vi_34.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are two Cabinet-level positions?",
-        "file": "audio_TQT_100/audio_TQT_100_36_col0.mp3"
+        "file": "audio_TQT_100\\en_35.mp3",
+        "type": "en"
     },
     {
         "text": "Secretary of state, Secretary of labor",
-        "file": "audio_TQT_100/audio_TQT_100_36_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_35.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Kể ra Hai chức vụ trong hàng nội các.",
+        "file": "audio_TQT_100\\vi_35.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Bộ Trưởng Ngoại Giao, Bộ Trưởng Lao Động",
+        "file": "audio_TQT_100\\ex_vi_35.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What does the judicial branch do?",
-        "file": "audio_TQT_100/audio_TQT_100_37_col0.mp3"
+        "file": "audio_TQT_100\\en_36.mp3",
+        "type": "en"
     },
     {
         "text": "reviews laws",
-        "file": "audio_TQT_100/audio_TQT_100_37_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_36.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngành tư pháp làm gì?",
+        "file": "audio_TQT_100\\vi_36.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "xét duyệt pháp luật",
+        "file": "audio_TQT_100\\ex_vi_36.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the highest court in the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_38_col0.mp3"
+        "file": "audio_TQT_100\\en_37.mp3",
+        "type": "en"
     },
     {
         "text": "the Supreme Court",
-        "file": "audio_TQT_100/audio_TQT_100_38_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_37.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tòa án cao nhất ở Hoa Kỳ là gì?",
+        "file": "audio_TQT_100\\vi_37.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Tối Cao Pháp Viện",
+        "file": "audio_TQT_100\\ex_vi_37.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How many justices are on the Supreme Court?",
-        "file": "audio_TQT_100/audio_TQT_100_39_col0.mp3"
+        "file": "audio_TQT_100\\en_38.mp3",
+        "type": "en"
     },
     {
         "text": "9",
-        "file": "audio_TQT_100/audio_TQT_100_39_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_38.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có bao nhiêu thẩm phán ở Tối Cao Pháp Viện?",
+        "file": "audio_TQT_100\\vi_38.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chín (9)",
+        "file": "audio_TQT_100\\ex_vi_38.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who is the Chief Justice of the United States now?",
-        "file": "audio_TQT_100/audio_TQT_100_40_col0.mp3"
+        "file": "audio_TQT_100\\en_39.mp3",
+        "type": "en"
     },
     {
         "text": "John Roberts",
-        "file": "audio_TQT_100/audio_TQT_100_40_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_39.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai đang là Chủ Tịch Tối Cao Pháp Viện?",
+        "file": "audio_TQT_100\\vi_39.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "John Roberts",
+        "file": "audio_TQT_100\\ex_vi_39.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
-        "file": "audio_TQT_100/audio_TQT_100_41_col0.mp3"
+        "file": "audio_TQT_100\\en_40.mp3",
+        "type": "en"
     },
     {
         "text": "to print money",
-        "file": "audio_TQT_100/audio_TQT_100_41_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_40.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Theo Hiến Pháp, chánh phủ liên bang có một số quyền. Một trong các quyền của chánh phủ liên bang là?",
+        "file": "audio_TQT_100\\vi_40.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "in tiền",
+        "file": "audio_TQT_100\\ex_vi_40.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Under our Constitution, some powers belong to the states. What is one power of the states?",
-        "file": "audio_TQT_100/audio_TQT_100_42_col0.mp3"
+        "file": "audio_TQT_100\\en_41.mp3",
+        "type": "en"
     },
     {
         "text": "give a driver's license",
-        "file": "audio_TQT_100/audio_TQT_100_42_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_41.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Theo Hiến Pháp, chánh phủ tiểu bang có một số quyền. Một trong các quyền của chánh phủ tiểu bang là?",
+        "file": "audio_TQT_100\\vi_41.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "cấp bằng lái xe",
+        "file": "audio_TQT_100\\ex_vi_41.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who is the Governor of your state now?",
-        "file": "audio_TQT_100/audio_TQT_100_43_col0.mp3"
+        "file": "audio_TQT_100\\en_42.mp3",
+        "type": "en"
     },
     {
         "text": "Gavin Newsom",
-        "file": "audio_TQT_100/audio_TQT_100_43_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_42.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thống Đốc tiểu bang hiện nay của bạn tên gì?",
+        "file": "audio_TQT_100\\vi_42.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Gavin Newsom",
+        "file": "audio_TQT_100\\ex_vi_42.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the capital of your state?",
-        "file": "audio_TQT_100/audio_TQT_100_44_col0.mp3"
+        "file": "audio_TQT_100\\en_43.mp3",
+        "type": "en"
     },
     {
         "text": "Sacramento",
-        "file": "audio_TQT_100/audio_TQT_100_44_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_43.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thủ phủ của tiểu bang bạn tên gì?*",
+        "file": "audio_TQT_100\\vi_43.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Sacramento",
+        "file": "audio_TQT_100\\ex_vi_43.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are the two major political parties in the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_45_col0.mp3"
+        "file": "audio_TQT_100\\en_44.mp3",
+        "type": "en"
     },
     {
         "text": "Democratic and Republican",
-        "file": "audio_TQT_100/audio_TQT_100_45_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_44.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hai đảng chính của Hoa Kỳ là gì?*",
+        "file": "audio_TQT_100\\vi_44.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Dân Chủ và Cộng Hòa",
+        "file": "audio_TQT_100\\ex_vi_44.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the political party of the President now?",
-        "file": "audio_TQT_100/audio_TQT_100_46_col0.mp3"
+        "file": "audio_TQT_100\\en_45.mp3",
+        "type": "en"
     },
     {
         "text": "Republican Party",
-        "file": "audio_TQT_100/audio_TQT_100_46_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_45.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Đảng của Tổng Thống hiện tại là đảng nào?",
+        "file": "audio_TQT_100\\vi_45.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đảng Cộng Hòa",
+        "file": "audio_TQT_100\\ex_vi_45.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the name of the Speaker of the House of Representatives now?",
-        "file": "audio_TQT_100/audio_TQT_100_47_col0.mp3"
+        "file": "audio_TQT_100\\en_46.mp3",
+        "type": "en"
     },
     {
         "text": "Mike Johnson",
-        "file": "audio_TQT_100/audio_TQT_100_47_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_46.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Chủ Tịch Hạ Viện hiện thời tên gì?",
+        "file": "audio_TQT_100\\vi_46.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Mike Johnson",
+        "file": "audio_TQT_100\\ex_vi_46.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "There are four amendments to the Constitution about who can vote. Describe one of them.",
-        "file": "audio_TQT_100/audio_TQT_100_48_col0.mp3"
+        "file": "audio_TQT_100\\en_47.mp3",
+        "type": "en"
     },
     {
         "text": "Citizens 18 and older can vote.",
-        "file": "audio_TQT_100/audio_TQT_100_48_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_47.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có bốn tu chính án Hiến Pháp về việc ai có quyền bầu cử. Kể ra Một trong các thứ đó.",
+        "file": "audio_TQT_100\\vi_47.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Công dân từ 18 tuổi trở lên (có thể bầu cử)",
+        "file": "audio_TQT_100\\ex_vi_47.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is one responsibility that is only for United States citizens?",
-        "file": "audio_TQT_100/audio_TQT_100_49_col0.mp3"
+        "file": "audio_TQT_100\\en_48.mp3",
+        "type": "en"
     },
     {
         "text": "vote in a federal election",
-        "file": "audio_TQT_100/audio_TQT_100_49_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_48.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Một trong các bổn phận chỉ dành riêng cho công dân Hoa Kỳ là gì?*",
+        "file": "audio_TQT_100\\vi_48.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "đi bầu trong bầu cử liên bang",
+        "file": "audio_TQT_100\\ex_vi_48.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one right only for United States citizens.",
-        "file": "audio_TQT_100/audio_TQT_100_50_col0.mp3"
+        "file": "audio_TQT_100\\en_49.mp3",
+        "type": "en"
     },
     {
         "text": "vote in a federal election",
-        "file": "audio_TQT_100/audio_TQT_100_50_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_49.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết một quyền của riêng công dân Hoa Kỳ.",
+        "file": "audio_TQT_100\\vi_49.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "tham gia bầu cử cấp liên bang",
+        "file": "audio_TQT_100\\ex_vi_49.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are two rights of everyone living in the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_51_col0.mp3"
+        "file": "audio_TQT_100\\en_50.mp3",
+        "type": "en"
     },
     {
         "text": "freedom of speech, freedom of religion",
-        "file": "audio_TQT_100/audio_TQT_100_51_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_50.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết hai quyền của mỗi người sống ở Hoa Kỳ?",
+        "file": "audio_TQT_100\\vi_50.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "tự do ngôn luân, tự do tôn giáo",
+        "file": "audio_TQT_100\\ex_vi_50.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What do we show loyalty to when we say the Pledge of Allegiance?",
-        "file": "audio_TQT_100/audio_TQT_100_52_col0.mp3"
+        "file": "audio_TQT_100\\en_51.mp3",
+        "type": "en"
     },
     {
         "text": "the United States",
-        "file": "audio_TQT_100/audio_TQT_100_52_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_51.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Khi nói Lời Tuyên Thệ Trung Thành (Pledge of Allegiance), chúng ta chứng tỏ sự trung thành với cái gì?",
+        "file": "audio_TQT_100\\vi_51.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Hoa Kỳ",
+        "file": "audio_TQT_100\\ex_vi_51.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is one promise you make when you become a United States citizen?",
-        "file": "audio_TQT_100/audio_TQT_100_53_col0.mp3"
+        "file": "audio_TQT_100\\en_52.mp3",
+        "type": "en"
     },
     {
         "text": "obey the laws of the United States",
-        "file": "audio_TQT_100/audio_TQT_100_53_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_52.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Khi trở thành công dân Hoa Kỳ, một trong những lời hứa của bạn là gì?",
+        "file": "audio_TQT_100\\vi_52.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "tuân hành luật pháp của Hoa Kỳ",
+        "file": "audio_TQT_100\\ex_vi_52.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "How old do citizens have to be to vote for President?",
-        "file": "audio_TQT_100/audio_TQT_100_54_col0.mp3"
+        "file": "audio_TQT_100\\en_53.mp3",
+        "type": "en"
     },
     {
         "text": "18 and older",
-        "file": "audio_TQT_100/audio_TQT_100_54_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_53.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Công dân phải bao nhiêu tuổi mới được bầu Tổng Thống?*",
+        "file": "audio_TQT_100\\vi_53.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Mười Tám (18) và hơn",
+        "file": "audio_TQT_100\\ex_vi_53.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What are two ways that Americans can participate in their democracy?",
-        "file": "audio_TQT_100/audio_TQT_100_55_col0.mp3"
+        "file": "audio_TQT_100\\en_54.mp3",
+        "type": "en"
     },
     {
         "text": "vote, join a political party",
-        "file": "audio_TQT_100/audio_TQT_100_55_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_54.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có hai cách công dân Hoa Kỳ có thể tham dự vào nền dân chủ là các cách nào?",
+        "file": "audio_TQT_100\\vi_54.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "bầu cử, tham gia một đảng phái chính trị",
+        "file": "audio_TQT_100\\ex_vi_54.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "When is the last day you can send in federal income tax forms?",
-        "file": "audio_TQT_100/audio_TQT_100_56_col0.mp3"
+        "file": "audio_TQT_100\\en_55.mp3",
+        "type": "en"
     },
     {
         "text": "April 15",
-        "file": "audio_TQT_100/audio_TQT_100_56_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_55.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày cuối cùng có thể nạp tờ khai thuế cho liên bang là?*",
+        "file": "audio_TQT_100\\vi_55.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "15 Tháng Tư",
+        "file": "audio_TQT_100\\ex_vi_55.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "When must all men register for the Selective Service?",
-        "file": "audio_TQT_100/audio_TQT_100_57_col0.mp3"
+        "file": "audio_TQT_100\\en_56.mp3",
+        "type": "en"
     },
     {
         "text": "at age 18",
-        "file": "audio_TQT_100/audio_TQT_100_57_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_56.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Khi nào tất cả nam giới phải ghi tên cho Sở Quân Vụ (Selective Service)?",
+        "file": "audio_TQT_100\\vi_56.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "ở tuổi mười tám (18)",
+        "file": "audio_TQT_100\\ex_vi_56.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is one reason colonists came to America?",
-        "file": "audio_TQT_100/audio_TQT_100_58_col0.mp3"
+        "file": "audio_TQT_100\\en_57.mp3",
+        "type": "en"
     },
     {
         "text": "freedom",
-        "file": "audio_TQT_100/audio_TQT_100_58_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_57.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Một trong những lý do khiến người di dân thời thuộc địa tới Mỹ Châu là gì?",
+        "file": "audio_TQT_100\\vi_57.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "tự do",
+        "file": "audio_TQT_100\\ex_vi_57.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who lived in America before the Europeans arrived?",
-        "file": "audio_TQT_100/audio_TQT_100_59_col0.mp3"
+        "file": "audio_TQT_100\\en_58.mp3",
+        "type": "en"
     },
     {
         "text": "American Indians",
-        "file": "audio_TQT_100/audio_TQT_100_59_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_58.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Những ai sống tại Mỹ trước khi người Âu Châu tới?",
+        "file": "audio_TQT_100\\vi_58.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thổ dân châu Mỹ",
+        "file": "audio_TQT_100\\ex_vi_58.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What group of people was taken to America and sold as slaves?",
-        "file": "audio_TQT_100/audio_TQT_100_60_col0.mp3"
+        "file": "audio_TQT_100\\en_59.mp3",
+        "type": "en"
     },
     {
         "text": "Africans",
-        "file": "audio_TQT_100/audio_TQT_100_60_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_59.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Nhóm người nào được mang tới Mỹ Châu và bán làm nô lệ?",
+        "file": "audio_TQT_100\\vi_59.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Người châu Phi",
+        "file": "audio_TQT_100\\ex_vi_59.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Why did the colonists fight the British?",
-        "file": "audio_TQT_100/audio_TQT_100_61_col0.mp3"
+        "file": "audio_TQT_100\\en_60.mp3",
+        "type": "en"
     },
     {
         "text": "because of high taxes",
-        "file": "audio_TQT_100/audio_TQT_100_61_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_60.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tại sao những người thuộc địa chống lại người Anh?",
+        "file": "audio_TQT_100\\vi_60.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "vì thuế má cao",
+        "file": "audio_TQT_100\\ex_vi_60.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who wrote the Declaration of Independence?",
-        "file": "audio_TQT_100/audio_TQT_100_62_col0.mp3"
+        "file": "audio_TQT_100\\en_61.mp3",
+        "type": "en"
     },
     {
         "text": "Thomas Jefferson",
-        "file": "audio_TQT_100/audio_TQT_100_62_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_61.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai viết Bản Tuyên Ngôn Độc Lập?",
+        "file": "audio_TQT_100\\vi_61.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "(Thomas) Jefferson",
+        "file": "audio_TQT_100\\ex_vi_61.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "When was the Declaration of Independence adopted?",
-        "file": "audio_TQT_100/audio_TQT_100_63_col0.mp3"
+        "file": "audio_TQT_100\\en_62.mp3",
+        "type": "en"
     },
     {
         "text": "July 4, 1776",
-        "file": "audio_TQT_100/audio_TQT_100_63_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_62.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bản Tuyên Ngôn Độc Lập được thông qua lúc nào?",
+        "file": "audio_TQT_100\\vi_62.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "4 Tháng Bảy 1776",
+        "file": "audio_TQT_100\\ex_vi_62.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "There were 13 original states. Name three.",
-        "file": "audio_TQT_100/audio_TQT_100_64_col0.mp3"
+        "file": "audio_TQT_100\\en_63.mp3",
+        "type": "en"
     },
     {
         "text": "New York, New Hampshire, New Jersey",
-        "file": "audio_TQT_100/audio_TQT_100_64_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_63.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Có 13 tiểu bang nguyên thủy. Cho biết ba tiểu bang.",
+        "file": "audio_TQT_100\\vi_63.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "New York, New Hampshire, New Jersey",
+        "file": "audio_TQT_100\\ex_vi_63.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What happened at the Constitutional Convention?",
-        "file": "audio_TQT_100/audio_TQT_100_65_col0.mp3"
+        "file": "audio_TQT_100\\en_64.mp3",
+        "type": "en"
     },
     {
         "text": "The Constitution was written.",
-        "file": "audio_TQT_100/audio_TQT_100_65_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_64.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Việc gì xảy ra tại Đại Hội Lập Hiến?",
+        "file": "audio_TQT_100\\vi_64.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Soạn thảo Hiến Pháp.",
+        "file": "audio_TQT_100\\ex_vi_64.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "When was the Constitution written?",
-        "file": "audio_TQT_100/audio_TQT_100_66_col0.mp3"
+        "file": "audio_TQT_100\\en_65.mp3",
+        "type": "en"
     },
     {
         "text": "in 1787",
-        "file": "audio_TQT_100/audio_TQT_100_66_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_65.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hiến Pháp được soạn thảo khi nào?",
+        "file": "audio_TQT_100\\vi_65.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "1787",
+        "file": "audio_TQT_100\\ex_vi_65.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
-        "file": "audio_TQT_100/audio_TQT_100_67_col0.mp3"
+        "file": "audio_TQT_100\\en_66.mp3",
+        "type": "en"
     },
     {
         "text": "John Jay",
-        "file": "audio_TQT_100/audio_TQT_100_67_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_66.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Các bài tham luận gọi là Federalist Papers ủng hộ việc thông qua Hiến Pháp Hoa Kỳ. Kể tên một trong những người viết tham luận.",
+        "file": "audio_TQT_100\\vi_66.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "John Jay",
+        "file": "audio_TQT_100\\ex_vi_66.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is one thing Benjamin Franklin is famous for?",
-        "file": "audio_TQT_100/audio_TQT_100_68_col0.mp3"
+        "file": "audio_TQT_100\\en_67.mp3",
+        "type": "en"
     },
     {
         "text": "U.S. diplomat",
-        "file": "audio_TQT_100/audio_TQT_100_68_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_67.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Một việc gì làm Benjamin Franklin nổi tiếng?",
+        "file": "audio_TQT_100\\vi_67.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "nhà ngoại giao Hoa Kỳ",
+        "file": "audio_TQT_100\\ex_vi_67.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who is the \"Father of Our Country\"?",
-        "file": "audio_TQT_100/audio_TQT_100_69_col0.mp3"
+        "file": "audio_TQT_100\\en_68.mp3",
+        "type": "en"
     },
     {
         "text": "George Washington",
-        "file": "audio_TQT_100/audio_TQT_100_69_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_68.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai được gọi là cha đẻ của nước Mỹ?",
+        "file": "audio_TQT_100\\vi_68.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "(George) Washington",
+        "file": "audio_TQT_100\\ex_vi_68.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who was the first President?",
-        "file": "audio_TQT_100/audio_TQT_100_70_col0.mp3"
+        "file": "audio_TQT_100\\en_69.mp3",
+        "type": "en"
     },
     {
         "text": "George Washington",
-        "file": "audio_TQT_100/audio_TQT_100_70_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_69.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai là Tổng Thống đầu tiên?",
+        "file": "audio_TQT_100\\vi_69.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "(George) Washington",
+        "file": "audio_TQT_100\\ex_vi_69.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What territory did the United States buy from France in 1803?",
-        "file": "audio_TQT_100/audio_TQT_100_71_col0.mp3"
+        "file": "audio_TQT_100\\en_70.mp3",
+        "type": "en"
     },
     {
         "text": "Louisiana",
-        "file": "audio_TQT_100/audio_TQT_100_71_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_70.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Hoa Kỳ mua địa hạt nào của Pháp vào năm 1803?",
+        "file": "audio_TQT_100\\vi_70.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Địa hạt Louisiana",
+        "file": "audio_TQT_100\\ex_vi_70.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one war fought by the United States in the 1800s.",
-        "file": "audio_TQT_100/audio_TQT_100_72_col0.mp3"
+        "file": "audio_TQT_100\\en_71.mp3",
+        "type": "en"
     },
     {
         "text": "Civil War",
-        "file": "audio_TQT_100/audio_TQT_100_72_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_71.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tên một trong những cuộc chiến Hoa Kỳ tham chiến những năm 1800.",
+        "file": "audio_TQT_100\\vi_71.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nội chiến",
+        "file": "audio_TQT_100\\ex_vi_71.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name the U.S. war between the North and the South.",
-        "file": "audio_TQT_100/audio_TQT_100_73_col0.mp3"
+        "file": "audio_TQT_100\\en_72.mp3",
+        "type": "en"
     },
     {
         "text": "the Civil War",
-        "file": "audio_TQT_100/audio_TQT_100_73_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_72.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tên gọi của cuộc chiến trên đất Hoa Kỳ giữa miền Bắc và miền Nam là gì.",
+        "file": "audio_TQT_100\\vi_72.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nội chiến",
+        "file": "audio_TQT_100\\ex_vi_72.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one problem that led to the Civil War.",
-        "file": "audio_TQT_100/audio_TQT_100_74_col0.mp3"
+        "file": "audio_TQT_100\\en_73.mp3",
+        "type": "en"
     },
     {
         "text": "slavery",
-        "file": "audio_TQT_100/audio_TQT_100_74_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_73.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết một vấn đề đưa tới cuộc nội chiến.",
+        "file": "audio_TQT_100\\vi_73.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "vấn đề nô lệ",
+        "file": "audio_TQT_100\\ex_vi_73.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What was one important thing that Abraham Lincoln did?",
-        "file": "audio_TQT_100/audio_TQT_100_75_col0.mp3"
+        "file": "audio_TQT_100\\en_74.mp3",
+        "type": "en"
     },
     {
         "text": "freed the slaves",
-        "file": "audio_TQT_100/audio_TQT_100_75_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_74.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Một điều quan trọng mà Abraham Lincoln làm là gì?",
+        "file": "audio_TQT_100\\vi_74.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "giải phóng nô lệ",
+        "file": "audio_TQT_100\\ex_vi_74.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What did the Emancipation Proclamation do?",
-        "file": "audio_TQT_100/audio_TQT_100_76_col0.mp3"
+        "file": "audio_TQT_100\\en_75.mp3",
+        "type": "en"
     },
     {
         "text": "freed the slaves",
-        "file": "audio_TQT_100/audio_TQT_100_76_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_75.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tuyên Ngôn Giải Phóng làm gì?",
+        "file": "audio_TQT_100\\vi_75.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "giải phóng nô lệ",
+        "file": "audio_TQT_100\\ex_vi_75.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What did Susan B. Anthony do?",
-        "file": "audio_TQT_100/audio_TQT_100_77_col0.mp3"
+        "file": "audio_TQT_100\\en_76.mp3",
+        "type": "en"
     },
     {
         "text": "fought for civil rights",
-        "file": "audio_TQT_100/audio_TQT_100_77_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_76.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Bà Susan B. Anthony làm gì?",
+        "file": "audio_TQT_100\\vi_76.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "tranh đấu cho dân quyền",
+        "file": "audio_TQT_100\\ex_vi_76.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one war fought by the United States in the 1900s.",
-        "file": "audio_TQT_100/audio_TQT_100_78_col0.mp3"
+        "file": "audio_TQT_100\\en_77.mp3",
+        "type": "en"
     },
     {
         "text": "Vietnam War",
-        "file": "audio_TQT_100/audio_TQT_100_78_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_77.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết một cuộc chiến mà Hoa Kỳ tham dự vào thập niên 1900.",
+        "file": "audio_TQT_100\\vi_77.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chiến tranh Việt Nam",
+        "file": "audio_TQT_100\\ex_vi_77.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who was President during World War I?",
-        "file": "audio_TQT_100/audio_TQT_100_79_col0.mp3"
+        "file": "audio_TQT_100\\en_78.mp3",
+        "type": "en"
     },
     {
         "text": "Woodrow Wilson",
-        "file": "audio_TQT_100/audio_TQT_100_79_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_78.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai là Tổng Thống trong Thế Chiến Thứ Nhất?",
+        "file": "audio_TQT_100\\vi_78.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Woodrow Wilson",
+        "file": "audio_TQT_100\\ex_vi_78.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who was President during the Great Depression and World War II?",
-        "file": "audio_TQT_100/audio_TQT_100_80_col0.mp3"
+        "file": "audio_TQT_100\\en_79.mp3",
+        "type": "en"
     },
     {
         "text": "Franklin Roosevelt",
-        "file": "audio_TQT_100/audio_TQT_100_80_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_79.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ai là Tổng Thống trong thời kỳ Khủng Hoảng Kinh Tế và Thế Chiến Thứ Hai?",
+        "file": "audio_TQT_100\\vi_79.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "(Franklin) Roosevelt",
+        "file": "audio_TQT_100\\ex_vi_79.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Who did the United States fight in World War II?",
-        "file": "audio_TQT_100/audio_TQT_100_81_col0.mp3"
+        "file": "audio_TQT_100\\en_80.mp3",
+        "type": "en"
     },
     {
         "text": "Japan, Germany, and Italy",
-        "file": "audio_TQT_100/audio_TQT_100_81_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_80.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Trong Thế Chiến Thứ Hai, Hoa Kỳ chiến đấu chống các nước nào?",
+        "file": "audio_TQT_100\\vi_80.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Nhật Bản, Đức và Ý",
+        "file": "audio_TQT_100\\ex_vi_80.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Before he was President, Eisenhower was a general. What war was he in?",
-        "file": "audio_TQT_100/audio_TQT_100_82_col0.mp3"
+        "file": "audio_TQT_100\\en_81.mp3",
+        "type": "en"
     },
     {
         "text": "World War II",
-        "file": "audio_TQT_100/audio_TQT_100_82_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_81.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Trước khi trở thành Tổng Thống, Eisenhower là tướng lãnh. Ông đã chiến đấu trong cuộc chiến nào?",
+        "file": "audio_TQT_100\\vi_81.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thế Chiến Thứ Hai",
+        "file": "audio_TQT_100\\ex_vi_81.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "During the Cold War, what was the main concern of the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_83_col0.mp3"
+        "file": "audio_TQT_100\\en_82.mp3",
+        "type": "en"
     },
     {
         "text": "Communism",
-        "file": "audio_TQT_100/audio_TQT_100_83_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_82.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Trong thời kỳ Chiến Tranh Lạnh, quan tâm chính của Hoa Kỳ là gì?",
+        "file": "audio_TQT_100\\vi_82.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Chủ Nghĩa Cộng Sản",
+        "file": "audio_TQT_100\\ex_vi_82.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What movement tried to end racial discrimination?",
-        "file": "audio_TQT_100/audio_TQT_100_84_col0.mp3"
+        "file": "audio_TQT_100\\en_83.mp3",
+        "type": "en"
     },
     {
         "text": "civil rights movement",
-        "file": "audio_TQT_100/audio_TQT_100_84_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_83.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Phong trào nào tìm cách chấm dứt sự phân biệt chủng tộc?",
+        "file": "audio_TQT_100\\vi_83.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "(phong trào) dân quyền",
+        "file": "audio_TQT_100\\ex_vi_83.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What did Martin Luther King, Jr. do?",
-        "file": "audio_TQT_100/audio_TQT_100_85_col0.mp3"
+        "file": "audio_TQT_100\\en_84.mp3",
+        "type": "en"
     },
     {
         "text": "fought for civil rights",
-        "file": "audio_TQT_100/audio_TQT_100_85_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_84.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Martin Luther King, Jr. đã làm gì?",
+        "file": "audio_TQT_100\\vi_84.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "tranh đấu cho dân quyền",
+        "file": "audio_TQT_100\\ex_vi_84.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What major event happened on September 11, 2001, in the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_86_col0.mp3"
+        "file": "audio_TQT_100\\en_85.mp3",
+        "type": "en"
     },
     {
         "text": "Terrorists attacked the United States.",
-        "file": "audio_TQT_100/audio_TQT_100_86_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_85.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Biến cố lớn lao nào xảy ra vào ngày 11 tháng 9 năm 2001 tại Hoa Kỳ?",
+        "file": "audio_TQT_100\\vi_85.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Bọn khủng bố tấn công Hoa Kỳ",
+        "file": "audio_TQT_100\\ex_vi_85.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one American Indian tribe in the United States.",
-        "file": "audio_TQT_100/audio_TQT_100_87_col0.mp3"
+        "file": "audio_TQT_100\\en_86.mp3",
+        "type": "en"
     },
     {
         "text": "Cherokee",
-        "file": "audio_TQT_100/audio_TQT_100_87_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_86.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Kể tên một bộ lạc người Mỹ bản địa.",
+        "file": "audio_TQT_100\\vi_86.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Cherokee",
+        "file": "audio_TQT_100\\ex_vi_86.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one of the two longest rivers in the United States.",
-        "file": "audio_TQT_100/audio_TQT_100_88_col0.mp3"
+        "file": "audio_TQT_100\\en_87.mp3",
+        "type": "en"
     },
     {
         "text": "Mississippi River",
-        "file": "audio_TQT_100/audio_TQT_100_88_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_87.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết một trong hai con sông dài nhất ở Hoa Kỳ.",
+        "file": "audio_TQT_100\\vi_87.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Sông Mississippi",
+        "file": "audio_TQT_100\\ex_vi_87.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What ocean is on the West Coast of the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_89_col0.mp3"
+        "file": "audio_TQT_100\\en_88.mp3",
+        "type": "en"
     },
     {
         "text": "Pacific Ocean",
-        "file": "audio_TQT_100/audio_TQT_100_89_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_88.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Biển nào ở bờ biển phía Tây Hoa Kỳ?",
+        "file": "audio_TQT_100\\vi_88.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Thái Bình Dương",
+        "file": "audio_TQT_100\\ex_vi_88.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What ocean is on the East Coast of the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_90_col0.mp3"
+        "file": "audio_TQT_100\\en_89.mp3",
+        "type": "en"
     },
     {
         "text": "Atlantic Ocean",
-        "file": "audio_TQT_100/audio_TQT_100_90_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_89.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Biển nào ở bờ biển phía Đông Hoa Kỳ?",
+        "file": "audio_TQT_100\\vi_89.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Đại Tây Dương",
+        "file": "audio_TQT_100\\ex_vi_89.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one U.S. territory.",
-        "file": "audio_TQT_100/audio_TQT_100_91_col0.mp3"
+        "file": "audio_TQT_100\\en_90.mp3",
+        "type": "en"
     },
     {
         "text": "Guam",
-        "file": "audio_TQT_100/audio_TQT_100_91_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_90.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết một lãnh thổ hải ngoại của Hoa Kỳ.",
+        "file": "audio_TQT_100\\vi_90.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Guam",
+        "file": "audio_TQT_100\\ex_vi_90.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one state that borders Canada.",
-        "file": "audio_TQT_100/audio_TQT_100_92_col0.mp3"
+        "file": "audio_TQT_100\\en_91.mp3",
+        "type": "en"
     },
     {
         "text": "New York",
-        "file": "audio_TQT_100/audio_TQT_100_92_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_91.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết một trong những tiểu bang ráp ranh Canada.",
+        "file": "audio_TQT_100\\vi_91.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "New York",
+        "file": "audio_TQT_100\\ex_vi_91.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name one state that borders Mexico.",
-        "file": "audio_TQT_100/audio_TQT_100_93_col0.mp3"
+        "file": "audio_TQT_100\\en_92.mp3",
+        "type": "en"
     },
     {
         "text": "California",
-        "file": "audio_TQT_100/audio_TQT_100_93_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_92.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết một trong những tiểu bang ráp ranh Mexico.",
+        "file": "audio_TQT_100\\vi_92.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "California",
+        "file": "audio_TQT_100\\ex_vi_92.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the capital of the United States?",
-        "file": "audio_TQT_100/audio_TQT_100_94_col0.mp3"
+        "file": "audio_TQT_100\\en_93.mp3",
+        "type": "en"
     },
     {
         "text": "Washington, D.C.",
-        "file": "audio_TQT_100/audio_TQT_100_94_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_93.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Thủ đô của Hoa Kỳ tên gì?",
+        "file": "audio_TQT_100\\vi_93.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Washington, D.C.",
+        "file": "audio_TQT_100\\ex_vi_93.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Where is the Statue of Liberty?",
-        "file": "audio_TQT_100/audio_TQT_100_95_col0.mp3"
+        "file": "audio_TQT_100\\en_94.mp3",
+        "type": "en"
     },
     {
         "text": "New York Harbor",
-        "file": "audio_TQT_100/audio_TQT_100_95_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_94.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tượng Nữ Thần Tự Do ở đâu?",
+        "file": "audio_TQT_100\\vi_94.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "(Hải Cảng) New York",
+        "file": "audio_TQT_100\\ex_vi_94.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Why does the flag have 13 stripes?",
-        "file": "audio_TQT_100/audio_TQT_100_96_col0.mp3"
+        "file": "audio_TQT_100\\en_95.mp3",
+        "type": "en"
     },
     {
         "text": "because there were 13 original colonies",
-        "file": "audio_TQT_100/audio_TQT_100_96_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_95.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tại sao lá cờ Hoa Kỳ có 13 lằn gạch?",
+        "file": "audio_TQT_100\\vi_95.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "vì có 13 tiểu bang thuộc địa đầu tiên",
+        "file": "audio_TQT_100\\ex_vi_95.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Why does the flag have 50 stars?",
-        "file": "audio_TQT_100/audio_TQT_100_97_col0.mp3"
+        "file": "audio_TQT_100\\en_96.mp3",
+        "type": "en"
     },
     {
         "text": "because there are 50 states",
-        "file": "audio_TQT_100/audio_TQT_100_97_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_96.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tại sao lá cờ Hoa Kỳ có 50 ngôi sao?",
+        "file": "audio_TQT_100\\vi_96.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "bởi vì có 50 tiểu bang",
+        "file": "audio_TQT_100\\ex_vi_96.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "What is the name of the national anthem?",
-        "file": "audio_TQT_100/audio_TQT_100_98_col0.mp3"
+        "file": "audio_TQT_100\\en_97.mp3",
+        "type": "en"
     },
     {
         "text": "The Star-Spangled Banner",
-        "file": "audio_TQT_100/audio_TQT_100_98_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_97.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Tên bài quốc ca Hoa Kỳ là gì?",
+        "file": "audio_TQT_100\\vi_97.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "The Star-Spangled Banner",
+        "file": "audio_TQT_100\\ex_vi_97.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "When do we celebrate Independence Day?",
-        "file": "audio_TQT_100/audio_TQT_100_99_col0.mp3"
+        "file": "audio_TQT_100\\en_98.mp3",
+        "type": "en"
     },
     {
         "text": "July 4",
-        "file": "audio_TQT_100/audio_TQT_100_99_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_98.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Ngày nào là ngày Lễ Độc Lập?",
+        "file": "audio_TQT_100\\vi_98.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "4 Tháng Bẩy",
+        "file": "audio_TQT_100\\ex_vi_98.mp3",
+        "type": "ex_vi"
     },
     {
         "text": "Name two national U.S. holidays.",
-        "file": "audio_TQT_100/audio_TQT_100_100_col0.mp3"
+        "file": "audio_TQT_100\\en_99.mp3",
+        "type": "en"
     },
     {
         "text": "Thanksgiving, Christmas",
-        "file": "audio_TQT_100/audio_TQT_100_100_col3.mp3"
+        "file": "audio_TQT_100\\ex_en_99.mp3",
+        "type": "ex_en"
+    },
+    {
+        "text": "Cho biết hai ngày lễ quốc gia của Hoa Kỳ.",
+        "file": "audio_TQT_100\\vi_99.mp3",
+        "type": "vi"
+    },
+    {
+        "text": "Lễ Tạ Ơn, Lễ Giáng Sinh",
+        "file": "audio_TQT_100\\ex_vi_99.mp3",
+        "type": "ex_vi"
     }
 ]
