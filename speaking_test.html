@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Language Learning</title>
+    <title>Kiểm Tra Nói Tiếng Anh</title>
     <style>    
         body {
             font-family: 'Arial', sans-serif;
@@ -48,14 +48,12 @@
         .example_vi {
             color: #21a1f1;
         }
-        input, button {
+        button {
             margin: 5px;
             padding: 10px;
             font-size: 16px;
             border: none;
             border-radius: 4px;
-        }        
-        button {
             background-color: #61dafb;
             color: #282c34;
             cursor: pointer;
@@ -70,56 +68,6 @@
             text-align: center;
             font-weight: bold;
             margin: 10px 0;
-        }
-        #answerInput {
-            width: 80%;
-            max-width: 600px;
-            margin: 20px auto;
-            display: block;
-        }
-        #answerInput, #writingCheckBack {
-            width: 80%;
-            max-width: 800px;
-            height: 40px;
-            margin: 20px auto;
-            display: block;
-            padding: 10px;
-            font-size: 20px;
-            border: none;
-            border-radius: 4px;
-            background-color: #1c2025;
-            color: #61dafb;
-            resize: vertical;
-            overflow-y: auto;
-        }
-        #vocabLabel {
-            font-size: 24px;
-            margin: 20px 0;
-            border: 2px solid #61dafb;
-            padding: 20px;
-            text-align: center;
-            max-width: 800px;
-            margin: 0 auto;
-            overflow-y: auto;
-            max-height: 400px;
-            background-color: #1c2025;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        #checkAnswerButton, #checkAnswerBackButton, #speakCheckButton {
-            display: inline-block;
-            margin: 10px 5px;
-            padding: 10px 20px;
-            font-size: 16px;
-            border: none;
-            border-radius: 4px;
-            background-color: #61dafb;
-            color: #282c34;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        #checkAnswerButton:hover, #checkAnswerBackButton:hover, #speakCheckButton:hover {
-            background-color: #21a1f1;
         }
         #notification {
             display: none;
@@ -140,8 +88,9 @@
         }
         
         #recognizedSpeech {
-            color: #61dafb;
-            font-weight: bold;
+            color: lightgreen;
+            font-weight: bold;    
+            font-size: 20px;
         }
         
         .controls {
@@ -150,51 +99,18 @@
             gap: 10px;
             margin-bottom: 20px;
         }
-        #lessonSelector {
-            padding: 10px;
-            font-size: 14px;
-            margin-bottom: 20px;
-        }
+        
         #speechResult {
-    	    background-color: #1c2025;
-    	    padding: 3px;
-    	    border-radius: 4px;
-    	    margin: 10px auto;
-    	    text-align: center;
-    	    max-width: 600px;
-    	    font-size: 14px;
-    	    display: none;
-	    }
-	    #recognizedSpeech {
-    	    color: lightgreen;
-            font-weight: bold;    
-    	    font-size: 20px;
-	    }
-        #notification {
-            display: none;
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            padding: 10px 20px;
+            background-color: #1c2025;
+            padding: 3px;
+            border-radius: 4px;
+            margin: 10px auto;
             text-align: center;
-            border-radius: 8px;
-            font-size: 18px;
-            font-weight: bold;
-            color: white;
-            background-color: #f44336;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-            z-index: 1000;
-            max-width: 90%;
+            max-width: 600px;
+            font-size: 14px;
+            display: none;
         }
         
-        /* Style cho checkbox */
-        label {
-            margin: 0 10px;
-            cursor: pointer;
-            user-select: none;
-        }
-
         .session-controls {
             background-color: #1c2025;
             padding: 15px;
@@ -215,15 +131,30 @@
             border-radius: 4px;
             text-align: center;
         }
-
-        #appSelector {
-            font-size: 14px;
-            border: 1px solid #555;
-            cursor: pointer;
-            transition: all 0.3s;
+        
+        #recognitionThreshold {
+            width: 100%;
+            margin: 10px 0;
         }
-        #appSelector:hover {
-            background: #444 !important;
+        
+        .threshold-control {
+            background-color: #1c2025;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px auto;
+            max-width: 600px;
+        }
+        
+        .threshold-control label {
+            display: block;
+            margin-bottom: 10px;
+            color: #61dafb;
+        }
+        
+        .threshold-value {
+            color: lightgreen;
+            font-weight: bold;
+            margin-left: 10px;
         }
     </style>
 </head>
@@ -232,68 +163,78 @@
         <select id="appSelector" onchange="switchApp()" style="padding: 8px; border-radius: 5px; background: #333; color: white;">
           <option value="">-- Select App --</option>
           <option value="ViEnSpeaking.html">Luyện Nói Vi-En</option>
-          <option value="test_offline.html"selected>Học Ngoại Ngữ</option>
-          <option value="speaking_test.html">Kiểm Tra Nói</option>
-          <option value="help.html">Help/Trợ giúp</option>
+          <option value="test_offline.html">Học Ngoại Ngữ</option>
+          <option value="speaking_test.html" selected>Kiểm Tra Nói</option>
         </select>
     </div>
-<div style="text-align: center;">
+    <h1>Kiểm Tra Nói Tiếng Anh</h1>
+    
     <div id="questionCounter">Câu hỏi: 0/0</div>
-</div>
-<div id="vocabLabel">Không có từ vựng nào được thêm.</div>
+    <div id="vocabLabel">Không có từ vựng nào được thêm.</div>
 
-<!--Nhóm các nút đổi màu-->
-<div style="text-align: center;">
-<label>  
-    <input type="checkbox" onchange="toggleVisibility('term')"> Ẩn En  
-</label>  
-<label>  
-    <input type="checkbox" onchange="toggleVisibility('ipa')"> Ẩn IPA  
-</label>  
-<label>  
-    <input type="checkbox" onchange="toggleVisibility('vietnamese')"> Ẩn Vi  
-</label>
-<label>  
-    <input type="checkbox" id="autoCheckToggle" checked onchange="toggleAutoCheck()"> Tự động kiểm tra  
-</label>
-</div>
+    <!-- Nhóm các nút đổi màu -->
+    <div style="text-align: center;">
+        <label>  
+            <input type="checkbox" onchange="toggleVisibility('term')"> Ẩn En  
+        </label>  
+        <label>  
+            <input type="checkbox" onchange="toggleVisibility('ipa')"> Ẩn IPA  
+        </label>  
+        <label>  
+            <input type="checkbox" onchange="toggleVisibility('vietnamese')"> Ẩn Vi  
+        </label>
+        <label>  
+            <input type="checkbox" id="autoCheckToggle" checked onchange="toggleAutoCheck()"> Tự động kiểm tra  
+        </label>
+    </div>
 
-<div id="notification"></div>
-<div id="speechResult">
-    <p><span id="recognizedSpeech"></span></p>
-</div>
+    <div id="notification"></div>
+    <div id="speechResult">
+        <p><span id="recognizedSpeech"></span></p>
+    </div>
 
-<textarea id="answerInput" placeholder="Kiểm Tra Viết Câu Hỏi (V1)" onkeydown="handleKeyDown(event)"></textarea>
-<textarea id="writingCheckBack" placeholder="Kiểm Tra Viết Câu Trả Lời (V2)" onkeydown="handleKeyDownBack(event)"></textarea>
+    <!-- Nhóm các nút kiểm tra nói -->
+    <div style="text-align: center;">
+        <button id="speakFrontButton" onclick="startSpeechRecognition('front')">Nói mặt trước</button>
+        <button id="speakBackButton" onclick="startSpeechRecognition('back')">Nói mặt sau</button>
+    </div>
 
-<!-- Nhóm các nút kiểm tra -->
-<div style="text-align: center;">
-    <button id="checkAnswerButton" onclick="checkAnswer()">V1</button>
-    <button id="checkAnswerBackButton" onclick="checkAnswerBack()">V2</button>
-    <button id="speakCheckFrontButton" onclick="startSpeechRecognitionFront()">Nói</button>    
-</div>
+    <!-- Điều khiển thẻ -->
+    <div style="text-align: center;">
+        <button onclick="prevWord()">Trước</button>
+        <button onclick="flipCard()">Lật Thẻ</button>
+        <button onclick="nextWord()">Tiếp Theo</button>
+        <button id="repeatButton" onclick="repeatPronunciation()">Lặp Lại</button>
+        <button id="autoFlipButton" onclick="toggleAutoFlip()">Tự Động</button>
+        <button id="toggleModeButton" onclick="toggleMode()">Thứ Tự</button>
+    </div>
 
-<div style="text-align: center;">
-    <button onclick="prevWord()">Trước</button>
-    <button onclick="flipCard()">Lật Thẻ</button>
-    <button onclick="nextWord()">Tiếp Theo</button>
-    <button id="repeatButton" onclick="repeatPronunciation()">Lặp Lại</button>
-    <button id="autoFlipButton" onclick="toggleAutoFlip()">Tự Động</button>
-    <button id="toggleModeButton" onclick="toggleMode()">Thứ Tự</button>
-</div> 
+    <!-- Điều khiển phiên học -->
+    <div class="session-controls" style="text-align: center;">
+        <select id="lessonSelector" onchange="loadLesson()">
+            <!-- Các tùy chọn sẽ được thêm tự động từ json_list.json -->
+        </select>
+        <input type="number" id="rangeStart" placeholder="Từ câu" min="1" style="width: 80px;">
+        <span>đến</span>
+        <input type="number" id="rangeEnd" placeholder="Đến câu" min="1" style="width: 80px;">
+        <button onclick="startRangeSession()" style="padding: 8px 15px;">Bắt đầu</button>
+        <button onclick="resetSession()" style="margin-top: 10px; padding: 8px 15px;">Reset Phiên Học</button>
+    </div>
+    
+    <!-- Điều chỉnh ngưỡng nhận dạng giọng nói -->
+    <div class="threshold-control">
+        <label for="recognitionThreshold">Độ khó nhận dạng giọng nói: 
+            <span id="thresholdValue" class="threshold-value">70%</span>
+        </label>
+        <input type="range" id="recognitionThreshold" min="50" max="100" value="70" 
+               oninput="updateThresholdValue(this.value)">
+        <div style="display: flex; justify-content: space-between; margin-top: 5px;">
+            <span>Dễ</span>
+            <span>Trung bình</span>
+            <span>Khó</span>
+        </div>
+    </div>
 
-<div style="text-align: center;">
-    <!-- Dropdown để chọn bài học -->
-    <select id="lessonSelector" onchange="loadLesson()">
-        <!-- Các tùy chọn sẽ được thêm tự động từ json_list.json -->
-    </select>
-    <input type="number" id="rangeStart" placeholder="Từ câu" min="1" style="width: 80px;">
-    <span>đến</span>
-    <input type="number" id="rangeEnd" placeholder="Đến câu" min="1" style="width: 80px;">
-    <button onclick="startRangeSession()" style="padding: 8px 15px;">Bắt đầu</button>
-    <button onclick="resetSession()" style="margin-top: 10px; padding: 8px 15px;">Reset Phiên Học</button>
-</div>
- 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
 
@@ -311,14 +252,17 @@
     let isSpeechRecognitionActive = false;
     let sessionVocabList = [];
     let sessionStartIndex = 0;
-    let isAutoCheckEnabled = false;
-    let typingTimer;
-    const doneTypingInterval = 1500;
-
+    let isAutoCheckEnabled = true;
+    let recognitionThreshold = 0.7; // Ngưỡng nhận dạng mặc định 70%
     let lessons = [];
     let hiddenElements = { term: false, ipa: false, vietnamese: false };
     let askedIndices = [];
     let isRandomCycleComplete = false;
+
+    function updateThresholdValue(value) {
+        recognitionThreshold = value / 100;
+        document.getElementById('thresholdValue').textContent = value + '%';
+    }
 
     function toggleAutoCheck() {
         isAutoCheckEnabled = !isAutoCheckEnabled;
@@ -327,12 +271,6 @@
         notification.style.display = 'block';
         notification.style.backgroundColor = isAutoCheckEnabled ? '#4caf50' : '#f44336';
         setTimeout(() => notification.style.display = 'none', 2000);
-        
-        if (!isAutoCheckEnabled) {
-            clearTimeout(typingTimer);
-            document.getElementById('answerInput').classList.remove('typing');
-            document.getElementById('writingCheckBack').classList.remove('typing');
-        }
     }
 
     function startRangeSession() {
@@ -459,10 +397,6 @@
             document.getElementById('vocabLabel').innerHTML = isFront ? frontCard : backCard;  
             const pronunciationText = isFront ? word[0].toString() : word[3].toString();  
             playPronunciation(pronunciationText);  
-            
-            document.getElementById('answerInput').classList.remove('typing', 'checked');
-            document.getElementById('writingCheckBack').classList.remove('typing', 'checked');
-            clearTimeout(typingTimer);
         } else {  
             document.getElementById('vocabLabel').innerText = "Tất cả từ vựng đã hoàn thành.";  
         }  
@@ -575,29 +509,16 @@
             case 'ArrowUp':
                 repeatPronunciation();
                 break;            
+            case ' ':
+                startSpeechRecognition(isFront ? 'front' : 'back');
+                break;
             case 'End':
-                startSpeechRecognitionFront();
+                startSpeechRecognition('back');
                 break;
             default:
                 break;
         }
     });
-
-    function handleKeyDown(event) {
-        if (event.key === 'Enter' && !event.shiftKey) {
-            event.preventDefault();
-            clearTimeout(typingTimer);
-            checkAnswer();
-        }
-    }
-
-    function handleKeyDownBack(event) {
-        if (event.key === 'Enter' && !event.shiftKey) {
-            event.preventDefault();
-            clearTimeout(typingTimer);
-            checkAnswerBack();
-        }
-    }
 
     function showNotification(message, isCorrect) {
         const notification = document.getElementById('notification');
@@ -724,98 +645,22 @@
             .trim();
     }
 
-    function checkAnswer() {
-        const answerInput = document.getElementById('answerInput');
-        const userAnswer = normalizeText(answerInput.value.toString().trim().toLowerCase());
-        const word = vocabList[currentIndex];
-        const expectedText = isFront ? word[0] : word[3];
-        const normalizedExpectedText = normalizeText(expectedText.toString().trim().toLowerCase());
-
-        if (userAnswer === normalizedExpectedText) {
-            showNotification("Đúng!", true);
-            
-            playPronunciation(expectedText);
-            if (audio) {
-                audio.once('end', function() {
-                    setTimeout(() => {
-                        if (isFront) {
-                            flipCard();
-                        } else {
-                            nextWord();
-                        }
-                    }, 1000);
-                });
-            } else {
-                setTimeout(() => {
-                    if (isFront) {
-                        flipCard();
-                    } else {
-                        nextWord();
-                    }
-                }, 4000);
-            }
-            
-        } else {
-            showNotification("Sai!", false);
-            playPronunciation(expectedText);
-        }
-        answerInput.value = '';
-        answerInput.classList.remove('typing', 'checked');
+    function calculateSimilarity(str1, str2) {
+        // Hàm tính độ tương đồng giữa 2 chuỗi (0-1)
+        const set1 = new Set(str1.split(' '));
+        const set2 = new Set(str2.split(' '));
+        const intersection = new Set([...set1].filter(x => set2.has(x)));
+        const union = new Set([...set1, ...set2]);
+        return intersection.size / union.size;
     }
 
-    function checkAnswerBack() {
-        const currentExample = normalizeText(vocabList[currentIndex][3].toString().trim().toLowerCase());
-        const userAnswerBack = normalizeText(document.getElementById("writingCheckBack").value.trim().toLowerCase());
-        document.getElementById("writingCheckBack").value = "";
-        document.getElementById("writingCheckBack").classList.remove('typing', 'checked');
-
-        if (userAnswerBack === currentExample) {
-            showNotification("Đúng!", true);
-            document.getElementById('vocabLabel').innerHTML = `
-                <div class="card">
-                    <span class="example">${vocabList[currentIndex][3]}</span><br>
-                    <span class="example_ipa">${vocabList[currentIndex][4]}</span><br>
-                    <span class="example_vi">${vocabList[currentIndex][5]}</span>
-                </div>
-            `;
-            
-            playPronunciation(vocabList[currentIndex][3]);
-            if (audio) {
-                audio.once('end', function() {
-                    setTimeout(() => {
-                        nextWord();
-                    }, 1000);
-                });
-            } else {
-                setTimeout(() => {
-                    nextWord();
-                }, 4000);
-            }
-            
-        } else {
-            document.getElementById('vocabLabel').innerHTML = `
-                <div class="card">
-                    <span class="example">${vocabList[currentIndex][3]}</span><br>
-                    <span class="example_ipa">${vocabList[currentIndex][4]}</span><br>
-                    <span class="example_vi">${vocabList[currentIndex][5]}</span>
-                </div>
-            `;
-            showNotification("Sai!", false);
-            playPronunciation(vocabList[currentIndex][3]);
-        }
-    }
-
-    function startSpeechRecognitionFront() {
+    function startSpeechRecognition(side) {
         if (!('webkitSpeechRecognition' in window)) {
             alert("Trình duyệt của bạn không hỗ trợ nhận diện giọng nói.");
             return;
         }
 
-        const activeElement = document.activeElement;
-        const isV1 = activeElement.id === 'answerInput';
-        const isV2 = activeElement.id === 'writingCheckBack';
-
-        const recognition = new webkitSpeechRecognition();
+        recognition = new webkitSpeechRecognition();
         recognition.lang = 'en-US';
         recognition.interimResults = false;
         recognition.maxAlternatives = 1;
@@ -827,22 +672,43 @@
 
         recognition.onresult = function(event) {
             const speechResult = event.results[0][0].transcript;
-            
-            if (isV1) {
-                document.getElementById('answerInput').value = speechResult;
-                document.getElementById('answerInput').classList.add('typing');
-                setTimeout(() => {
-                    handleTypingDoneV1();
-                }, doneTypingInterval);
-            } else if (isV2) {
-                document.getElementById('writingCheckBack').value = speechResult;
-                document.getElementById('writingCheckBack').classList.add('typing');
-                setTimeout(() => {
-                    handleTypingDoneV2();
-                }, doneTypingInterval);
-            }
-            
             document.getElementById('recognizedSpeech').textContent = speechResult;
+            
+            const word = vocabList[currentIndex];
+            const expectedText = side === 'front' ? word[0] : word[3];
+            const normalizedExpectedText = normalizeText(expectedText.toString());
+            const normalizedSpeechResult = normalizeText(speechResult.toString());
+            
+            const similarity = calculateSimilarity(normalizedSpeechResult, normalizedExpectedText);
+            const isCorrect = similarity >= recognitionThreshold;
+            
+            if (isCorrect) {
+                showNotification(`Đúng! (Độ chính xác: ${Math.round(similarity * 100)}%)`, true);
+                playPronunciation(expectedText);
+                
+                if (audio) {
+                    audio.once('end', function() {
+                        setTimeout(() => {
+                            if (side === 'front') {
+                                flipCard();
+                            } else {
+                                nextWord();
+                            }
+                        }, 1000);
+                    });
+                } else {
+                    setTimeout(() => {
+                        if (side === 'front') {
+                            flipCard();
+                        } else {
+                            nextWord();
+                        }
+                    }, 4000);
+                }
+            } else {
+                showNotification(`Sai! (Độ chính xác: ${Math.round(similarity * 100)}%)`, false);
+                playPronunciation(expectedText);
+            }
             
             recognition.stop();
         };
@@ -856,66 +722,6 @@
         recognition.start();
     }
 
-    function handleTypingDoneV1() {
-        if (!isAutoCheckEnabled) return;
-        const input = document.getElementById('answerInput');
-        if (input.value.trim() !== '') {
-            input.classList.add('checked');
-            input.classList.remove('typing');
-            checkAnswer();
-        }
-    }
-
-    function handleTypingDoneV2() {
-        if (!isAutoCheckEnabled) return;
-        const input = document.getElementById('writingCheckBack');
-        if (input.value.trim() !== '') {
-            input.classList.add('checked');
-            input.classList.remove('typing');
-            checkAnswerBack();
-        }
-    }
-
-    document.getElementById('answerInput').addEventListener('input', function() {
-        if (!isAutoCheckEnabled) {
-            this.classList.remove('typing');
-            clearTimeout(typingTimer);
-            return;
-        }
-        
-        this.classList.add('typing');
-        clearTimeout(typingTimer);
-        typingTimer = setTimeout(() => {
-            if (isAutoCheckEnabled) {
-                handleTypingDoneV1();
-            }
-        }, doneTypingInterval);
-    });
-
-    document.getElementById('writingCheckBack').addEventListener('input', function() {
-        if (!isAutoCheckEnabled) {
-            this.classList.remove('typing');
-            clearTimeout(typingTimer);
-            return;
-        }
-        
-        this.classList.add('typing');
-        clearTimeout(typingTimer);
-        typingTimer = setTimeout(() => {
-            if (isAutoCheckEnabled) {
-                handleTypingDoneV2();
-            }
-        }, doneTypingInterval);
-    });
-
-    document.getElementById('answerInput').addEventListener('keydown', function() {
-        clearTimeout(typingTimer);
-    });
-
-    document.getElementById('writingCheckBack').addEventListener('keydown', function() {
-        clearTimeout(typingTimer);
-    });
-    
     window.onload = function () {
         loadLessonList();
     };

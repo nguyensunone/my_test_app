@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help - Language Learning App</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        
+        h1 {
+            text-align: center;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        
+        h2 {
+            border-left: 5px solid #3498db;
+            padding-left: 10px;
+            margin-top: 30px;
+        }
+        
+        .section {
+            background-color: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        .feature {
+            margin-bottom: 15px;
+        }
+        
+        .feature-title {
+            font-weight: bold;
+            color: #2980b9;
+            margin-bottom: 5px;
+        }
+        
+        .language-toggle {
+            text-align: center;
+            margin: 20px 0;
+        }
+        
+        .language-btn {
+            padding: 8px 15px;
+            margin: 0 5px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        
+        .language-btn.active {
+            background-color: #2980b9;
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        .shortcut {
+            display: flex;
+            margin-bottom: 10px;
+        }
+        
+        .shortcut-key {
+            background-color: #e0e0e0;
+            padding: 3px 8px;
+            border-radius: 4px;
+            margin-right: 10px;
+            min-width: 100px;
+            text-align: center;
+            font-family: monospace;
+        }
+        
+        .troubleshooting-item {
+            margin-bottom: 15px;
+        }
+        
+        .problem {
+            font-weight: bold;
+            color: #e74c3c;
+        }
+        
+        .solution {
+            margin-left: 20px;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #7f8c8d;
+        }
+        
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            
+            .section {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="language-toggle">
+        <button class="language-btn active" onclick="showLanguage('en')">English</button>
+        <button class="language-btn" onclick="showLanguage('vi')">Tiếng Việt</button>
+    </div>
+
+    <!-- English Version -->
+    <div id="en-content">
+        <h1>Language Learning App - Help Guide</h1>
+        
+        <div class="section">
+            <h2>1. Introduction</h2>
+            <p>This application helps you learn vocabulary in English and Vietnamese through flashcards, pronunciation practice, and writing exercises. The app features multiple learning modes and customization options to enhance your language learning experience.</p>
+        </div>
+        
+        <div class="section">
+            <h2>2. Features</h2>
+            
+            <div class="feature">
+                <div class="feature-title">2.1. Flashcard Learning</div>
+                <p><strong>Front Side (V1):</strong> Displays English word, IPA pronunciation, and Vietnamese meaning.</p>
+                <p><strong>Back Side (V2):</strong> Shows example sentence, IPA, and Vietnamese translation.</p>
+                <p>Click the "Flip Card" button or press the Down Arrow key to switch between sides.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.2. Pronunciation Practice</div>
+                <p>Each word and example sentence comes with audio pronunciation.</p>
+                <p>Click <strong>"Repeat"</strong> to hear the pronunciation again.</p>
+                <p>Enable <strong>"Auto Mode"</strong> to automatically play pronunciation and flip cards.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.3. Writing Practice</div>
+                <p><strong>V1:</strong> Type the English word or sentence shown on the front side.</p>
+                <p><strong>V2:</strong> Type the example sentence from the back side.</p>
+                <p>The app will check your answer and provide feedback.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.4. Speech Recognition</div>
+                <p>Click <strong>"Speak"</strong> to practice pronunciation. The app will check if your speech matches the correct answer.</p>
+                <p>Works best in Chrome and Edge browsers.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.5. Customization</div>
+                <p><strong>Hide Elements:</strong> Toggle to hide English, IPA, or Vietnamese text for active recall practice.</p>
+                <p><strong>Auto-Check:</strong> Automatically checks your answer after typing (with 1.5 second delay).</p>
+                <p><strong>Order Mode:</strong> Switch between sequential or random word order.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.6. Lesson Selection</div>
+                <p>Use the dropdown menu to select different vocabulary lessons.</p>
+                <p><strong>Range Selection:</strong> Practice specific words by entering start and end numbers.</p>
+                <p>Click <strong>"Reset Session"</strong> to return to the full lesson.</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>3. Keyboard Shortcuts</h2>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Left Arrow (←)</div>
+                <div>Previous word</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Right Arrow (→)</div>
+                <div>Next word</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Up Arrow (↑)</div>
+                <div>Repeat pronunciation</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Down Arrow (↓)</div>
+                <div>Flip card</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Enter</div>
+                <div>Submit answer</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">End</div>
+                <div>Start speech recognition</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>4. Troubleshooting</h2>
+            
+            <div class="troubleshooting-item">
+                <div class="problem">No sound?</div>
+                <div class="solution">
+                    <p>1. Check your speaker volume</p>
+                    <p>2. Verify browser permissions allow audio playback</p>
+                    <p>3. Try refreshing the page</p>
+                </div>
+            </div>
+            
+            <div class="troubleshooting-item">
+                <div class="problem">Speech recognition not working?</div>
+                <div class="solution">
+                    <p>1. Use Chrome or Edge for best results</p>
+                    <p>2. Check microphone permissions</p>
+                    <p>3. Ensure you're in a quiet environment</p>
+                </div>
+            </div>
+            
+            <div class="troubleshooting-item">
+                <div class="problem">App not loading vocabulary?</div>
+                <div class="solution">
+                    <p>1. Check your internet connection</p>
+                    <p>2. Try selecting the lesson again</p>
+                    <p>3. Contact support if problem persists</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Vietnamese Version -->
+    <div id="vi-content" class="hidden">
+        <h1>Ứng dụng Học Ngôn ngữ - Hướng dẫn sử dụng</h1>
+        
+        <div class="section">
+            <h2>1. Giới thiệu</h2>
+            <p>Ứng dụng này giúp bạn học từ vựng tiếng Anh và tiếng Việt thông qua thẻ học, luyện phát âm và bài tập viết. Ứng dụng có nhiều chế độ học và tùy chọn cá nhân hóa để nâng cao trải nghiệm học ngôn ngữ của bạn.</p>
+        </div>
+        
+        <div class="section">
+            <h2>2. Tính năng</h2>
+            
+            <div class="feature">
+                <div class="feature-title">2.1. Học bằng thẻ</div>
+                <p><strong>Mặt trước (V1):</strong> Hiển thị từ tiếng Anh, phiên âm IPA và nghĩa tiếng Việt.</p>
+                <p><strong>Mặt sau (V2):</strong> Hiển thị câu ví dụ, phiên âm và bản dịch tiếng Việt.</p>
+                <p>Nhấn nút "Lật Thẻ" hoặc phím Mũi tên Xuống để chuyển đổi giữa hai mặt.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.2. Luyện phát âm</div>
+                <p>Mỗi từ và câu ví dụ đều có phát âm kèm theo.</p>
+                <p>Nhấn <strong>"Lặp Lại"</strong> để nghe phát âm thêm lần nữa.</p>
+                <p>Bật <strong>"Tự Động"</strong> để tự động phát âm thanh và lật thẻ.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.3. Luyện viết</div>
+                <p><strong>V1:</strong> Nhập từ/câu tiếng Anh hiển thị ở mặt trước.</p>
+                <p><strong>V2:</strong> Nhập câu ví dụ từ mặt sau.</p>
+                <p>Ứng dụng sẽ kiểm tra và thông báo kết quả.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.4. Nhận diện giọng nói</div>
+                <p>Nhấn <strong>"Nói"</strong> để luyện phát âm. Ứng dụng sẽ kiểm tra xem bạn nói có đúng không.</p>
+                <p>Hoạt động tốt nhất trên trình duyệt Chrome và Edge.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.5. Tùy chỉnh</div>
+                <p><strong>Ẩn thành phần:</strong> Tắt hiển thị tiếng Anh, IPA hoặc tiếng Việt để tự kiểm tra.</p>
+                <p><strong>Tự động kiểm tra:</strong> Tự động kiểm tra câu trả lời sau khi nhập (sau 1.5 giây).</p>
+                <p><strong>Chế độ thứ tự:</strong> Chuyển đổi giữa học tuần tự hoặc ngẫu nhiên.</p>
+            </div>
+            
+            <div class="feature">
+                <div class="feature-title">2.6. Chọn bài học</div>
+                <p>Sử dụng menu thả xuống để chọn các bài học từ vựng khác nhau.</p>
+                <p><strong>Chọn phạm vi:</strong> Học từ vựng trong khoảng nhất định bằng cách nhập số bắt đầu và kết thúc.</p>
+                <p>Nhấn <strong>"Reset Phiên Học"</strong> để trở về bài học đầy đủ.</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>3. Phím tắt</h2>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Mũi tên Trái (←)</div>
+                <div>Từ trước đó</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Mũi tên Phải (→)</div>
+                <div>Từ tiếp theo</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Mũi tên Lên (↑)</div>
+                <div>Lặp lại phát âm</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Mũi tên Xuống (↓)</div>
+                <div>Lật thẻ</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">Enter</div>
+                <div>Gửi câu trả lời</div>
+            </div>
+            
+            <div class="shortcut">
+                <div class="shortcut-key">End</div>
+                <div>Bật nhận diện giọng nói</div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>4. Khắc phục sự cố</h2>
+            
+            <div class="troubleshooting-item">
+                <div class="problem">Không có âm thanh?</div>
+                <div class="solution">
+                    <p>1. Kiểm tra âm lượng loa</p>
+                    <p>2. Kiểm tra quyền phát âm thanh trên trình duyệt</p>
+                    <p>3. Thử tải lại trang</p>
+                </div>
+            </div>
+            
+            <div class="troubleshooting-item">
+                <div class="problem">Nhận diện giọng nói không hoạt động?</div>
+                <div class="solution">
+                    <p>1. Sử dụng Chrome hoặc Edge để có kết quả tốt nhất</p>
+                    <p>2. Kiểm tra quyền sử dụng microphone</p>
+                    <p>3. Đảm bảo bạn đang ở nơi yên tĩnh</p>
+                </div>
+            </div>
+            
+            <div class="troubleshooting-item">
+                <div class="problem">Ứng dụng không tải từ vựng?</div>
+                <div class="solution">
+                    <p>1. Kiểm tra kết nối internet</p>
+                    <p>2. Thử chọn lại bài học</p>
+                    <p>3. Liên hệ hỗ trợ nếu vấn đề tiếp diễn</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>For further assistance, contact: <strong>support@example.com</strong></p>
+        <p>Để được hỗ trợ thêm, liên hệ: <strong>support@example.com</strong></p>
+    </footer>
+
+    <script>
+        function showLanguage(lang) {
+            // Hide all language contents
+            document.getElementById('en-content').classList.add('hidden');
+            document.getElementById('vi-content').classList.add('hidden');
+            
+            // Remove active class from all buttons
+            const buttons = document.querySelectorAll('.language-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            
+            // Show selected language and activate its button
+            document.getElementById(lang + '-content').classList.remove('hidden');
+            document.querySelector(`.language-btn[onclick="showLanguage('${lang}')"]`).classList.add('active');
+        }
+    </script>
+</body>
+</html>
