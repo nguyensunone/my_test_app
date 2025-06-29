@@ -34,6 +34,11 @@
             "name": "TQT_personal.json",
             "mapping": "mapping_TQT_personal.json",
             "audio": "audio_TQT_personal"
+        },
+        {
+            "name": "US_Citizenship_Interview_QA.json",
+            "mapping": "mapping_US_Citizenship_Interview_QA.json",
+            "audio": "audio_US_Citizenship_Interview_QA"
         }
     ]
 }
