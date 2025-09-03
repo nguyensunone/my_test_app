@@ -318,11 +318,18 @@
 
     function getAndCacheAudio(text) {
         if (audioCache.has(text)) return audioCache.get(text);
+        
+        // Sửa lỗi: Thay đổi URL từ HTTP sang HTTPS để hoạt động trên GitHub
         const url = `https://translate.google.com/translate_tts?ie=UTF-8&q=${encodeURIComponent(text)}&tl=en&client=gtx`;
+        
         const newAudio = new Howl({
             src: [url],
             html5: true,
-            onloaderror: (id, err) => console.error("Lỗi tải âm thanh:", text, err)
+            format: ['mp3'],
+            onloaderror: (id, err) => {
+                console.error("Lỗi tải âm thanh:", text, err);
+                showNotification("Lỗi phát âm thanh. Vui lòng thử lại.", false);
+            }
         });
         audioCache.set(text, newAudio);
         return newAudio;
@@ -381,6 +388,11 @@
                 } else {
                     handlePlaybackCompletion(isForAutoFlip, onCompleteCallback);
                 }
+            });
+            currentAudio.on('playerror', (id, err) => {
+                console.error("Lỗi phát âm thanh:", err);
+                showNotification("Lỗi phát âm thanh. Vui lòng thử lại.", false);
+                handlePlaybackCompletion(isForAutoFlip, onCompleteCallback);
             });
             currentAudio.play();
         } else {
